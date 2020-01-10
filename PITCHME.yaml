@@ -45,11 +45,10 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch Quickstart Sample Deck"
+footnote : "Attractors Consulting - Agile Deck"
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
-
