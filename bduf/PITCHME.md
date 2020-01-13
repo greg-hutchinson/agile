@@ -1,10 +1,22 @@
 
 # Bid Design Up Front (BDUF)
 ---
-## Traditional approach to Software Development
+Traditional Approach to Software Development
+
 
 ---
-### We were treating this like a Complicated Problem
+We Were Treating This Like a Complicated Problem
+![Standish](assets/img/rocket.png)
 
 ---
-Traditional approach (Next Solution)
+Traditional Approach (Next Solution)
+
+---
+
+What Did We Notice?
+![Standish](assets/img/dilbert-easy.png)
+
+---
+
+Other Downsides
+![Standish](assets/img/Standish.png)
