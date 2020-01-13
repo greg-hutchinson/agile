@@ -1,18 +1,46 @@
 
 # Mindset
-
-We Were Treating This Like a Complicated Problem
-![Standish](assets/img/rocket.png)
+---
+“The pace of change has never been this fast, yet it will never be this slow again."
+---
+Agile thinking acknowledges that predicting the future is not possible
+![Future](assets/img/mind-reader.png)
 
 ---
-Traditional Approach (Next Solution)
+To be prepared for what the future holds
+![Future](assets/img/blockbuster.png)
 
 ---
-
-What Did We Notice?
-![Dilbert](assets/img/dilbert-easy.png)
+A willingness to EXPERIMENT
+![Future](assets/img/experiment.png)
 
 ---
+A willingness to Fail
+![Future](assets/img/fail.png)
+---
+A Desire to Learn
 
-Other Downsides
----?image=assets/img/Standish.png
+---
+Purposeful Continuous Improvement
+---
+To Reduce Complexity
+![Future](assets/img/ham.png)
+---
+
+@snap[north-west span-50]
+- People come first
+- Responding to change
+- Early and frequent value delivery
+- Customer collaboration
+@snapend
+
+@snap[north span-50]
+Values
+@snapend
+
+@snap[north-east span-50]
+- Use standardized processes
+- Get it right the first time
+- On time on budget
+- Make early commitments
+@snapend

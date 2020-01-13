@@ -2,6 +2,7 @@
 
 ---?include=introduction/PITCHME.md
 ---?include=bduf/PITCHME.md
+---?include=mindset/PITCHME.md
 
 
 ---?include=a-has/PITCHME.md
@@ -16,7 +17,6 @@
 
 ---?include=agile-mindset-updated-principles/PITCHME.md
 
----?include=agile-mindset/PITCHME.md
 
 ---?include=anti-patterns/PITCHME.md
 
