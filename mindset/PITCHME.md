@@ -1,49 +1,59 @@
 
-# Mindset
+# Agile Mindset
 ---
+@title[Pace of Change]
+### Why do we want to be Agile?
 @quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
-Agile thinking acknowledges that predicting the future is not possible
+### Agile thinking acknowledges that predicting the future is not possible
 ![Future](assets/img/mind-reader.png)
 
 ---
+@title[Be Prepared for the Future]
+### Why do we want to be Agile?
 To be prepared for what the future holds
 ![Future](assets/img/blockbuster.png)
 
 ---
-A willingness to EXPERIMENT
+### We need to be able to Adapt more quickly
+![Adaptability](assets/img/adaptability.png)
+
+---
+### How do we adapt more quickly?
+By adopting an Agile mindset
+
+(Mindset - A Person's way of thinking)
+---
+### What Makes Up a Mindset?
+- Values
+   - Beliefs that govern behavior of a person
+- Principles
+   - Support and satisfy Values
+- Practices, Tools & Processes
+   - The actions we take
+
+---
+@snap[midpoint span-70]
+### A willingness to Experiment
 ![Future](assets/img/experiment.png)
-
----
-A willingness to Fail
-![Future](assets/img/fail.png)
----
-A Desire to Learn
----
----?color=black
-
-@snap[north-west span-35]
-@box[bg-green text-white box-padding](1. Plan#People come first\nResponding to change\nEarly and frequent value delivery\nCustomer collaboration)
 @snapend
 
-@snap[north-east span-35]
-@box[bg-orange text-white rounded box-padding](2. Build#Sed do eiusmod tempor labore)
+---
+@snap[midpoint span-70]
+### A willingness to Fail
+![Fail](assets/img/fail.png)
 @snapend
-
-@snap[south-east span-35]
-@box[bg-pink text-white box-padding](3. Measure#Cupidatat non proident sunt in)
-@snapend
-
-@snap[south-west span-35]
-@box[bg-blue text-white waved box-padding](4. Repeat#Ut enim ad minim veniam prodient)
-@snapend
-
 
 ---
-Purposeful Continuous Improvement
+### A Desire to Learn
+
 ---
-To Reduce Complexity
+### Purposeful Continuous Improvement
+---
+@snap[midpoint span-70]
+### To Reduce Complexity
 ![Future](assets/img/ham.png)
+@snapend
 ---
 @title[Agile Mindset Vs Waterfall]
 @snap[north-west text-left span-40 text-05]
