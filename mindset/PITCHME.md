@@ -126,3 +126,10 @@ and Processes
 - Early sign offs
 - Test plans
 @snapend
+---
+### Agile is not a thing you do
+Agile is **not** a:
+- Checklist
+- Methodology
+- Specific way of delivering solutions
+- Framework or process
