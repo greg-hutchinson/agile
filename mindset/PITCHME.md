@@ -1,7 +1,7 @@
 
 # Mindset
 ---
-“The pace of change has never been this fast, yet it will never be this slow again."
+@quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
 Agile thinking acknowledges that predicting the future is not possible
 ![Future](assets/img/mind-reader.png)
@@ -27,20 +27,39 @@ To Reduce Complexity
 ![Future](assets/img/ham.png)
 ---
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-05]
 - People come first
 - Responding to change
 - Early and frequent value delivery
 - Customer collaboration
 @snapend
 
-@snap[north span-50]
+@snap[north span-50 text-05]
 Values
 @snapend
 
-@snap[north-east span-50]
+
+@fa[spinner  fa-xs]
+
+@snap[north-east span-50 text-05]
 - Use standardized processes
 - Get it right the first time
 - On time on budget
 - Make early commitments
+@snapend
+
+@snap[west span-50 text-05]
+- People come first
+- Responding to change
+- Early and frequent value delivery
+- Customer collaboration
+@snapend
+
+@snap[midpoint span-50 text-05]
+Principles
+@snapend
+
+@snap[east span-50 text-05]
+- More stuff here
+- This sis long erlk;lfdj ;lkj;dsaf l;kj
 @snapend
