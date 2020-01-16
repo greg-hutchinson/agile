@@ -50,12 +50,14 @@ layout : center
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
 footnote : "Attractors Consulting - Agile Deck"
+title : "Introduction to Scrum"
 
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
 published : true
+mathjax : TeX-MML-AM_HTMLorMML-full
 
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-START
 theme            : template
