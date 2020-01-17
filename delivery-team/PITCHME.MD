@@ -40,6 +40,42 @@ T-Shaped Skills
 - Abilities (breadth)
 - Specialization (depth)
 @css[rotate {transform: rotate(-90deg);}](The Specialization)
+
+Specialized skills
+with the
+Ability to contribute to other deliverables
+
+---
+#### Specialization Issues
+- Creates handoffs
+- Dependencies between tasks
+- Prioritization by skill and not ROI
+- Dependencies on personnel
+---
+#### Summary of T-Shaped skills
+- The ability to Swarm
+- ~~Everybody can do Everything~~
+- Very Few Things can be done by only one person
+
+---
+Acquiring T-Shaped skills
+@snap[midpoint span-95 text-center]
+![](assets/img/panic-zone.png)
+@snapend
+Note:
+Robert Yerkes (1907) [American psychologist] reported, "Anxiety improves performance until a certain optimum level of arousal has been reached. Beyond that point, performance deteriorates as higher levels of anxiety are attained."[5] Beyond the optimum performance zone, lies the "danger zone" in which performance declines rapidly under the influence of greater anxiety.
+
+More text here
+---
+@snap[north span-100]
+### Focus is not on Utilization
+@snapend
+@snap[east span-75 text-center]
+![](assets/img/slack.png)
+@snapend
+
+
+
 ---
 @snap[north span-100]
 ##### ROI Calculation
@@ -47,7 +83,7 @@ T-Shaped Skills
 @snap[midpoint span-100]
 @math
 `\[
-ROI = \frac{BusinessValue}{Cost}
+ROI = \frac{Business Value}{Cost}
 \]`
 @mathend
 @snapend
