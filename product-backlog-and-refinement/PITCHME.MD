@@ -40,3 +40,11 @@ Worded as User Stories
 @snap[midpoint span-75 text-center]
 ![](assets/img/vertical-slice.jpg)
 @snapend
+
+---
+@snap[north span-100 text-center]
+#### What Does a Good Product Backlog Look Like?
+@snapend
+@snap[midpoint span-75 text-center]
+![](assets/img/deep.png)
+@snapend
