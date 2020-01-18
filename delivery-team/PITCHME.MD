@@ -74,6 +74,11 @@ More text here
 ![](assets/img/slack.png)
 @snapend
 
+Note:
+“Stress kills innovation, as does busyness” [Tom DeMarco]
+Putting people under pressure means they will do as told, not thinking about the why (and possibly innovate better ways)
+Do not focus foremost on utilization and efficiency of resources in complex environments!
+
 
 
 ---
@@ -83,11 +88,7 @@ More text here
 @snap[midpoint span-100]
 @math
 `\[
-ROI = \frac{Business Value}{Cost}
+ROI = \frac{BusinessValue}{Cost}
 \]`
 @mathend
 @snapend
----
-## Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
----
-Hit D on the presentation to generate PDF

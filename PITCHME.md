@@ -14,7 +14,7 @@
 ---?include=celebrity-ordering/PITCHME.md
 ---?include=scrum-master/PITCHME.md
 ---?include=delivery-team/PITCHME.md
----?include=three-projects-three-expirements/PITCHME.md
+---?include=three-projects-three-experiments/PITCHME.md
 ---?include=product-backlog-and-refinement/PITCHME.md
 ---?include=sprint-planning/PITCHME.md
 ---?include=sprint/PITCHME.md

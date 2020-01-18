@@ -16,3 +16,8 @@
 @snap[south-east span-60]
 @box[bg-pink text-white](Step 3.#Cupidatat non proident sunt in culpa officia veniam quis.)
 @snapend
+---
+---
+## Summer @emoji[sunny] + @emoji[sunflower] = happy @emoji[honeybee]
+---
+Hit D on the presentation to generate PDF
