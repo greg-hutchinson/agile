@@ -2,8 +2,7 @@
 # BDUF
 ## **B**ig **D**esign **U**p **F**ront
 ---
-## Traditional Approach
-### (to Software Development)
+## Traditional Approach<br>to Software Development
 @snap[midpoint span-100 text-center]
 @ul[list-spaced-bullets list-fade-fragments]
 - Analysis and Design Phase (> 3 months)
@@ -14,14 +13,13 @@
 @snapend
 
 ---
-## Not a Complicated Problem
-@snap[midpoint span-60]
-![Standish](assets/img/rocket.png)
+## We Thought It Was a<br>Complicated Problem
+@snap[south span-55]
+![](assets/img/rocket.png)
 @snapend
 
 ---
-## Traditional Approach
-### (Next Solution)
+## Must be a <br>Lack of Analysis
 @snap[midpoint span-100 text-center]
 @ul[list-spaced-bullets list-fade-fragments]
 - Analysis and Design Phase (> 5 months)

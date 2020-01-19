@@ -119,9 +119,7 @@ Depends on Context
 @snapend
 
 ---
-@snap[north span-100 text-center]
-What Might This New I-Car Look Like?
-@snapend
-@snap[midpoint span-70 fragment]
+## What Might This New I-Car Look Like?
+@snap[south span-65 fragment]
 ![](assets/img/icar.png)
 @snapend
