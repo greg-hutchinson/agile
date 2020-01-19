@@ -2,10 +2,10 @@
 # Agile Mindset
 ---
 @title[Pace of Change]
-### Why do we want to be Agile?
+## Why do we want to be Agile?
 @quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
-### Agile thinking acknowledges that predicting the future is not possible
+## Agile thinking acknowledges that predicting the future is not possible
 ![Future](assets/img/mind-reader.png)
 
 ---

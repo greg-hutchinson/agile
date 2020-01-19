@@ -1,4 +1,4 @@
-### Snippets
+## Snippets
 +++?color=black
 
 @snap[west span-45]

@@ -1,10 +1,10 @@
 
-# Big Design Up Front (BDUF)
+# BDUF
+## **B**ig **D**esign **U**p **F**ront
 ---
-@snap[west span-40 text-center]
-#### Traditional Approach to Software Development
-@snapend
-@snap[east span-55 text-center]
+## Traditional Approach
+### (to Software Development)
+@snap[midpoint span-100 text-center]
 @ul[list-spaced-bullets list-fade-fragments]
 - Analysis and Design Phase (> 3 months)
 - Requirements signed off
@@ -14,18 +14,15 @@
 @snapend
 
 ---
-@snap[west span-30]
-#### We Were Treating This Like a Complicated Problem
-@snapend
-@snap[east span-70]
+## Not a Complicated Problem
+@snap[midpoint span-60]
 ![Standish](assets/img/rocket.png)
 @snapend
 
 ---
-@snap[west span-40 text-center]
-#### Traditional Approach (Next Solution)
-@snapend
-@snap[east span-55 text-center]
+## Traditional Approach
+### (Next Solution)
+@snap[midpoint span-100 text-center]
 @ul[list-spaced-bullets list-fade-fragments]
 - Analysis and Design Phase (> 5 months)
 - Requirements signed off
@@ -35,21 +32,20 @@
 @snapend
 
 ---
-### What Did We Notice?
+## What Did We Notice?
 - Unhappy customers
 - Changed the customers behaviour
+@snap[south span-50 text-center fragment]
 ![Dilbert](assets/img/dilbert-easy.png)
+@snapend
 
 ---
-@title[Standish Study]
-### Other Downsides
+## Standish Study
 ![Standish](assets/img/Standish.png)
 
 ---
-@snap[west span-22 text-left]
-#### An Agile Approach
-@snapend
-@snap[east span-78 text-left]
+## An Agile Approach
+@snap[midpoint span-100 text-left]
 @ul[list-spaced-bullets list-fade-fragments]
 - Have a Vision for where you want to go
 - Analysis and Design of biggest pain points
