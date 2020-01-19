@@ -10,21 +10,22 @@
 
 ---
 @title[Be Prepared for the Future]
-### Why do we want to be Agile?
-To be prepared for what the future holds
+## Why do we want to be Agile?
 ![Future](assets/img/blockbuster.png)
+### To be prepared for what the future holds
 
 ---
-### We need to be able to Adapt more quickly
-![Adaptability](assets/img/adaptability.png)
-
+## Adapt more quickly
+@snap[midpoint span-75]
+![](assets/img/adaptability.png)
+@snapend
 ---
-### How do we adapt more quickly?
+## How do we adapt more quickly?
 By adopting an Agile mindset
 
 (Mindset - A Person's way of thinking)
 ---
-### What Makes Up a Mindset?
+## What Makes Up a Mindset?
 - Values
    - Beliefs that govern behavior of a person
 - Principles
@@ -33,32 +34,33 @@ By adopting an Agile mindset
    - The actions we take
 
 ---
-@snap[midpoint span-70]
-### A willingness to Experiment
+## A Willingness to Experiment
+@snap[midpoint span-60]
 ![Future](assets/img/experiment.png)
 @snapend
-
 ---
-@snap[midpoint span-70]
-### A willingness to Fail
+## A Willingness to Fail
+@snap[midpoint span-65]
 ![Fail](assets/img/fail.png)
 @snapend
 
 ---
-### A Desire to Learn
+## A Desire to Learn
 
 ---
-### Purposeful Continuous Improvement
+## Purposeful Continuous Improvement
+
 ---
-@snap[midpoint span-70]
-### To Reduce Complexity
+## To Reduce Complexity
+@snap[midpoint span-75]
+<br>
 ![Future](assets/img/ham.png)
 @snapend
 ---
 @title[Agile Mindset Vs Waterfall]
 @snap[north-west text-left span-40 text-05]
 Agile
-
+<br>
 - People come first
 - Responding to change
 - Early and frequent value delivery
@@ -67,13 +69,13 @@ Agile
 
 @snap[north text-left span-20 text-05]
 Vs
-
+<br>
 Values
 @snapend
 
 @snap[north-east text-left span-40 text-05]
 Waterfall
-
+<br>
 
 - Use standardized processes
 - Get it right the first time
@@ -111,6 +113,8 @@ Principles
 - Refinement, Burndown
 - Product Owner, Scrum Master
 - Retrospective, Backlog
+<br>
+<br>
 @snapend
 
 @snap[south text-left span-20 text-05]
@@ -127,8 +131,8 @@ and Processes
 - Test plans
 @snapend
 ---
-### Agile is not a thing you do
-Agile is **not** a:
+## Agile is not a thing you do
+### Agile is **not** a:
 - Checklist
 - Methodology
 - Specific way of delivering solutions

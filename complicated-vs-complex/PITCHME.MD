@@ -45,71 +45,50 @@ Which is Complex? Complicated?
 @snapend
 
 ---
-@snap[north-west span-40 text-left ]
+## Expertise
+@snap[west text-07 span-45 text-left ]
 ![](assets/img/child.png)
-@snapend
-@snap[north-east span-40 text-left ]
-![](assets/img/rocket.png)
-@snapend
-@snap[south-west text-2 span-45 text-left ]
 Expertise can contribute but is neither necessary nor sufficient to assure success
 @snapend
-@snap[south-east text-2 span-45 text-left fragment ]
-High levels of expertise in a variety of fields are necessary for success
-@snapend
-
----
-@snap[north-west span-40 text-left ]
-![](assets/img/child.png)
-@snapend
-@snap[north-east span-40 text-left ]
+@snap[east text-07 span-45 text-left ]
 ![](assets/img/rocket.png)
-@snapend
-@snap[south-west text-2 span-45 text-left ]
+High levels of expertise in a variety of fields are necessary for success
+---
+## Formulas
+@snap[west text-07 span-45 text-left ]
+![](assets/img/child.png)
 Formulas have limited application
 @snapend
-@snap[south-east text-2 span-45 text-left fragment ]
+@snap[east text-07 span-45 text-left ]
+![](assets/img/rocket.png)
 Formulas are critical and necessary
-@snapend
 
 ---
-@snap[north-west span-40 text-left ]
+## Experience
+@snap[west text-07 span-45 text-left ]
 ![](assets/img/child.png)
-@snapend
-@snap[north-east span-40 text-left ]
-![](assets/img/rocket.png)
-@snapend
-@snap[south-west text-2 span-45 text-left ]
 Raising one child provides experience but no assurance of success with the next
 @snapend
-@snap[south-east text-2 span-45 text-left fragment ]
+@snap[east text-07 span-45 text-left ]
+![](assets/img/rocket.png)
 Sending one rocket increases assurance that the next will be OK
-@snapend
 
 ---
-@snap[north-west span-40 text-left ]
+## Relationships
+@snap[west text-07 span-45 text-left ]
 ![](assets/img/child.png)
-@snapend
-@snap[north-east span-40 text-left ]
-![](assets/img/rocket.png)
-@snapend
-@snap[south-west text-2 span-45 text-left ]
 Every child is unique and must be understood as an individual – relationships are important
 @snapend
-@snap[south-east text-2 span-45 text-left fragment ]
+@snap[east text-07 span-45 text-left ]
+![](assets/img/rocket.png)
 Rockets are similar in critical ways
-@snapend
 
 ---
-@snap[north-west span-40 text-left ]
+## Outcome
+@snap[west text-07 span-45 text-left ]
 ![](assets/img/child.png)
-@snapend
-@snap[north-east span-40 text-left ]
-![](assets/img/rocket.png)
-@snapend
-@snap[south-west text-2 span-45 text-left ]
 Uncertainty of outcome remains
 @snapend
-@snap[south-east text-2 span-45 text-left fragment ]
+@snap[east text-07 span-45 text-left ]
+![](assets/img/rocket.png)
 There is a high degree of certainty of outcome
-@snapend
