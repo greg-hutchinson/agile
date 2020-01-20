@@ -13,28 +13,26 @@ logo-position    : top-left
 layout           : top
 # PITCHME-DOT-YAML-SETTINGS-THEME-BUILDER-GENERATED-END
 
+theme-override: assets/css/PITCHME.css
+highlight        : solarized-light
+footnote : "Attractors Consulting - Agile Deck"
+title : "Introduction to Scrum"
+
+published : true
+mathjax : TeX-MML-AM_HTMLorMML-full
+charts: true
+
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
-
-
-# Doc: https://gitpitch.com/docs/settings/highlight
-#
-highlight        : solarized-light
-
-
-#
-# Footnote Setting
-# Doc: https://gitpitch.com/docs/settings/footnote
-#
-footnote : "Attractors Consulting - Agile Deck"
-title : "Introduction to Scrum"
-
 #
 # Published Setting
 # Doc: https://gitpitch.com/docs/settings/published
 #
-published : true
-mathjax : TeX-MML-AM_HTMLorMML-full
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+# Doc: https://gitpitch.com/docs/settings/highlight
+#
