@@ -13,3 +13,8 @@
 - Agile Theory
 - Scrum
 - Wrap up and Next Steps
+
+## Confirmation Bias
+Note:
+Rules of the game
+2, 4, 6, 8
