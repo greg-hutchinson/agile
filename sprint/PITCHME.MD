@@ -21,7 +21,7 @@
 @snapend
 
 ---
-## Sprint rules
+## Sprint Rules
 - No “non-delivery team” changes
 - Consistent sprint lengths
 - Team chooses how to complete stories (by priority)
@@ -63,9 +63,42 @@ Number of Weeks
 @snapend
 
 ---
+## Other Considerations That Grow Exponentially
+@snap[midpoint span-100 text-center]
+@ul[list-spaced-bullets list-fade-fragments]
+- OCM
+- Training
+- Problem Resolution Time
+- Bugs, Wrong Features
+@ulend
+@snapend
+
+
+---
 ## Remember the Word of the Day?
 @snap[west span-70 text-right]
 @box[bg-purple  text-left text-white fragment] (Word: Schadenfreude)
 @box[bg-purple text-white text-left fragment] (Pronounced: Shaw-den-froy-day)
 @box[bg-purple text-white text-left fragment] (Meaning: To take pleasure in someone else's misfortune)
+@snapend
+@snap[east span-30 text-06 text-right]
+@ul[list-fade-fragments]
+- We spent 30 seconds to learn this word.
+- We should expect to learn 100 words in 50 minutes
+- It will probably take a lot longer
+@snapend
+
+---
+## Why 1 to 4 Weeks
+@snap[midpoint span-80 text-right]
+![](assets/img/pivot.png)
+@snapend
+
+---
+## What Can We Conclude?
+@snap[west span-35 text-left]
+Work in progress (WIP) is a **liability** to being agile
+@snapend
+@snap[east span-65 text-right]
+![](https://nmgprod.s3.amazonaws.com/media/files/eb/f5/ebf551ac85fb33b8f43e9157ff954f56/cover_image.jpg.640x360_q85_crop.jpg)
 @snapend
