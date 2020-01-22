@@ -10,6 +10,8 @@
 ---?include=requirements-vs-design/PITCHME.md
 ---?include=summer-meadow/PITCHME.md
 
+
+---?include=scrum-overview/PITCHME.md
 ---?include=product-owner/PITCHME.md
 ---?include=celebrity-ordering/PITCHME.md
 ---?include=scrum-master/PITCHME.md

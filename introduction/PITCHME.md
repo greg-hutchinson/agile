@@ -42,6 +42,13 @@
 - Wrap up and Next Steps
 
 ---
+## Goals
+### At the end of this training you will:
+- have an understanding of Agile thinking and why it should work
+- have a basic understanding of Scrum, its roles, artifacts and ceremonies
+- have a plan for what next week might look like
+
+---
 ## Confirmation Bias
 @snap[midpoint span-100]
 @ul[list-square-bullets font-concert-one text-08 text-italic text-yellow](false)

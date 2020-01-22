@@ -34,3 +34,32 @@ Chance to get together to communicate with the rest of your team mates
 @snap[east span-70]
 ![](assets/img/scrum-board.png)
 @snapend
+
+---
+## What is a Burndown Chart?
+@snap[west span-35 text-08 text-left]
+- Tracks progress toward the sprint goal
+- The jury is out on this one
+@snapend
+@snap[east span-65]
+![](assets/img/sprint-burndown.png)
+@snapend
+
+
+---
+## Sprint Board - Beginning
+@snap[midpoint span-80]
+![](assets/img/sprint-board1.png)
+@snapend
+
+---
+## Sprint Board - During
+@snap[midpoint span-80]
+![](assets/img/sprint-board2.png)
+@snapend
+
+---
+## Sprint Board - End
+@snap[midpoint span-80]
+![](assets/img/sprint-board3.png)
+@snapend
