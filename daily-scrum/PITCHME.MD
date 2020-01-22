@@ -45,7 +45,6 @@ Chance to get together to communicate with the rest of your team mates
 ![](assets/img/sprint-burndown.png)
 @snapend
 
-
 ---
 ## Sprint Board - Beginning
 @snap[midpoint span-80]
@@ -62,4 +61,20 @@ Chance to get together to communicate with the rest of your team mates
 ## Sprint Board - End
 @snap[midpoint span-80]
 ![](assets/img/sprint-board3.png)
+@snapend
+
+---
+## Sprint Board - Pitfall #1
+@snap[midpoint span-80]
+![](assets/img/sprint-board-pitfall1.png)
+@snapend
+---
+## Sprint Board - Pitfall #2
+@snap[midpoint span-80]
+![](assets/img/sprint-board-pitfall2.png)
+@snapend
+---
+## Sprint Board - Pitfall #3
+@snap[midpoint span-80]
+![](assets/img/sprint-board-pitfall3.png)
 @snapend
