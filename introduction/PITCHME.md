@@ -66,6 +66,3 @@ Duplicate Bridge Player
     - 2, 4, 6, 8, ...
 @ulend
 @snapend
-Note:
-Rules of the game
-2, 4, 6, 8
