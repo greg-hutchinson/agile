@@ -19,6 +19,7 @@ footnote : "Attractors Consulting - Agile Deck"
 title : "Introduction to Scrum"
 
 published : true
+confidential : 54321
 mathjax : TeX-MML-AM_HTMLorMML-full
 charts: true
 
