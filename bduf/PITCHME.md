@@ -39,7 +39,7 @@
 
 ---
 ## Standish Study
-![Standish](assets/img/Standish.png)
+![Standish](assets/img/standish.png)
 
 ---
 ## An Agile Approach
