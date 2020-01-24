@@ -10,8 +10,8 @@
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
 @snapend
-@snap[east span-50]
-![Me](assets/img/bio-greg-suit.JPG)
+@snap[south-east span-40]
+![Me](assets/img/bio-greg-on-hill.jpg)
 @snapend
 
 ---
@@ -39,6 +39,13 @@
 Duplicate Bridge Player
 ![](assets/img/duplicate-bridge.jpg)
 @snapend
+---
+
+@snap[south text-09 span-35]
+And I really like Halloween
+![Me](assets/img/grim-reaper.jpg)
+@snapend
+
 ---
 ## Agenda
 - Agile Theory
