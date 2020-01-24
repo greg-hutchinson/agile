@@ -41,8 +41,10 @@ Duplicate Bridge Player
 @snapend
 ---
 
-@snap[south text-09 span-35]
+@snap[west text-09 span-35]
 And I really like Halloween
+@snapend
+@snap[east text-09 span-55]
 ![Me](assets/img/grim-reaper.jpg)
 @snapend
 
