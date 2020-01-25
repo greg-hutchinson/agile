@@ -39,8 +39,9 @@
 Duplicate Bridge Player
 ![](assets/img/duplicate-bridge.jpg)
 @snapend
----
 
+---
+@title[Halloween]
 @snap[west text-09 span-35]
 And I really like Halloween
 @snapend

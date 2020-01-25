@@ -1,6 +1,6 @@
 # Agile
 ---?include=introduction/PITCHME.md
----?include=bduf/PITCHME.md
+---?include=why-agile/PITCHME.md
 ---?include=complicated-vs-complex/PITCHME.md
 ---?include=triangle/PITCHME.md
 ---?include=mindset/PITCHME.md
