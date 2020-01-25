@@ -1,4 +1,3 @@
-# Agile
 ---?include=introduction/PITCHME.md
 ---?include=why-agile/PITCHME.md
 ---?include=complicated-vs-complex/PITCHME.md

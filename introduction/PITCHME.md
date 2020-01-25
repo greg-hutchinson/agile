@@ -1,5 +1,7 @@
 
-# Introduction
+@snap[midpoint text-06 span-35]
+# Agile And Scrum
+@snapend
 ---
 ## Who am I?
 @snap[west text-06 span-55]
@@ -32,7 +34,7 @@
     - Morocco
     - Colombia
 @snapend
-@snap[south-east span-35]
+@snap[east span-35]
 ![Me](assets/img/bio-greg-on-hill.jpg)
 @snapend
 @snap[south-west text-09 span-55 fragment]
@@ -42,10 +44,10 @@ Duplicate Bridge Player
 
 ---
 @title[Halloween]
-@snap[west text-09 span-35]
+@snap[west text-09 span-45]
 And I really like Halloween
 @snapend
-@snap[east text-09 span-55]
+@snap[east text-09 span-50]
 ![Me](assets/img/grim-reaper.jpg)
 @snapend
 
@@ -53,7 +55,8 @@ And I really like Halloween
 ## Agenda
 - Agile Theory
 - Scrum
-- Wrap up and Next Steps
+- Wrap up
+- What's Next
 
 ---
 ## Goals
