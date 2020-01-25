@@ -2,42 +2,49 @@
 # Complex<br>vs<br>Complicated
 ---
 ## The Cynefin Framework
-![Cynefin](assets/img/cynefin.png)
+@img[span-65](assets/img/cynefin.png)
 
 ---
-## Ordered Systems<br>(Simple and Complicated)
-![Cynefin](assets/img/cynefin.png)
-
+## Ordered Systems
+@snap[east span-15 text-07 text-center]
+Obvious and Complicated
+@snapend
+@img[span-65](assets/img/cynefin.png)
 ---
-## Simple (or Obvious) Domain
-![Cynefin](assets/img/cynefin.png)
+## Obvious Domain
+@img[span-65](assets/img/cynefin.png)
 
 ---
 ## Complicated Domain
-![Cynefin](assets/img/cynefin.png)
+@img[span-65](assets/img/cynefin.png)
 
 ---
-## Unordered Domains<br>(Chaotic and Complex)
-![Cynefin](assets/img/cynefin.png)
+## Unordered Domains
+@snap[east span-15 text-07 text-center]
+Complex and Chaotic
+@snapend
+@img[span-65](assets/img/cynefin.png)
 
 ---
 ## Complex Domain
-![Cynefin](assets/img/cynefin.png)
+@img[span-65](assets/img/cynefin.png)
 
 ---
 ## Chaotic Domain
-![Cynefin](assets/img/cynefin.png)
+@img[span-65](assets/img/cynefin.png)
 
 ---
 ## Disorder
-![Cynefin](assets/img/cynefin.png)
+@img[span-65](assets/img/cynefin.png)
 
 ---
 ## Concrete Examples
-@snap[west span-50 text-center ]
+@snap[west span-50 text-07 text-center ]
+Raising a Child
 ![](assets/img/child.png)
 @snapend
-@snap[east span-50 text-center ]
+@snap[east span-50 text-07 text-center ]
+Sending a Rocket to the Moon
 ![](assets/img/rocket.png)
 @snapend
 @snap[south text-3 span-100 text-center ]
