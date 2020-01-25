@@ -1,6 +1,6 @@
-# Building Paper Airplanes
+### Building Paper Airplanes
 ---
-## Rules and Constraints
+### Rules and Constraints
 @snap[west span-75 text-07]
 - ¼ of a sheet of paper
 - Only one fold at a time perteam member

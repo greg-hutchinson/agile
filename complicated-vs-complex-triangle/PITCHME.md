@@ -1,3 +1,3 @@
-# Triangle Experiment
+### Triangle Experiment
 ---
 ## What did we observe?

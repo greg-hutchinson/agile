@@ -1,4 +1,4 @@
-# Marshmallow Challenge
+### Marshmallow Challenge
 ---
 
 ### Build the tallest freestanding structure with only the following supplies:

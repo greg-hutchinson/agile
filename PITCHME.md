@@ -2,16 +2,16 @@
 ---?include=introduction/PITCHME.md
 ---?include=why-agile/PITCHME.md
 ---?include=complicated-vs-complex/PITCHME.md
----?include=triangle/PITCHME.md
----?include=mindset/PITCHME.md
+---?include=complicated-vs-complex-triangle/PITCHME.md
+---?include=agile-mindset/PITCHME.md
 ---?include=best-project-ever/PITCHME.md
 ---?include=requirements-vs-design/PITCHME.md
----?include=summer-meadow/PITCHME.md
+---?include=requirements-vs-design-summer-meadow/PITCHME.md
 
 
 ---?include=scrum-overview/PITCHME.md
 ---?include=product-owner/PITCHME.md
----?include=celebrity-ordering/PITCHME.md
+---?include=product-owner-celebrity-ordering/PITCHME.md
 ---?include=scrum-master/PITCHME.md
 ---?include=delivery-team/PITCHME.md
 ---?include=three-projects-three-experiments/PITCHME.md
@@ -26,3 +26,6 @@
 
 ---?include=marshmallowchallenge/PITCHME.md
 ---?include=a-has/PITCHME.md
+---
+# And Finally ...
+@img[fragment](assets/img/thank-you.jpg)
