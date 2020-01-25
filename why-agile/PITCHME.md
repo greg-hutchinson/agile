@@ -16,6 +16,13 @@
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9smGZw51GJGOEOhH1R48qclmPb9gpFZ0MIHxVfpOlErRqdMtoV5cXrrt7NdqderCpluVP_wR2dj4l/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
+## Traditional Approach
+@snap[midpoint span-100 text-center]
+<br><br><br>
+@img[](assets/img/traditional.png)
+@snapend
+
+---
 ## Next Approach
 ### We thought it was a lack of Analysis
 @snap[midpoint span-100 text-center]
@@ -29,8 +36,8 @@
 ## What Did We Notice?
 - Not only did we have unhappy customers
 - It changed the customers behaviour
-<br><br>
 @snap[south span-45 text-center]
+<br><br>
 @img[fragment](assets/img/dilbert-easy.png)
 @snapend
 
@@ -42,3 +49,10 @@
 ---
 ## An Agile Approach
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKRCrEvic1xMCkOHTx8t30TRIomLK81gLZ8rFcbAU24X7LG3AsEZ6fVGcnzkm79PIWewbXfYq2q-8w/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+---
+## An Agile Approach
+@snap[midpoint span-100 text-center]
+<br><br><br>
+@img[](assets/img/agile-approach.png)
+@snapend
