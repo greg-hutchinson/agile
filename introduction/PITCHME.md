@@ -76,3 +76,10 @@ And I really like Halloween
     - 2, 4, 6, 8, ...
 @ulend
 @snapend
+
+
+---
+## Disclaimer
+- A lot of these practices came out of the software development realm
+- I believe that they can be applied in many areas
+- Put into production - means deliver value
