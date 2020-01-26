@@ -2,7 +2,7 @@
 ---
 ## What is it?
 @snap[east span-50 text-06 text-left]
-Chance to get together to communicate with the rest of your team mates
+It is an opportunity to get together and communicate with the rest of your team.
 ![](assets/img/daily-scrum.jpeg)
 @snapend
 
@@ -27,9 +27,9 @@ Chance to get together to communicate with the rest of your team mates
 ---
 ## What is a Scrum Board?
 @snap[west span-35 text-07 text-left]
-- Create visibility
-- Track progress
-- Keep focus
+- Creates visibility
+- Tracks progress
+- Keeps focus
 @snapend
 @snap[east span-70]
 ![](assets/img/scrum-board.png)

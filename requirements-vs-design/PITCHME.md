@@ -7,13 +7,13 @@
 ### **How** a requirement will be implemented
 
 @snap[south span-100 text-center fragment ]
-Easy right ???
+Easy, right ???
 @snapend
 
 ---
 ## Building the I-Car
 @snap[west span-60 text-left]
-The car needs to be able to transport at least 4 people
+The car must be able to transport at least 4 people
 @snapend
 @snap[east span-20 text-right]
 Requirement or Design?
@@ -61,7 +61,7 @@ Design
 ---
 ## Building the I-Car
 @snap[west span-60 text-left]
-The car needs to have four wheels
+The car must have four wheels
 @snapend
 @snap[east span-20 text-right]
 Requirement or Design?
@@ -97,7 +97,7 @@ Requirement
 ---
 ## Building the I-Car
 @snap[west span-60 text-left]
-The car must be able to travel a distance of at least 500 km without having to stop (for fuel for instance).
+The car must be able to travel at least 500 km without having to stop (such as for fuel)
 @snapend
 @snap[east span-20 text-right]
 Requirement or Design?
@@ -119,7 +119,7 @@ Depends on Context
 @snapend
 
 ---
-## What Might This New I-Car Look Like?
+## What might this new I-Car look like?
 @snap[south span-65 fragment]
 ![](assets/img/icar.png)
 @snapend

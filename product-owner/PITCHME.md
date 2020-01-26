@@ -1,7 +1,7 @@
 # Product Owner
 
 ---
-## Makes sure that the right things are done!
+## Makes sure that the right things get done!
 - The Product Owner is responsible for prioritizing stories based on the return on investment (ROI).
 - The Product Owner will prioritize based on business value first. Once the team adds in the cost, she will prioritize based on ROI.
 
@@ -21,7 +21,7 @@ ROI = \frac{BusinessValue}{Cost}
 
 ---
 ## Product Owner Responsibilities
-- Sets the Vision for the Product
+- Sets the vision for the product
 - Refinement
-- Planning
-- Maintain the Product Backlog
+- Plans
+- Maintains the product backlog

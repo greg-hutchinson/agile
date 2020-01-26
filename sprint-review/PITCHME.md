@@ -3,8 +3,8 @@
 ## The Review
 ### What’s included:
 - Demo of Potentially Shippable Product Increment
-- Discuss unfinished work
-- Plan for Next Sprint
+- Discussion of unfinished work
+- Plan for next sprint
 ### Why
 - True transparency
 - Early and frequent feedback
@@ -32,7 +32,7 @@ When: At the end of each sprint
 - Product Owner lead
 - Delivery Team & Scrum Master
 - Stakeholders  / Customers
-- Anybody else who is interested
+- Anyone else who is interested
 
 ---
 ## What's the Advantage?

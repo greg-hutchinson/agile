@@ -23,13 +23,13 @@
 ![](assets/img/tuckman.png)
 @snapend
 ---
-## Responsibilities
+## Delivery Team Responsibilities
 
-- Providing alternatives to the Product Owner
-- Collaborating with Stakeholders
-- Everything necessary to deliver a quality solutions   
-    - Design/development/testing
-    - Translation/implementation
+- Provides alternatives to the Product Owner
+- Collaborates with Stakeholders
+- Does everything necessary to deliver a quality solution   
+    - design/development/testing
+    - translation/implementation
 
 @snap[south span-95 text-center]
 ## Start to Finish
@@ -42,7 +42,7 @@
 
 ### Specialized skills
 ### with the
-### Ability to contribute to other deliverables
+### ability to contribute to other deliverables
 
 ---
 ## Specialization Issues
@@ -54,7 +54,7 @@
 ## Summary of T-Shaped skills
 - The ability to Swarm
 - ~~Everybody can do Everything~~
-- Very Few Things can be done by only one person
+- Very few things can be done by only one person
 
 ---
 ## Acquiring T-Shaped skills
@@ -67,8 +67,8 @@ Robert Yerkes (1907) [American psychologist] reported, "Anxiety improves perform
 ---
 ## Focus is not on Utilization
 @snap[west span-35 text-left]
-- Focus is on Effectiveness
-- Slack Time is important
+- Focus is on effectiveness
+- Slack time is important
 @snapend
 @snap[east span-65 text-center]
 ![](assets/img/slack.png)

@@ -8,7 +8,7 @@
 - Software Developer since 1982
     - 8085 Assembler, C, Smalltalk, Java, Ruby
 - GPS driven tractors (1985)
-- Consultant for Credit Suisse (in Zurich)
+- Consultant for Credit Suisse and UBS banks in Zurich
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
 @snapend
@@ -58,9 +58,9 @@ And I really like Halloween
 ---
 ## Goals
 ### At the end of this training you will:
-- have an understanding of Agile thinking and why it should work.
-- have a basic understanding of Scrum, its roles, artifacts and ceremonies.
-- have a plan for what next week might look like.
+- have an understanding of Agile thinking and why it works
+- have a basic understanding of Scrum and its roles, artifacts and ceremonies
+- have a plan for what next week might look like
 
 ---
 ## Confirmation Bias
@@ -69,10 +69,10 @@ And I really like Halloween
 - Your task is to find the rule to the sequence of numbers that I will give you.
 - You can ask me only one question - "Is n the next number in the sequence".
   - However, you can ask this **any number** of times.
-- You only get one guess at the rule
-  - if you are right - you win
-  - if not, well ...
-- Here is the sequence
+- You only get one guess at the rule.
+  - If you are right - you win.
+  - If not, well ...
+- Here is the sequence:
     - 2, 4, 6, 8, ...
 @ulend
 @snapend
@@ -80,6 +80,6 @@ And I really like Halloween
 
 ---
 ## Disclaimer
-- A lot of these practices came out of the software development realm
-- I believe that they can be applied in many areas
-- Put into production - means deliver value
+- A lot of these practices came out of the software development realm.
+- I believe that they can be applied in many areas.
+- Put into production - means deliver value.

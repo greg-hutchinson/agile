@@ -30,5 +30,5 @@ What does velocity mean in Scrum?
 Velocity =
 @snapend
 @snap[east span-70 text-left]
-Amount of Story Points on average a team has **completed** during a Sprint.
+Number of Story Points on average that a team has **completed** during a Sprint
 @snapend

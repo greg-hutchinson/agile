@@ -3,7 +3,7 @@
 ---
 ## Allocate Time for Continuous Improvement
 - Done at the end of a sprint
-- Review any Experiments from last sprint
+- Review any experiments from last sprint
 
 ---
 ## Relect on the Past Sprint
@@ -39,12 +39,12 @@ https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-te
 
 @snap[west text-07 span-45]
 **Hypothesis:**
-By including a translation person on the team we will reduce the amount of items that are "almost completed".  
+By including a translation person on the team, we will reduce the amount of items that are "almost completed".  
 @snapend
 
 ---
 ## Retrospective Ground Rules
 - Everyone participates & pays attention
-- Be honest, constructive, professional, and respectful (don’t get personal or start finger pointing)
+- Be honest, constructive, professional, and respectful (don’t get personal or finger point)
 - Focus on what's relevant for the team
 - Be positive and enthusiastic – you're given the opportunity to improve!

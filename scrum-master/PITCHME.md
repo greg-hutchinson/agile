@@ -2,10 +2,10 @@
 
 ---
 ## Scrum Master Responsibilities
-- Makes Sure That Things are Done Right!
-- Team health
-- Facilitator
+- Ensures that things are done right!
+- Monitors team health
+- Facilitates
 - Reinforces agile principles
-- Removing impediments
+- Removes impediments
 
 ### A True Servant Leader

@@ -24,7 +24,7 @@
 @snapend
 
 @snap[west span-35]
-Worded as User Stories
+Worded as user stories
 @snapend
 
 @snap[east span-60]

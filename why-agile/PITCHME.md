@@ -6,7 +6,7 @@
 @ul[list-square-bullets list-hide-fragments]
 - Very long (1 to 7 years)
 - Large learning curves
-- Many features wrong or missed
+- Many features are implemented incorrectly or are missed
 - Stressful for everyone
 - Expensive
 @snapend
@@ -24,7 +24,7 @@
 
 ---
 ## Next Approach
-### We thought it was a lack of Analysis
+### We thought it was a lack of analysis.
 @snap[midpoint span-100 text-center]
 @ul[list-square-bullets list-hide-fragments]
 - Did more analysis
@@ -34,9 +34,9 @@
 @snapend
 
 ---
-## What Did We Notice?
-- Not only did we have unhappy customers
-- It changed the customers behaviour
+## What did we notice?
+- We had unhappy customers.
+- It changed the customers' behaviour.
 @snap[south span-45 text-center]
 <br><br>
 @img[fragment](assets/img/dilbert-easy.png)

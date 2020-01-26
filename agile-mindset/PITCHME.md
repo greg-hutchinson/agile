@@ -6,11 +6,11 @@
 
 @snap[west text-06 span-40]
 - Values
-   - Beliefs that govern behavior of a person
+   - beliefs that govern behavior of a person
 - Principles
-   - Support and satisfy Values
+   - support and satisfy Values
 - Practices, Tools & Processes
-   - The actions we take
+   - the actions we take
 @snapend
 ---
 ## Agile Manifesto - Values
@@ -29,7 +29,7 @@
 <br>
 <br>
 - People come first
-- Responding to change
+- Respond to change
 - Early and frequent value delivery
 - Customer collaboration
 @snapend
@@ -54,7 +54,7 @@
 
 @snap[west text-left span-40 text-05]
 - Frequent delivery
-- Continuously Improve
+- Continuous improvements
 - Simplicity
 - Trust/Safety
 - Measure progress on value delivered
@@ -70,7 +70,7 @@
 - Plan the work
 - Limit change
 - Single point of responsibility
-- Handing out work
+- Hand out work
 - On time, budget & scope
 - Functional teams/siloed working
 - Maximize utilization
@@ -104,43 +104,43 @@
 ## Why do we want to<br> be Agile?
 @quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
-## We Can't Predict the future
+## We can't predict the future
 @img[midpoint](assets/img/mind-reader.png)
 
 ---
-## What were They Missing
+## What were they missing?
 ---
-## What were They Missing
+## What were they missing?
 @img[west span-30](assets/img/blockbuster.png)
 @img[midpoint span-30](assets/img/kodak.jpg)
 @img[east span-30](assets/img/toysrus.png)
 
 ---
-## The ability to Adapt
+## Ability to adapt
 @img[midpoint span-80](assets/img/adaptability.png)
 
 ---
-## Adapt more Quickly
+## Adapt quickly
 @img[south span-80](assets/img/limit-wip.png)
 
 ---
-## A Willingness to Experiment
+## Willing to experiment
 @img[midpoint span-60](assets/img/experiment.png)
 
 ---
-## A Willingness to Fail
+## Willing to fail
 @img[midpoint span-65](assets/img/fail.png)
 
 ---
-## A Desire to Learn
+## Desire to learn
 @img[south span-50](assets/img/brain.jpg)
 
 ---
-## Continuous Improvement
+## Continuous improvement
 @img[south span-70](assets/img/make-time.png)
 
 ---
-## Reduce Complexity
+## Reduced complexity
 @img[south span-75](assets/img/ham.png)
 ---
 ## Agile is not a thing you do
