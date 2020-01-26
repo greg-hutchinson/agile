@@ -42,13 +42,10 @@ Duplicate Bridge Player
 ![](assets/img/duplicate-bridge.jpg)
 @snapend
 
----
+---?image=assets/img/grim-reaper.jpg&size=contain
 @title[Halloween]
-@snap[west text-09 span-45]
+@snap[west text-07 span-25]
 And I really like Halloween
-@snapend
-@snap[east text-09 span-50]
-![Me](assets/img/grim-reaper.jpg)
 @snapend
 
 ---
