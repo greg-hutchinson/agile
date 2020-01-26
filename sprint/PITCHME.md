@@ -90,9 +90,7 @@ Number of Weeks
 
 ---
 ## Why 1 to 4 Weeks
-@snap[midpoint span-80 text-right]
-![](assets/img/pivot.png)
-@snapend
+@img[midpoint span-80](assets/img/pivot.png)
 
 ---
 ## What Can We Conclude?

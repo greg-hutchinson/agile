@@ -101,52 +101,47 @@
 
 ---
 @title[Pace of Change]
-## Why do we want to be Agile?
+## Why do we want to<br> be Agile?
 @quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
-## Agile thinking acknowledges that predicting the future is not possible
-![Future](assets/img/mind-reader.png)
+## We Can't Predict the future
+@img[midpoint](assets/img/mind-reader.png)
 
 ---
-@title[Be Prepared for the Future]
-## Why do we want to be Agile?
-![Future](assets/img/blockbuster.png)
-### To be prepared for what the future holds
+## What were They Missing
+---
+## What were They Missing
+@img[west span-30](assets/img/blockbuster.png)
+@img[midpoint span-30](assets/img/kodak.jpg)
+@img[east span-30](assets/img/toysrus.png)
 
 ---
-## Adapt more quickly
-@snap[midpoint span-75]
-![](assets/img/adaptability.png)
-@snapend
+## The ability to Adapt
+@img[midpoint span-80](assets/img/adaptability.png)
+
 ---
+## Adapt more Quickly
+@img[south span-80](assets/img/limit-wip.png)
 
-## How do we adapt more quickly?
-By adopting an Agile mindset
-
-(Mindset - A Person's way of thinking)
 ---
 ## A Willingness to Experiment
-@snap[midpoint span-60]
-![Future](assets/img/experiment.png)
-@snapend
+@img[midpoint span-60](assets/img/experiment.png)
+
 ---
 ## A Willingness to Fail
-@snap[midpoint span-65]
-![Fail](assets/img/fail.png)
-@snapend
+@img[midpoint span-65](assets/img/fail.png)
 
 ---
 ## A Desire to Learn
+@img[south span-50](assets/img/brain.jpg)
 
 ---
-## Purposeful Continuous Improvement
+## Continuous Improvement
+@img[south span-70](assets/img/make-time.png)
 
 ---
-## To Reduce Complexity
-@snap[midpoint span-75]
-<br>
-![Future](assets/img/ham.png)
-@snapend
+## Reduce Complexity
+@img[south span-75](assets/img/ham.png)
 ---
 ## Agile is not a thing you do
 ### Agile is **not** a:
