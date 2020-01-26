@@ -20,3 +20,5 @@ Left To Do
   - [ ] Boxes
   - [ ] Padding
   - [ ] String
+
+- Celebrity Ordering (Need pictures)
