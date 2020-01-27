@@ -10,7 +10,7 @@
 
 ---?include=scrum-overview/PITCHME.md
 ---?include=product-owner/PITCHME.md
----?include=product-owner-celebrity-ordering/PITCHME.md
+---?include=celebrity-ordering/PITCHME.md
 ---?include=scrum-master/PITCHME.md
 ---?include=delivery-team/PITCHME.md
 ---?include=three-projects-three-experiments/PITCHME.md
