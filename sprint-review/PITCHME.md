@@ -1,19 +1,25 @@
 # Sprint Review
 ---
 ## The Review
-### What’s included:
+@snap[north-west text-08 span-45]
+<br><br>
+What’s included?
 - Demo of Potentially Shippable Product Increment
 - Discussion of unfinished work
 - Plan for next sprint
-### Why
+@snapend
+@snap[north-east text-08 span-45 text-left fragment]
+<br><br>
+Why?
 - True transparency
 - Early and frequent feedback
-### When
+@snapend
+@snap[east text-08 span-45 text-left fragment]
+When?
 - At the end of the sprint
-
+@snapend
 
 Note:
-- Done at the end of the sprint
 Demo of the increment:
 	The demo is a largest part of the sprint review. Done – feedback
 	Stakeholder language – problems solving and how we solved
@@ -25,7 +31,7 @@ When: At the end of each sprint
 
 ---
 ## What is a Potentially Shippable Product Increment?
-- All tasks are done
+- All tasks are done for all stories
 
 ---
 ## Who attends?

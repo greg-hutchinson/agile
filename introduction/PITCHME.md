@@ -12,9 +12,7 @@
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
 @snapend
-@snap[south-east span-40]
-![Me](assets/img/bio-greg-on-hill.jpg)
-@snapend
+@img[south-east span-40](assets/img/bio-greg-on-hill.jpg)
 
 ---
 ## Who am I?
@@ -34,9 +32,7 @@
     - Morocco
     - Colombia
 @snapend
-@snap[east span-35]
-![Me](assets/img/bio-greg-on-hill.jpg)
-@snapend
+@img[east span-35](assets/img/bio-greg-on-hill.jpg)
 @snap[south-west text-09 span-55 fragment]
 Duplicate Bridge Player
 ![](assets/img/duplicate-bridge.jpg)

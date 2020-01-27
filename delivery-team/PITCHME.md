@@ -13,18 +13,13 @@
 @ulend
 
 @snapend
-@snap[east span-45 text-center]
-![](assets/img/dev-team.png)
-@snapend
+@img[east span-45 text-center](assets/img/dev-team.png)
 
 ---
 ## Group Development
-@snap[midpoint span-95 text-center]
-![](assets/img/tuckman.png)
-@snapend
+@img[midpoint span-95 text-center](assets/img/tuckman.png)
 ---
 ## Delivery Team Responsibilities
-
 - Provides alternatives to the Product Owner
 - Collaborates with Stakeholders
 - Does everything necessary to deliver a quality solution   
@@ -32,17 +27,12 @@
     - translation/implementation
 
 @snap[south span-95 text-center]
-## Start to Finish
+### Everything from Start to Finish
 @snapend
 
----
-## T-Shaped Skills
-- Abilities (breadth)
-- Specialization (depth)
 
-### Specialized skills
-### with the
-### ability to contribute to other deliverables
+---?image=assets/img/t-shaped.png&size=contain&color=linear-gradient(to left, #56ccf2, #2f80ed)
+## T-Shaped Skills
 
 ---
 ## Specialization Issues
@@ -52,15 +42,26 @@
 - Dependencies on personnel
 ---
 ## Summary of T-Shaped skills
-- The ability to Swarm
+@snap[north span-65 text-left fragment]
+<br><br>
+- Everybody can do Everything
+@snapend
+
+@snap[north span-65 text-left fragment]
+<br><br>
+- ~~Everybody can do Everything~~
+@snapend
+
+@snap[north span-65 text-left fragment]
+<br><br>
 - ~~Everybody can do Everything~~
 - Very few things can be done by only one person
+@snapend
 
 ---
 ## Acquiring T-Shaped skills
-@snap[midpoint span-75 text-center]
-![](assets/img/panic-zone.png)
-@snapend
+@img[midpoint span-75 text-center](assets/img/panic-zone.png)
+
 Note:
 Robert Yerkes (1907) [American psychologist] reported, "Anxiety improves performance until a certain optimum level of arousal has been reached. Beyond that point, performance deteriorates as higher levels of anxiety are attained."[5] Beyond the optimum performance zone, lies the "danger zone" in which performance declines rapidly under the influence of greater anxiety.
 
@@ -70,9 +71,7 @@ Robert Yerkes (1907) [American psychologist] reported, "Anxiety improves perform
 - Focus is on effectiveness
 - Slack time is important
 @snapend
-@snap[east span-65 text-center]
-![](assets/img/slack.png)
-@snapend
+@img[east span-65 text-center](assets/img/slack.png)
 
 Note:
 “Stress kills innovation, as does busyness” [Tom DeMarco]

@@ -7,18 +7,14 @@
 @box[bg-purple text-white text-left] (Meaning: to take pleasure in someone else's misfortune)
 @snapend
 
-@snap[east span-25 text-center]
-![](assets/img/dictionary.png)
-@snapend
+@img[east span-25 text-center](assets/img/dictionary.png)
 
 ---
 ## What is a Sprint?
 @snap[west span-70 text-left]
 1 Day to 4 Weeks
 @snapend
-@snap[east span-70 text-right]
-![](assets/img/sprinting.png)
-@snapend
+@img[east span-70 text-right](assets/img/sprinting.png)
 
 ---
 ## Sprint Rules
