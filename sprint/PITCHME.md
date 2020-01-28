@@ -72,12 +72,12 @@ Number of Weeks
 
 ---
 ## Remember the word of the day?
-@snap[west span-70 text-right]
-@box[bg-purple  text-left text-white fragment] (Word: schadenfreude)
-@box[bg-purple text-white text-left fragment] (Pronounced: shaw-den-froy-day)
-@box[bg-purple text-white text-left fragment] (Meaning: to take pleasure in someone else's misfortune)
+@snap[west span-55 text-right]
+@box[bg-purple text-left text-white fragment] (Word: schadenfreude)
+@box[bg-orange text-white text-left fragment] (Pronounced: shaw-den-froy-day)
+@box[bg-pink text-white text-left fragment] (Meaning: to take pleasure in someone else's misfortune)
 @snapend
-@snap[east span-30 text-06 text-right]
+@snap[east span-40 text-07 text-left]
 @ul[list-fade-fragments]
 - We spent 30 seconds to learn this word.
 - We should expect to learn 100 words in 50 minutes.
