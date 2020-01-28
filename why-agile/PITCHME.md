@@ -2,7 +2,7 @@
 # Why Agile?
 ---
 ## Traditional Software Projects
-@snap[midpoint span-100 text-center]
+@snap[midpoint span-80 text-center]
 @ul[list-square-bullets list-hide-fragments]
 - Very long (1 to 7 years)
 - Large learning curves
