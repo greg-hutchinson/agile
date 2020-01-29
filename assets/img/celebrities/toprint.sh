@@ -1,1 +1,1 @@
-montage -label '%f' *.png -geometry +1+1 -tile 3x3 celebrities.pdf
+montage -label '%f' *.png -geometry +200+120 -border 1 -tile 3x3 celebrities.pdf
