@@ -45,6 +45,13 @@ And I really like Halloween
 @snapend
 
 ---
+## Introduce yourself
+- Name / Current Job role
+- How long you have been here
+- Experience with Agile/scrum
+- What you like to do in your spare time
+@img[south span-35](assets/img/introduce-yourself.jpg)
+---
 ## Agenda
 @snap[midpoint span-75]
 - Agile Theory

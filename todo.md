@@ -1,17 +1,20 @@
 Left To Do
 
-- [ ] Make Story cards with Points
+- [x] Make Story cards with Points
 - [ ] Nothing about Story Points ???
-- [ ] Paper and instructions for paper airplanes
+- [x] Paper and instructions for paper airplanes
+  - [x] Scissors
 - Marshmallow Challenge
-  - [ ] Marshmallows
-  - [ ] Spaghetti
-  - [ ] Tape
-  - [ ] Containers
-- Three projects
-    - [ ] Balls
+  - [x] Marshmallows
+  - [x] Spaghetti
+  - [x] Tape
+  - [x] Containers
+  - [x] Scissors
 
-- [ ] Sticky White Paper
+- Three projects
+    - [x] Balls
+
+- [x] Sticky White Paper
 - [ ] Tour-de-sprint cards
   - [ ] Bring laptops
 
@@ -21,4 +24,5 @@ Left To Do
   - [ ] Padding
   - [ ] String
 
-- Celebrity Ordering (Need pictures)
+- Celebrity Ordering
+  - [ ] Need pictures

@@ -2,11 +2,11 @@
 ---
 ### Rules and Constraints
 @snap[west span-80 text-07]
-- ¼ of a sheet of paper
+- ¼ of a sheet of paper (paper must be cut in 4)
 - Only one fold at a time per team member
 - Only the Product Owner tests
-    - Plane must fly 3 meters by aerodynamic lift
-    - Planes may only be tested once
+    - Airplane must fly 3 meters by aerodynamic lift
+    - Airplanes may only be tested once
 
 - Report results at the end of each iteration
     - Airplanes built
