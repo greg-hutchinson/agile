@@ -11,10 +11,10 @@
 
 ---
 ## What is a Sprint?
-@snap[west span-70 text-left]
+@snap[midpoint span-85 text-center]
 1 Day to 4 Weeks
+![](assets/img/sprinting.png)
 @snapend
-@img[east span-70 text-right](assets/img/sprinting.png)
 
 ---
 ## Sprint Rules
@@ -71,7 +71,7 @@ Number of Weeks
 
 
 ---
-## Remember the word of the day?
+## Test - Word of the day?
 @snap[west span-55 text-right]
 @box[bg-purple text-left text-white fragment] (Word: schadenfreude)
 @box[bg-orange text-white text-left fragment] (Pronounced: shaw-den-froy-day)

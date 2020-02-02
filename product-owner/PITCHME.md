@@ -20,8 +20,12 @@ ROI = \frac{BusinessValue}{Cost}
 @snapend
 
 ---
-## Product Owner Responsibilities
-- Sets the vision for the product
+## Product Owner Normal Responsibilities
 - Refinement
 - Plans
-- Maintains the product backlog
+- Maintain the product backlog
+
+---
+## Product Owner Responsibilities
+- Sets the vision for the product
+  - Make sure the team understands what the criteria is for deciding between stories

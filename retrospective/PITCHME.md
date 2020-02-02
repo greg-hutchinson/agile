@@ -19,7 +19,7 @@
 @snap[west span-45 ]
 ![](assets/img/retrospective-wind-in-sails.png)
 @snapend
-@snap[south span-75 text-05 ]
+@snap[south span-75 text-04 ]
 ### Templates for Running a Retrospective
 https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates
 @snapend

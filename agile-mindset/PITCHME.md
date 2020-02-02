@@ -140,7 +140,7 @@
 @img[south span-70](assets/img/make-time.png)
 
 ---
-## Reduced complexity
+## Reduce complexity
 @img[south span-75](assets/img/ham.png)
 ---
 ## Agile is not a thing you do
