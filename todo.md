@@ -15,11 +15,11 @@ Left To Do
     - [x] Balls
 
 - [x] Sticky White Paper
-- [ ] Tour-de-sprint cards
+- [x] Tour-de-sprint cards
   - [ ] Bring laptops
 
 - Celebrity Ordering
-  - [ ] Need pictures
+  - [x] Need pictures
 
 - [ ] Egg Drop
   - [ ] Hard-boiled Eggs
