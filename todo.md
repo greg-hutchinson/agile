@@ -18,11 +18,11 @@ Left To Do
 - [ ] Tour-de-sprint cards
   - [ ] Bring laptops
 
+- Celebrity Ordering
+  - [ ] Need pictures
+
 - [ ] Egg Drop
   - [ ] Hard-boiled Eggs
   - [ ] Boxes
   - [ ] Padding
   - [ ] String
-
-- Celebrity Ordering
-  - [ ] Need pictures
