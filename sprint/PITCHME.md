@@ -20,7 +20,7 @@
 ## Sprint Rules
 - No “non-delivery team” changes
 - Consistent sprint lengths
-- Team chooses how to complete stories (by priority)
+- Team chooses how to complete stories <br>(by priority)
 
 ---
 ## Why such a short timeframe?
@@ -40,7 +40,7 @@
   "datasets": [
    {
     "data":[0,1, 2, 4, 8, 16, 32, 64, 99],
-    "label":"Risk of ...",
+    "label":"Risk of Failure",
     "backgroundColor":"rgba(20,220,220,.8)"
    }
   ]
@@ -51,7 +51,7 @@
 </canvas>
 @snapend
 @snap[west span-10 text-06 text-left]
-Probability of <br>Failure
+Risk of <br>???
 @snapend
 @snap[south span-100 text-06 text-center]
 Number of Weeks

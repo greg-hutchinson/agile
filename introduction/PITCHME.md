@@ -51,14 +51,12 @@ And I really like Halloween
 - Experience with Agile/scrum
 - What you like to do in your spare time
 @img[south span-35](assets/img/introduce-yourself.jpg)
+
 ---
-## Agenda
-@snap[midpoint span-75]
+## High Level Agenda
 - Agile Theory
 - Scrum
-- Wrap up
-- What's Next
-@snapend
+- Wrap up & What's Next
 
 ---
 ## Goals
@@ -90,5 +88,9 @@ And I really like Halloween
 @snap[midpoint span-75]
 - A lot of these practices came out of the software development realm.
 - I believe that they can be applied in many areas.
-- Put into production - means deliver value.
 @snapend
+
+---
+## Terminology
+- Put into production - means deliver value.
+- Dev Team - Any team that is delivering value to a customer

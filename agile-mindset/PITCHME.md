@@ -109,8 +109,6 @@
 
 ---
 ## What were they missing?
----
-## What were they missing?
 @img[west span-30](assets/img/blockbuster.png)
 @img[midpoint span-30](assets/img/kodak.jpg)
 @img[east span-30](assets/img/toysrus.png)
