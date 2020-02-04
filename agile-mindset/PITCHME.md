@@ -115,19 +115,19 @@
 
 ---
 ## Ability to adapt
-@img[midpoint span-80](assets/img/adaptability.png)
+@img[midpoint span-80](assets/img/adaptability.jpg)
 
 ---
 ## Adapt quickly
 @img[south span-80](assets/img/limit-wip.png)
 
 ---
-## Willing to experiment
+## Embrace experimentation
 @img[midpoint span-60](assets/img/experiment.png)
 
 ---
-## Willing to fail
-@img[midpoint span-65](assets/img/fail.png)
+## Willingness to fail
+@img[midpoint span-65](assets/img/fail.jpg)
 
 ---
 ## Desire to learn
@@ -139,11 +139,13 @@
 
 ---
 ## Reduce complexity
-@img[south span-75](assets/img/ham.png)
+@img[south span-95](assets/img/ham.png)
 ---
-## Agile is not a thing you do
-### Agile is **not** a:
-- Checklist
-- Methodology
-- Specific way of delivering solutions
-- Framework or process
+## So ... agile is **not**
+- a specific way of delivering solutions
+- a framework or process
+- a methodology
+
+@snap[south text-center span-55 text-10 fragment]
+It's a way of **being**
+@snapend
