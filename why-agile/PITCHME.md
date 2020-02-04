@@ -36,9 +36,9 @@
 ---
 ## What did we notice?
 - We had very unhappy customers.
+- Planning and design phases were time consuming and added little value (as a deliverable) by themselves.
 - It changed the customers' behaviour.
 @snap[south span-45 text-center]
-<br><br>
 @img[fragment](assets/img/dilbert-easy.png)
 @snapend
 
