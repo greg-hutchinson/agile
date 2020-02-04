@@ -47,8 +47,8 @@ And I really like Halloween
 ---
 ## Introduce yourself
 - Name / Current Job role
-- How long you have been here
 - Experience with Agile/scrum
+- What are you hoping to get out of this training
 - What you like to do in your spare time
 @img[south span-35](assets/img/introduce-yourself.jpg)
 

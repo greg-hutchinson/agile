@@ -35,7 +35,7 @@
 
 ---
 ## What did we notice?
-- We had unhappy customers.
+- We had very unhappy customers.
 - It changed the customers' behaviour.
 @snap[south span-45 text-center]
 <br><br>
