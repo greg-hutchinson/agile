@@ -12,6 +12,6 @@
 @snap[east span-45 text-center text-06]
 @box[bg-purple  text-left text-white] (Agile: #Problem is Complex)
 @box[bg-purple  text-left text-white] (Problem is complicated)
-@box[bg-purple  text-left text-white] (Solving an incremental part of the problem will affect the rest of the solution)
+@box[bg-purple  text-left text-white] (Solving a part of the problem will affect the rest of the solution)
 @box[bg-purple  text-left text-white] (High chance of change)
 @snapend

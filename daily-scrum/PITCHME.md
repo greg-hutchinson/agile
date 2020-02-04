@@ -9,6 +9,7 @@ It is an opportunity to get together and communicate with the rest of your team.
 @snap[west span-40 text-07 text-left]
 @ul[list-fade-fragments]
 - Daily ~15 minute huddle
+- Not an update to the ScrumMaster
 - Same time & same place
 - Same questions
    - What did you work on yesterday?
