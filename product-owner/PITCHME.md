@@ -7,25 +7,30 @@
 
 ---
 ## ROI Calculation
-@snap[midpoint text-07 span-100]
+@snap[north text-07 span-100]
+<br><br><br><br>
 @math
 `\[
 ROI = \frac{BusinessValue}{Cost}
 \]`
 @mathend
-<br><br>
-### As Cost goes down, ROI goes up (As Cost → 0  then ROI → ∞)
-#### Conversely
+@snapend
+@snap[midpoint text-07 span-100 fragment]
+<br><br><br>
+### For the Mathematicians in the crowd
+<br>
+### As Cost goes down, ROI goes up (As Cost → 0 then ROI → ∞)
+#### And conversely
 ### As Cost goes up, ROI goes down (As Cost → ∞ then ROI → 0)
 @snapend
 
 ---
 ## Product Owner Normal Responsibilities
-- Refinement
-- Plans
-- Maintain the product backlog
+- Participates in the refinement
+- Participates in the planning session
+- Maintains and grooms the product backlog
 
 ---
 ## Product Owner Responsibilities
 - Sets the vision for the product
-  - Make sure the team understands what the criteria is for deciding between stories
+- Make sure the team understands what the criteria is for deciding between stories
