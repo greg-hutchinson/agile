@@ -1,10 +1,10 @@
 # Requirements <br>vs<br> Design
 ---
 ## Requirement
-### **What** is required (Not how)
+### Is **what** is required (Not the how)
 ---
 ## Design
-### **How** a requirement will be implemented
+### Is **how** a requirement will be implemented
 
 @snap[south span-100 text-center fragment ]
 Easy, right ???
