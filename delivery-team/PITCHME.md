@@ -3,30 +3,44 @@
 ## Attributes
 @snap[west text-08 span-55 text-left]
 @ul[list-fade-fragments]
-- Small team (<= 9 members)
-- Clear objectives & focus
-- Cross functional
-- Autonomous (self-organizing)
-- T-shaped skills
-- Responsible for solutions
+- Goals are clear
+- Focus
+- Small team
+- Specialist in some things
+  - Not everyone is a sniper
+- Generalists in others
+  - but all can shoot
+- Self-organizing (Autonomous)
+- Get the job done
 - Does not disband
 @ulend
-
 @snapend
-@img[east span-45 text-center](assets/img/dev-team.png)
+@img[east span-45 text-center](assets/img/swat-team.jpg)
 
 ---
 ## Group Development
-@img[midpoint span-95 text-center](assets/img/tuckman.png)
+@img[west span-70 text-center](assets/img/tuckman.jpg)
+@snap[east text-05 span-27 text-left fragment]
+- Learning about each other
+- Challenging each other
+- Working with each other
+- Working as one...
+@snapend
+
 ---
 ## Delivery Team Responsibilities
-- Provides alternatives to the Product Owner
-- Collaborates with Stakeholders
+@snap[midpoint text-08 span-90 text-left ]
+- Works closely with the Product Owner
+  - discussion solutions
+  - providing alternatives
+  - estimation
 - Does everything necessary to deliver a quality solution   
     - design/development/testing
     - translation/implementation
+<br><br>
+@snapend
 
-@snap[south span-95 text-center]
+@snap[south span-95 text-center fragment]
 ### Everything from Start to Finish
 @snapend
 
@@ -36,25 +50,21 @@
 
 ---
 ## Specialization Issues
-- Creates handoffs
-- Dependencies between tasks
+- Creates dependencies between tasks (handoffs)
 - Prioritization by skill and not ROI
-- Dependencies on personnel
+- Dependencies on individuals
+- Creates handoffs
 ---
 ## Summary of T-Shaped skills
 @snap[north span-65 text-left fragment]
 <br><br>
-- Everybody can do Everything
+- Everybody can do everything
 @snapend
+
 
 @snap[north span-65 text-left fragment]
 <br><br>
-- ~~Everybody can do Everything~~
-@snapend
-
-@snap[north span-65 text-left fragment]
-<br><br>
-- ~~Everybody can do Everything~~
+- ~~Everybody can do everything~~
 - Very few things can be done by only one person
 @snapend
 
@@ -62,18 +72,14 @@
 ## Acquiring T-Shaped skills
 @img[midpoint span-75 text-center](assets/img/panic-zone.png)
 
-Note:
-Robert Yerkes (1907) [American psychologist] reported, "Anxiety improves performance until a certain optimum level of arousal has been reached. Beyond that point, performance deteriorates as higher levels of anxiety are attained."[5] Beyond the optimum performance zone, lies the "danger zone" in which performance declines rapidly under the influence of greater anxiety.
-
 ---
-## Focus is not on Utilization
-@snap[west span-35 text-left]
-- Focus is on effectiveness
+## Utilization
+@snap[west span-40 text-left text-08]
+- Focus should be on effectiveness
 - Slack time is important
 @snapend
-@img[east span-65 text-center](assets/img/slack.png)
+@img[east span-55 text-center](assets/img/fire-women.jpg)
 
-Note:
-“Stress kills innovation, as does busyness” [Tom DeMarco]
-Putting people under pressure means they will do as told, not thinking about the why (and possibly innovate better ways)
-Do not focus foremost on utilization and efficiency of resources in complex environments!
+@snap[south span-100 fragment text-06]
+@quote[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](Tom Demarco)
+@snapend
