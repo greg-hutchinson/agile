@@ -1,6 +1,22 @@
 
 # Why Agile?
 ---
+## Why do we want to be "Agile"?
+@snap[midpoint span-80 text-center fragment]
+@img[](assets/img/cool.png)
+Because it is really cool?
+@snapend
+---
+## Why do we want to be "Agile"?
+@snap[midpoint span-80 text-center]
+@img[span-50](assets/img/delighted-customer.jpg)
+It's all about delighting customers
+@snapend
+
+---
+## What went wrong?
+
+---
 ## Traditional Software Projects
 @snap[midpoint span-80 text-center]
 @ul[list-square-bullets list-hide-fragments]
@@ -45,7 +61,7 @@
 ---
 @title[Standish Study]
 ## Other Consequences
-![Standish](assets/img/standish.png)
+@img[midpoint span-60](assets/img/standish.png)
 
 ---
 ## An Agile Approach

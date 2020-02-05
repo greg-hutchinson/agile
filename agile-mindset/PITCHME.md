@@ -4,13 +4,10 @@
 ## Mindset, Values, Principles, Practices
 @img[east](assets/img/agile-mindset.jpg)
 
-@snap[west text-06 span-40]
-- Values
-   - beliefs that govern behavior of a person
-- Principles
-   - support and satisfy Values
-- Practices, Tools & Processes
-   - the actions we take
+@snap[west text-08 span-45]
+- Values - beliefs that govern behavior of a person
+- Principles - support and satisfy Values
+- Practices, Tools & Processes - the actions we take
 @snapend
 ---
 ## Agile Manifesto - Values
@@ -118,7 +115,9 @@
 @img[midpoint span-80](assets/img/adaptability.jpg)
 
 ---
-## Adapt quickly
+## How do we adapt quickly?
+---
+### Limit work in progress (wip)
 @img[south span-80](assets/img/limit-wip.png)
 
 ---
@@ -146,6 +145,6 @@
 - a framework or process
 - a methodology
 
-@snap[south text-center span-55 text-10 fragment]
-It's a way of **being**
+@snap[south text-center span-55 text-15 fragment]
+It's a way of ***being***
 @snapend
