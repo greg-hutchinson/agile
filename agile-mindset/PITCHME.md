@@ -5,7 +5,7 @@
 @img[east](assets/img/agile-mindset.jpg)
 
 @snap[west text-08 span-45]
-- Values - beliefs that govern behavior of a person
+- Values - beliefs that govern the behavior of a person
 - Principles - support and satisfy Values
 - Practices, Tools & Processes - the actions we take
 @snapend

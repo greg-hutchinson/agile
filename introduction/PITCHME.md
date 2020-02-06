@@ -88,7 +88,7 @@ And I really like Halloween
 
 ---
 ## Make note of any A-ha's
-@img[span-50](assets/img/light-bulb.png)
+@img[span-75](assets/img/aha.png)
 
 ---
 ## Confirmation Bias

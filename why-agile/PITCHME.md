@@ -51,10 +51,13 @@ It's all about delighting customers
 
 ---
 ## What did we notice?
+@snap[north span-100 text-left text-09]
+<br><br>
 - We had very unhappy customers.
 - Planning and design phases were time consuming and added little value (as a deliverable) by themselves.
 - It changed the customers' behaviour.
-@snap[south span-45 text-center]
+@snapend
+@snap[south span-80 text-center]
 @img[fragment](assets/img/dilbert-easy.png)
 @snapend
 
