@@ -25,6 +25,13 @@ ROI = \frac{BusinessValue}{Cost}
 @snapend
 
 ---
+## Other considerations
+@snap[midpoint span-75]
+![](assets/img/order-the-backlog.jpg)
+@snapend
+
+
+---
 ## Product Owner Normal Responsibilities
 - Participates in the refinement
 - Participates in the planning session
