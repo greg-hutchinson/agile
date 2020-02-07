@@ -24,6 +24,7 @@
 ---?include=building-paper-airplanes/PITCHME.md
 
 ---?include=marshmallowchallenge/PITCHME.md
+---?include=wrap-up/PITCHME.md
 ---
 # And Finally ...
 @img[fragment](assets/img/thank-you.jpg)

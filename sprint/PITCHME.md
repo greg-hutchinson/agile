@@ -8,6 +8,7 @@
 @snapend
 
 @img[east span-25 text-center](assets/img/dictionary.png)
+@img[south-east span-15 text-center fragment](assets/img/devil.png)
 
 ---
 ## What is a Sprint?
@@ -81,7 +82,7 @@ Number of Weeks
 @ul[list-fade-fragments]
 - We spent 30 seconds to learn this word.
 - We should expect to learn 100 words in 50 minutes.
-- It will probably take a lot longer.
+- Could you achieve that?
 @snapend
 
 ---
