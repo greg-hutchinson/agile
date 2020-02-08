@@ -13,25 +13,15 @@ Project 3
 
 ---
 ### Iteration 1
-- Complete Project 1, Project 2 and then 3 consecutively.
-- Capture how long it took you to do all of them.
+- Do them in order
 
 
 ---
 ### Iteration 2
-Business conditions have changed and your priority will now be dictated in real time.
-
-- Begin with Project 1 and switch to Project 2 when you hear "switch"
-    - Pick up where you left off as you cycle through the story.
-- Capture how long it to you to do all of them.
-
+- I will call switch
 ---
 ### Iteration 3
-
-- Complete Project 1, Project 2 and then 3 consecutively.
-    - There is a new goal that ensure that no one is ever idle.
-
-- Capture how long it to you to do all of them.
+- With a ball and I will call switch
 
 ---
 ### Debrief

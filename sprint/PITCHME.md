@@ -19,9 +19,6 @@
 
 ---
 ## Sprint Rules
-- No “non-delivery team” changes
-- Consistent sprint lengths
-- Team chooses how to complete stories <br>(by priority)
 
 ---
 ## Why such a short timeframe?
@@ -87,7 +84,6 @@ Number of Weeks
 
 ---
 ## Why 1 to 4 weeks
-@img[midpoint span-80](assets/img/pivot.png)
 
 ---
 ## What can we conclude?

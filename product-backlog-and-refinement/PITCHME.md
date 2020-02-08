@@ -45,4 +45,8 @@ Worded often as such:
 
 ---
 ## What Does a Good Product Backlog Look Like?
-@img[south span-55 text-center](assets/img/deep.png)
+### D.E.E.P.
+- Detailed Appropriately
+- Estimated (enough)
+- Emergent
+- Prioritized

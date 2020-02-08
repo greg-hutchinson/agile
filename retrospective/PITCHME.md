@@ -3,16 +3,7 @@
 ---
 ## Allocate Time for Continuous Improvement
 - Review any experiments from last sprint
-- Occurs after the Sprint Review and prior to the next Sprint Planning.
-- Scrum master facilitates
 - The goal is to identify one improvement in the team’s process that they can try.
-
-
----
-## Relect on the Past Sprint
-- What went well
-- What did not
-- What can we do to improve
 
 ---
 ## Collect Data
@@ -47,6 +38,4 @@ By including a translation person on the team, we will reduce the amount of item
 
 ---
 ## Retrospective Ground Rules
-- Be honest, constructive, professional, and respectful
-- Focus on what's relevant for the team
 - Be positive and enthusiastic
