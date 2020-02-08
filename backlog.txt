@@ -87,5 +87,3 @@
 ---?include=three-projects-three-expirements/PITCHME.md
 
 ---?include=triangle/PITCHME.md
-
----?include=tour-de-sprint/PITCHME.md
