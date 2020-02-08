@@ -44,7 +44,6 @@
 ## How do we adapt quickly?
 ---
 ### Limit work in progress (wip)
-@img[south span-80](assets/img/limit-wip.png)
 
 ---
 ## Embrace experimentation
