@@ -50,10 +50,6 @@
 
 ---
 ## Specialization Issues
-- Creates dependencies between tasks (handoffs)
-- Prioritization by skill and not ROI
-- Dependencies on individuals
-- Creates handoffs
 ---
 ## Summary of T-Shaped skills
 @snap[north span-65 text-left fragment]

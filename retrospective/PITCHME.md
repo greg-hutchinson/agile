@@ -47,7 +47,6 @@ By including a translation person on the team, we will reduce the amount of item
 
 ---
 ## Retrospective Ground Rules
-- Everyone participates & pays attention
-- Be honest, constructive, professional, and respectful (don’t get personal or finger point)
+- Be honest, constructive, professional, and respectful
 - Focus on what's relevant for the team
-- Be positive and enthusiastic – you're given the opportunity to improve!
+- Be positive and enthusiastic

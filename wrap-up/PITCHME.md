@@ -1,16 +1,6 @@
 # Wrap-up
 ---
 ## Review?
-@snap[south span-90 text-08]
-- It’s not about being agile for the sake of being agile. It’s about delighting customers.
-- Work in progress (WIP) is a liability towards being agile.
-- Agile teams aren’t afraid of REWORK.
-- Agile Teams are about delivering business value sooner and more frequently. This is not necessarily the most ***efficient*** way to deliver.
-- Agile is not an absolute term, rather it is a relative term
-- Agile isn’t a thing we do, it’s a mindset.
-- Agile delivery minimizes Risk.
-<br><br>
-@snapend
 
 ---
 ## Any A-ha's or parking lot?
