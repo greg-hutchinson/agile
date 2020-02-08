@@ -93,6 +93,7 @@ And I really like Halloween
 @snapend
 @img[south-east span-25](assets/img/thinking-cap.jpg)
 
+
 ---
 ## Last comments
 @snap[midpoint span-75]
