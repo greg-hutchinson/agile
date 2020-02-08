@@ -16,7 +16,7 @@ Left To Do
 
 - [x] Sticky White Paper
 - [x] Tour-de-sprint cards
-  - [ ] Bring laptops
+  - [x] Bring laptops
 
 - Celebrity Ordering
   - [x] Need pictures
