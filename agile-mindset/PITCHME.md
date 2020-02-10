@@ -28,7 +28,6 @@
 @quote[The pace of change has never been this fast, yet it will never be this slow again]
 ---
 ## We can't predict the future
-@img[midpoint](assets/img/mind-reader.png)
 
 ---
 ## What were they missing?
