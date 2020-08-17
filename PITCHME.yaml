@@ -15,7 +15,7 @@ layout           : top
 
 theme-override: assets/css/PITCHME.css
 highlight        : solarized-light
-footnote : "MLT Aikins - Agile and Scrum - Feb 5-6, 2020"
+footnote : "MLT Aikins - Agile and Scrum Review - Aug 18, 2020"
 title : "Agile and Scrum"
 
 published : true
