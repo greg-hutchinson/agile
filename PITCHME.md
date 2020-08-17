@@ -49,3 +49,11 @@ It's all about delighting customers
 - List your stories on the sprint board
 - Create detailed tasks for everything that is required to complete that story
 - Once all the tasks are completed for a story, only then is the story done.
+
+---
+# The Rest of the Day
+- Retrospective (Happy, Sad, Ideas, Thanks)
+- Planning and Refinement (Current Sprint Backlog)
+- Start of Sprint (Sprint Board Setup)
+- Daily Scrum
+- Review (Demo)
