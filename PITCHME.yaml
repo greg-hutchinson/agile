@@ -15,10 +15,10 @@ layout           : top
 
 theme-override: assets/css/PITCHME.css
 highlight        : solarized-light
-footnote : "Agile and Scrum - Attractors Consulting Inc."
-title : "Agile and Scrum"
+footnote : "Agile - The Roots of Devops - Attractors Consulting Inc."
+title : "Agile - the roots of Devops"
 
-published : true
+published : false
 mathjax : TeX-MML-AM_HTMLorMML-full
 charts: true
 
