@@ -1,15 +1,15 @@
 
 @snap[midpoint text-06 span-35]
-# Agile - the root of DevOps
+# Agile - The Root of DevOps
 @snapend
 ---
 ## Who am I?
-@snap[west text-06 span-55]
+@snap[west text-06 span-60]
 - Software Developer since 1982
     - 8085 Assembler, C, Smalltalk, Java, Ruby
 - Computer aided self driven tractors (1985)
 - Consultant for Credit Suisse and UBS banks in Zurich
-- Reviewer for eXtreme Programming Explained (1996)
+- Reviewer for Extreme Programming Explained (1996)
 - Principal Application Developer - FCC
 - Director of Agile Center of Excellence - FCC
 - IT Principal - FCC
