@@ -62,9 +62,8 @@ And I really like Halloween
 ## Goals
 ### At the end of this training you will:
 @snap[midpoint span-90 text-09]
-- have an understanding of Agile thinking and why it works
-- have a basic understanding of Scrum and its roles, artifacts and ceremonies
-- have an idea of what next week might look like
+- Have an understanding of Agile thinking and why it works
+- Have a basic understanding of Scrum and its roles, artifacts and ceremonies
 @snapend
 
 ---
@@ -92,7 +91,7 @@ And I really like Halloween
 
 ---
 ## Confirmation Bias
-@snap[midpoint span-75]
+@snap[midpoint span-85]
 @ul[list-square-bullets font-concert-one text-08 text-italic text-yellow](true)
 - Your task is to find the rule to the sequence of numbers that I will give you.
 - You can ask me only one question - "Is n the next number in the sequence".
@@ -108,9 +107,9 @@ And I really like Halloween
 
 ---
 ## Last comments
-@snap[midpoint span-75]
-- A lot of these practices came out of the software development realm.
-- I believe that they can be applied in many areas.
-- Put into production - means deliver value.
+@snap[midpoint span-100]
+- A lot of these practices came out of the software development realm
+- I believe that they can be applied in many areas
+- Put into production - means deliver value
 - Dev Team - Any team that is delivering value to a customer
 @snapend

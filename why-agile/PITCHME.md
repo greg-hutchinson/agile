@@ -1,6 +1,4 @@
 
-# Why Agile?
----
 ## Why do we want to be "Agile"?
 @snap[midpoint span-80 text-center fragment]
 @img[](assets/img/cool.png)

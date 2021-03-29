@@ -1,6 +1,10 @@
 ### Triangle Experiment
----
 
+---
+## What kind of Problem did we solve?
+- Complex?
+- Complicated?
+---
 ## When to use which approach?
 @snap[west span-45 text-center text-07]
 @box[bg-purple  text-left text-white] (Traditional: #Problem is Complicated.)
