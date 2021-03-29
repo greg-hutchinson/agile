@@ -5,12 +5,14 @@
 ---
 ## Who am I?
 @snap[west text-06 span-55]
+@ul[list-square-bullets list-fragments]
 - Software Developer since 1982
-    - 8085 Assembler, C, Smalltalk, Java, Ruby
+  - 8085 Assembler, C, Smalltalk, Java, Ruby
 - GPS driven tractors (1985)
 - Consultant for Credit Suisse and UBS banks in Zurich
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
+@ulend
 @snapend
 @img[south-east span-40](assets/img/bio-greg-on-hill.jpg)
 
@@ -93,13 +95,13 @@ And I really like Halloween
 ## Confirmation Bias
 @snap[midpoint span-85]
 @ul[list-square-bullets font-concert-one text-08 text-italic text-yellow](true)
-- Your task is to find the rule to the sequence of numbers that I will give you.
-- You can ask me only one question - "Is n the next number in the sequence".
+- Your task is to find the rule to the list of numbers that I will give you.
+- You can ask me only one question - "Is n the next number in this list".
   - However, you can ask this **any number** of times.
 - You only get one guess at the rule.
   - If you are right - you win.
   - If not, well ...
-- Here is the sequence:
+- Here is the start of the list:
     - 2, 4, 6, 8, ...
 @ulend
 @snapend

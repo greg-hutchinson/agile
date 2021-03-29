@@ -23,6 +23,7 @@ It's all about delighting customers
 - Many features are implemented incorrectly or are missed
 - Stressful for everyone
 - Expensive
+@ulend
 @snapend
 
 ---
@@ -45,6 +46,7 @@ It's all about delighting customers
 - Project took even longer
 - Exact same results
 - **Madness**
+@ulend
 @snapend
 
 ---
