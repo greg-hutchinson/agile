@@ -1,9 +1,8 @@
 
-# Complex<br>vs<br>Complicated
+# Complicated<br>vs<br>Complex
 ---
 ## The Cynefin Framework
-@img[span-65](assets/img/cynefin.png)
-
+![Video](https://www.youtube.com/embed/N7oz366X0-8)
 ---
 ## Ordered Systems
 @snap[east span-15 text-07 text-center]
