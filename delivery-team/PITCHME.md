@@ -43,8 +43,17 @@
 @snap[south span-95 text-center fragment]
 ### Everything from Start to Finish
 @snapend
+---
+## Delivery Team Responsibilities
+### Focus on FINISHING work
+- Assuming that you have 100 things to finish - Are these 2 statements equal?
+  - 100% of 80 things or
+  - 80% of 100 things
 
-
+@snap[south span-95 text-center fragment]
+### How ?
+@snapend
+---?image=assets/img/swarm-bees.jpeg&size=contain
 ---?image=assets/img/t-shaped.png&size=contain&color=linear-gradient(to left, #56ccf2, #2f80ed)
 ## T-Shaped Skills
 
