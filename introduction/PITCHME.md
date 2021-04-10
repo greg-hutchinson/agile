@@ -7,8 +7,8 @@
 @snap[west text-06 span-60]
 - Software Developer since 1982
     - 8085 Assembler, C, Smalltalk, Java, Ruby
-- Computer aided self driven tractors (1985)
-- Consultant for Credit Suisse and UBS banks in Zurich
+- Computer assisted self driven tractors (1985)
+- Consultant for Credit Suisse and UBS banks in Zurich (1993-2000)
 - Reviewer for Extreme Programming Explained (1996)
 - Principal Application Developer - FCC
 - Director of Agile Center of Excellence - FCC
@@ -35,7 +35,7 @@
     - Colombia
 @snapend
 @img[east span-35](assets/img/bio-greg-on-hill.jpg)
-@snap[south-west text-09 span-55 fragment]
+@snap[south-west text-09 span-55]
 Duplicate Bridge Player
 ![](assets/img/duplicate-bridge.jpg)
 @snapend
