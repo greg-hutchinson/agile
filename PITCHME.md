@@ -1,34 +1,42 @@
 ---?include=introduction/PITCHME.md
 ---
-# Why do we want to be "Agile"?
+## Why do we want to be "Agile"?
 ---
-# Why do we want to be "Agile"?
+## Why do we want to be "Agile"?
 Before we can answer that, we need to answer this:
-## What's wrong with our Traditional Approaches?
+@snap[midpoint span-95 fragment]
+### What was wrong with our traditional approach?
+@snapend
 ---
-### What are Characteristics of a Traditional Software Project?
+### What are characteristics of a failed traditional software project?
 @snap[midpoint span-95]
 @ul[list-square-bullets text-08 text-italic](true)
-- Slow
-- Late
-- Big deliverables
+- Late, Over-budget
 - Large teams
-- Overbudget
-- Doesn't work as expected
-- Risky
-- Unhappy Customers
+- Big Bang
+- Not what was expected/promised
+- Risky - Big change is usually riskier
 @ulend
 @snapend
----?color=blue
+---
 ### How Do We Measure the Success of a Traditional Software Project?
----?color=blue
+---
 ### How Do We Measure the Success of a Traditional Software Project?
-@snap[midpoint span-95]
-@img[span-45](assets/img/Project-triangle.png)
+@snap[west span-75]
+@img[span-45](assets/img/time-cost-scope.jpeg)
 @ul[list-square-bullets text-08 text-italic](true)
 - On Time, on Scope, on Budget
-- But what if the customer is still unhappy?
+- But what is missing?
 @ulend
+@snapend
+@snap[south-east span-60 fragment]
+@img[span-65](assets/img/crying.jpeg)
+@snapend
+---
+### How Do We Measure the Success of an Agile Project
+@snap[midpoint span-80 fragment]
+@img[span-65](assets/img/smile-cartoon.png)
+### By the width of the customers smile
 @snapend
 ---
 ## Why do we want to be "Agile"?
@@ -41,6 +49,23 @@ Because it is really cool?
 @snap[midpoint span-80 text-center]
 @img[span-50](assets/img/delighted-customer.jpg)
 It's all about delighting customers
+@snapend
+---
+[comment]: <> (This is a comment, it will not be included)
+## The Cynefin Framework
+![Video](https://www.youtube.com/embed/N7oz366X0-8?start=160)
+---
+## Concrete Examples
+@snap[west span-50 text-07 text-center ]
+Raising a Child
+@img[span-50](assets/img/alex-steph.jpg)
+@snapend
+@snap[east span-46 text-07 text-center ]
+Sending a Rocket to the Moon
+![](assets/img/rocket.png)
+@snapend
+@snap[south text-3 span-100 text-center ]
+Which is Complex? Complicated?
 @snapend
 
 ---?include=agile-mindset/PITCHME.md
