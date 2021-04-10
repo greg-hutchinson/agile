@@ -8,6 +8,7 @@ The Assignment
 - You are the Scrum Team tasked with completing this work. Attractors Travel Agency is your customer
 - You will work in 2 sprints to complete the work. At the end of each sprint you will demo your completed stories. You will also talk about the work planned for your upcoming sprints.
 - Each Sprint is 20 mins.
+- Use the provided template to fill in the information that you research
 <br><br>
 @snapend
 @snap[south span-55 text-07]

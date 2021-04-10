@@ -31,9 +31,9 @@
 ## Delivery Team Responsibilities
 @snap[midpoint text-08 span-90 text-left ]
 - Works closely with the Product Owner
-  - discussion solutions
-  - providing alternatives
-  - estimation
+  - discuss solutions
+  - suggest alternatives
+  - estimate stories
 - Does everything necessary to deliver a quality solution   
     - design/development/testing
     - translation/implementation
