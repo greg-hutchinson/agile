@@ -51,9 +51,31 @@ Because it is really cool?
 It's all about delighting customers
 @snapend
 ---
-[comment]: <> (This is a comment, it will not be included)
+## Why have so many traditional software projects failed?
+@snap[west span-50 text-center fragment]
+We managed them as if they were other construction projects
+<br>
+(A Complicated Problem)
+@snapend
+@snap[east span-50 text-center fragment]
+@img[span-60](assets/img/blueprint.jpeg)
+@snapend
+@snap[south-east span-60 text-center fragment]
+@img[span-70](assets/img/gantt-chart.jpeg)
+@snapend
+---
+
 ## The Cynefin Framework
 ![Video](https://www.youtube.com/embed/N7oz366X0-8?start=160)
+For the full video go to: https://www.youtube.com/watch?v=N7oz366X0-8
+---
+## Distinguishing characteristics of these two problem domains
+- Complicated problems - Cause and Effect is predictable in advance
+- Complex problems - There is a cause and effect but only recognizable in hindsight
+---
+## The ways that we solve these problems is entirely different
+- Complicated problems - Do some analysis, make a plan, execute the plan
+- Complex problems - Have an approach, if it works continue to do it, if it doesn't, change something
 ---
 ## Concrete Examples
 @snap[west span-50 text-07 text-center ]
@@ -70,62 +92,63 @@ Which is Complex? Complicated?
 
 ---?include=agile-mindset/PITCHME.md
 ---
-## How Does an Agile Project Measure Success?
-@snap[midpoint span-95]
-@ul[list-square-bullets text-08 text-italic](true)
-- Success is measured by the width of the smile on the Customers face.
-@ulend
-@snapend
+## Tactics for Agile Teams
+@img[](assets/img/agile-principles-circled.png)
 ---
-## Agile Teams Focus on Technical Excellence
+## Continuous Attention to Technical Excellence - (9)
 - Automation is key (Unit Test Cases)
 - Refactoring
 - Code Review
+- Continuous Integration (with servers)
+- Distributed Version Control Systems (DVCS - Git)
 ---
-## DevOps takes this even further
-- Self regulating systems (compare dev and maintenance teams)
-- Verifiable Documentation
+## Reduce Complexity - (10)
+@img[south span-95](assets/img/ham.png)
+---
+## Continuous Improvement - (11)
+@img[south span-70](assets/img/make-time.png)
+---
+## Experiment - (11)
+@img[midpoint span-60](assets/img/experiment.png)
+---
+## Willingness to Fail - (11)
+@img[midpoint span-65](assets/img/fail.jpg)
+---
+## Desire to Learn - (11)
+@img[south span-50](assets/img/brain.jpg)
+---
+## DevOps Builds on This Even Further
 - Automation of .... well everything
 - Infrastructure as code (Puppet, Chef, Docker)  
-- Continuous testing
-- Continuous pipelines
-- Continuous deployment
+  - Build scripts (Environment)
+- Continuous Delivery/Deployment (CD)
 - Realtime diagnostics
-
 ---
 ## The Fcc Journey
-- A small team was created with 2 agile coaches.
-- Success - Why? Customers were delighted
-  - But the bar was low. :-)
-- Trained each team in scrum and that was it. The whole organization bought into the Agile Mindset and we all lived happily ever after. - The End -
-
+#### Trained each team in scrum and that was it. The whole organization bought into the Agile Mindset and we all lived happily ever after.
+<br>- The End -
 ---
-## Not Quite
-### We made mistakes:
+### Well... Not Quite.<br> We had some learnings along the way
+@snap[midpoint span-95 text-07 text-center]
+- A small team was created with 2 agile coaches.
+- Successful - Customers were delighted
+  - But the bar was pretty low.
+- Reorganized the team into product teams.
+  - Less despendencies between Teams
+  - Able to deliver (Soup to nuts)
 - Adopted scrum first, but didn't focus on the mindset
-- Needs constant reinforcing / coaching / training
+- Needed constant reinforcing - Coaches left too soon
 - Created the Agile Center of Excellence (Ace)
   - Dojos.
----
-## Mistakes that are commonly made:
-### The first thing that everyone adopts is terminology and ceremony
-- 6 month Sprints
-- Iterations
-- Stand-ups
-
+@snapend
 ---
 ### Summary
-- Agile is first and foremost a mindset.
-- Agile is not an absolute term
-- Waterfall can work but works better for complex problems
-- Focus on truly empowering the teams (Mindset shift)
-- Treat software as an asset (Mindset shift)
-- Disney story (parking) Micky Mouse.png (Goofy)
-- Focus on Continuous Feedback  
-- This is actually a bigger issue (Complex vs Complicated - Child rearing example)
-
+- Agile is first and foremost a mindset
+- DevOps builds on the Agile practices, but with even more emphasis on automation
+- Waterfall approach works better for complicated problems
 ---
-# And Finally ...
-@img[fragment](assets/img/thank-you.jpg)
-
-Parting Words
+## And Finally ...
+If you can look back in 6 months and say<br><br>"We are more Agile today than we were 6 months ago"<br><br>That's progress. Enjoy the Journey
+---
+@img[midpoint](assets/img/thank-you.jpg)
+@img[south-east span-25](assets/img/bio-greg-on-hill.jpg)
