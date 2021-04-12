@@ -95,6 +95,9 @@ Which is Complex? Complicated?
 ## Tactics for Agile Teams
 @img[](assets/img/agile-principles-circled.png)
 ---
+## Build Projects Around Motivated Individuals - (5)
+@img[south span-35](assets/img/mickey.jpeg)
+---
 ## Continuous Attention to Technical Excellence - (9)
 - Automation is key (Unit Test Cases)
 - Refactoring
@@ -124,9 +127,10 @@ Which is Complex? Complicated?
 - Continuous Delivery/Deployment (CD)
 - Realtime diagnostics
 ---
-## The Fcc Journey
+## The FCC Journey
 #### Trained each team in scrum and that was it. The whole organization bought into the Agile Mindset and we all lived happily ever after.
 <br>- The End -
+@img[south-east span-40](assets/img/cinderella.jpeg)
 ---
 ### Well... Not Quite.<br> We had some learnings along the way
 @snap[midpoint span-95 text-07 text-center]
@@ -134,7 +138,7 @@ Which is Complex? Complicated?
 - Successful - Customers were delighted
   - But the bar was pretty low.
 - Reorganized the team into product teams.
-  - Less despendencies between Teams
+  - Less dependencies between Teams
   - Able to deliver (Soup to nuts)
 - Adopted scrum first, but didn't focus on the mindset
 - Needed constant reinforcing - Coaches left too soon
@@ -148,7 +152,7 @@ Which is Complex? Complicated?
 - Waterfall approach works better for complicated problems
 ---
 ## And Finally ...
-If you can look back in 6 months and say<br><br>"We are more Agile today than we were 6 months ago"<br><br>That's progress. Enjoy the Journey
+If you can look back in 6 months and say<br><br>"We are more Agile today than we were 6 months ago"<br><br>That's progress. Enjoy the journey
 ---
 @img[midpoint](assets/img/thank-you.jpg)
 @img[south-east span-25](assets/img/bio-greg-on-hill.jpg)
