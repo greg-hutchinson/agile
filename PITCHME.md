@@ -1,22 +1,20 @@
 ---?include=introduction/PITCHME.md
 ---
 ## Why do we want to be "Agile"?
----
-## Why do we want to be "Agile"?
 Before we can answer that, we need to answer this:
 @snap[midpoint span-95 fragment]
 ### What was wrong with our traditional approach?
 @snapend
 ---
 ### What are characteristics of a failed traditional software project?
+---
+### What are characteristics of a failed traditional software project?
 @snap[midpoint span-95]
-@ul[list-square-bullets text-08 text-italic](true)
 - Late, Over-budget
-- Large teams
-- Big Bang
+- Large project / large number of people
+- Big bang delivery
 - Not what was expected/promised
-- Risky - Big change is usually riskier
-@ulend
+- Risky - Large deliverables are riskier
 @snapend
 ---
 ### How Do We Measure the Success of a Traditional Software Project?
@@ -35,8 +33,8 @@ Before we can answer that, we need to answer this:
 ---
 ### How Do We Measure the Success of an Agile Project
 @snap[midpoint span-80 fragment]
-@img[span-65](assets/img/smile-cartoon.png)
-### By the width of the customers smile
+@img[span-60](assets/img/smile-cartoon.png)
+### By the width of the customer's smile
 @snapend
 ---
 ## Why do we want to be "Agile"?
@@ -52,15 +50,17 @@ It's all about delighting customers
 @snapend
 ---
 ## Why have so many traditional software projects failed?
-@snap[west span-50 text-center fragment]
+---
+## Why have so many traditional software projects failed?
+@snap[west span-50 text-center]
 We managed them as if they were other construction projects
 <br>
 (A Complicated Problem)
 @snapend
-@snap[east span-50 text-center fragment]
+@snap[east span-50 text-center]
 @img[span-60](assets/img/blueprint.jpeg)
 @snapend
-@snap[south-east span-60 text-center fragment]
+@snap[south-east span-60 text-center]
 @img[span-70](assets/img/gantt-chart.jpeg)
 @snapend
 ---
@@ -128,6 +128,8 @@ Which is Complex? Complicated?
 - Realtime diagnostics
 ---
 ## The FCC Journey
+---
+## The FCC Journey
 #### Trained each team in scrum and that was it. The whole organization bought into the Agile Mindset and we all lived happily ever after.
 <br>- The End -
 @img[south-east span-40](assets/img/cinderella.jpeg)
@@ -142,9 +144,10 @@ Which is Complex? Complicated?
   - Able to deliver (Soup to nuts)
 - Adopted scrum first, but didn't focus on the mindset
 - Needed constant reinforcing - Coaches left too soon
-- Created the Agile Center of Excellence (Ace)
-  - Dojos.
 @snapend
+---
+### Create the Agile Center of Excellence (ACE)
+@img[midpoint span-70](assets/img/dojo.jpeg)
 ---
 ### Summary
 - Agile is first and foremost a mindset
