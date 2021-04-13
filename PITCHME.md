@@ -183,3 +183,4 @@ If you can look back in 6 months and say<br><br>"We are more Agile today than we
 ---
 @img[midpoint](assets/img/thank-you.jpg)
 @img[south-east span-25](assets/img/bio-greg-on-hill.jpg)
+#### Contact me @ the.greg.hutchinson@gmail.com
