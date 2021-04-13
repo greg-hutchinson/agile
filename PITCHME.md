@@ -134,16 +134,26 @@ Which is Complex? Complicated?
 <br>- The End -
 @img[south-east span-40](assets/img/cinderella.jpeg)
 ---
-### Well... Not Quite.<br> We had some learnings along the way
-@snap[midpoint span-95 text-07 text-center]
-- A small team was created with 2 agile coaches.
+### Well... Not Quite.
+<br><br>
+### We learned some things along the way
+---
+### What Worked Well
+@snap[midpoint span-100 text-07 text-center]
+- A small team was created with 2 agile coaches to fix the "amendment problems"
 - Successful - Customers were delighted
   - But the bar was pretty low.
-- Reorganized the team into product teams.
-  - Less dependencies between Teams
-  - Able to deliver (Soup to nuts)
-- Adopted scrum first, but didn't focus on the mindset
-- Needed constant reinforcing - Coaches left too soon
+- Reorganized much of the department into "product teams"
+  - Miminize dependencies and hand-offs between teams
+  - Responsible to deliver secure quality solutions
+@snapend
+---
+### Not So Well
+@snap[midpoint span-100 text-07 text-left]
+- Didn't focus on the mindset - left low hanging fruit
+- First delivery was not for 5 months
+- Trained subsequent teams, however they needed more help
+  - Coaches left too soon
 @snapend
 ---
 ### Create the Agile Center of Excellence (ACE)
