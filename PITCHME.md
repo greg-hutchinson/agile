@@ -121,11 +121,24 @@ Which is Complex? Complicated?
 @img[south span-50](assets/img/brain.jpg)
 ---
 ## DevOps Builds on This Even Further
-- Automation of .... well everything
+@snap[east text-6 span-40 text-center ]
+- Dev - Features
+- Ops - Stability and Availability
+@snapend
+@img[west span-60](assets/img/devops.png)
+---
+## DevOps is using Automation
+@snap[east text-6 span-40 text-center ]
 - Infrastructure as code (Puppet, Chef, Docker)  
-  - Build scripts (Environment)
 - Continuous Delivery/Deployment (CD)
-- Realtime diagnostics
+@snapend
+@img[west span-60](assets/img/devops-defined.jpg)
+---
+## DevOps is Monitoring
+@snap[east text-5 span-40 text-center ]
+- Realtime monitoring (New Relic)
+@snapend
+@img[west span-60](assets/img/devops-defined.jpg)
 ---
 ## The FCC Journey
 ---
@@ -139,7 +152,7 @@ Which is Complex? Complicated?
 ### We learned some things along the way
 ---
 ### What Worked Well
-@snap[midpoint span-100 text-07 text-center]
+@snap[midpoint span-100 text-08 text-left]
 - A small team was created with 2 agile coaches to fix the "amendment problems"
 - Successful - Customers were delighted
   - But the bar was pretty low.
@@ -149,19 +162,20 @@ Which is Complex? Complicated?
 @snapend
 ---
 ### Not So Well
-@snap[midpoint span-100 text-07 text-left]
-- Didn't focus on the mindset - left low hanging fruit
-- First delivery was not for 5 months
-- Trained subsequent teams, however they needed more help
+@snap[midpoint span-100 text-08 text-left]
+- We implemented the terminology first
+  - Sprints were every 2 weeks but nothing deliverable
+- First delivery was not for 5 months (However, the team thought that they were pretty "Agile")
+- Trained subsequent teams, but they needed more coaching
   - Coaches left too soon
 @snapend
 ---
-### Create the Agile Center of Excellence (ACE)
-@img[midpoint span-70](assets/img/dojo.jpeg)
+### Created the Agile Center of Excellence (ACE)
+@img[midpoint span-60](assets/img/dojo.jpeg)
 ---
 ### Summary
 - Agile is first and foremost a mindset
-- DevOps builds on the Agile practices, but with even more emphasis on automation
+- DevOps builds on the Agile practices, but with even more emphasis on automation, to complete the full cycle
 - Waterfall approach works better for complicated problems
 ---
 ## And Finally ...
