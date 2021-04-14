@@ -8,7 +8,7 @@
 @ul[list-square-bullets list-fragments]
 - Software Developer since 1982
   - 8085 Assembler, C, Smalltalk, Java, Ruby
-- GPS driven tractors (1985)
+- Computer aided self driven tractors (1985)
 - Consultant for Credit Suisse and UBS banks in Zurich
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
