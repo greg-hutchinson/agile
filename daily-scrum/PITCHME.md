@@ -15,7 +15,7 @@ It is an opportunity to get together and communicate with the rest of your team.
    - What did you work on yesterday?
    - What will you work on today?
    - What is getting in your way?
-       - What is slowing you down?
+   - How long is it going to take?
 @ulend
 @snapend
 
@@ -23,7 +23,7 @@ It is an opportunity to get together and communicate with the rest of your team.
 ## Who does it?
 - Scrum Master (Lead)
 - Delivery Team
-- Product Owner
+- Product Owner (if invited)
 
 ---
 ## What is a Scrum Board?
