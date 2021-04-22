@@ -5,14 +5,12 @@
 ---
 ## Who am I?
 @snap[west text-06 span-55]
-@ul[list-square-bullets list-fragments]
 - Software Developer since 1982
   - 8085 Assembler, C, Smalltalk, Java, Ruby
 - Computer aided self driven tractors (1985)
 - Consultant for Credit Suisse and UBS banks in Zurich
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
-@ulend
 @snapend
 @img[south-east span-40](assets/img/bio-greg-on-hill.jpg)
 
@@ -46,6 +44,10 @@ Duplicate Bridge Player
 And I really like Halloween
 @snapend
 
+---
+## Format
+- 10 min breaks ~45 mins. Please be back on time.
+- The Miro board (Stories, etc.)
 ---
 ## Introduce yourself
 - Name / Current Job role
