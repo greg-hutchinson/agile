@@ -11,6 +11,7 @@
 - Consultant for Credit Suisse and UBS banks in Zurich
 - Reviewer for eXtreme Programming Explained (1996)
 - Director of Agile Center of Excellence
+- IT Principal
 @snapend
 @img[south-east span-40](assets/img/bio-greg-on-hill.jpg)
 
@@ -66,8 +67,8 @@ And I really like Halloween
 ## Goals
 ### At the end of this training you will:
 @snap[midpoint span-90 text-09]
-- Have an understanding of Agile thinking and why it works
-- Have a basic understanding of Scrum and its roles, artifacts and ceremonies
+- Understand what it means to have an Agile mindset, by understanding its values and principals
+- Have a basic understanding of the Scrum process, its roles, artifacts and ceremonies
 @snapend
 
 ---
@@ -85,35 +86,36 @@ And I really like Halloween
 @snapend
 ---
 ## Working agreement
-- Be present, ask questions, parking lot
-- Only one conversation at a time
-- No cell phones, laptops are discouraged
+- Be present
+- Turn cameras and microphones on.
+- Ask questions
 
 ---
 ## Make note of any A-ha's
 @img[span-75](assets/img/aha.png)
 
 ---
-## Confirmation Bias
+## Warmup Exercise
 @snap[midpoint span-85]
 @ul[list-square-bullets font-concert-one text-08 text-italic text-yellow](true)
-- Your task is to find the rule to the list of numbers that I will give you.
+- Your task is to identify the rule to the next number in a list of numbers that I will give you.
 - You can ask me only one question - "Is n the next number in this list".
-  - However, you can ask this **any number** of times.
-- You only get one guess at the rule.
+- However, you can ask this **any number** of times.
+- When you think that you know the rule you can guess - but you only get 1 guess
   - If you are right - you win.
   - If not, well ...
 - Here is the start of the list:
     - 2, 4, 6, 8, ...
 @ulend
 @snapend
-@img[south-east span-25](assets/img/thinking-cap.jpg)
+@img[south-east span-20](assets/img/thinking-cap.jpg)
 
 ---
-## Last comments
+## Other Comments
 @snap[midpoint span-100]
-- A lot of these practices came out of the software development realm
+- "Agile Thinking" came out of the software development industry.
 - I believe that they can be applied in many areas
-- Put into production - means deliver value
-- Dev Team - Any team that is delivering value to a customer
+- We all deliver value to the end-customer either directly or indirectly.
+- You may hear me say - "Go Live" or "put it into production". These terms just mean - deliver value
+- Team - Any team that is delivering value to a customer
 @snapend

@@ -1,40 +1,58 @@
-
 # Complicated<br>vs<br>Complex
 ---
 ## The Cynefin Framework
-![Video](https://www.youtube.com/embed/N7oz366X0-8)
+It is a sense making framework
+- To decide what type of problem you are trying to solve
+- Which approach you should take to solve the problem.
+---
+## The Cynefin Framework
+![Video](https://www.youtube.com/embed/N7oz366X0-8?start=130)
+For the full video go to: https://www.youtube.com/watch?v=N7oz366X0-8
+
+Note:
+- Stop at 4:44
 ---
 ## Ordered Systems
 @snap[east span-15 text-07 text-center]
-Obvious and Complicated
+Simple/Obvious and Complicated
 @snapend
-@img[span-65](assets/img/cynefin.png)
+@img[span-55](assets/img/cynefin.png)
 ---
-## Obvious Domain
-@img[span-65](assets/img/cynefin.png)
+## Simple/Obvious Domain
+@snap[east span-20 text-06 text-center]
+- Relationship exists between cause and effect
+- Observable in advance
+- Obvious to everyone
+- Best practice
+@snapend
+@img[span-55](assets/img/cynefin.png)
 
 ---
 ## Complicated Domain
-@img[span-65](assets/img/cynefin.png)
+@snap[east span-20 text-06 text-center]
+- Relationship exists between cause and effect
+- Observable in advance
+- However, needs Analysis or expertise
+- Good practice
+@snapend
+@img[span-55](assets/img/cynefin.png)
 
 ---
 ## Unordered Domains
 @snap[east span-15 text-07 text-center]
 Complex and Chaotic
 @snapend
-@img[span-65](assets/img/cynefin.png)
+@img[span-55](assets/img/cynefin.png)
 
 ---
 ## Complex Domain
-@img[span-65](assets/img/cynefin.png)
-
----
-## Chaotic Domain
-@img[span-65](assets/img/cynefin.png)
-
----
-## Disorder
-@img[span-65](assets/img/cynefin.png)
+@snap[east span-20 text-06 text-center]
+- Relationship exists between cause and effect
+- Only observable in hindsight
+- Don't use Fail-safe design rather safe-fail experiments
+- Emergent practice
+@snapend
+@img[span-55](assets/img/cynefin.png)
 
 ---
 ## Concrete Examples
