@@ -2,8 +2,14 @@
 
 ---
 ## Makes sure that the right things get done!
-- The Product Owner is responsible for prioritizing stories based on the return on investment (ROI).
+- Sets the vision for the product
 - The Product Owner will prioritize based on business value first. Once the team adds in the cost, she will prioritize based on ROI.
+- The Product Owner is responsible for prioritizing stories based on the return on investment (ROI).
+---
+## Maintain the Backlog
+@snap[midpoint span-75]
+![](assets/img/order-the-backlog.jpg)
+@snapend
 
 ---
 ## ROI Calculation
@@ -23,21 +29,10 @@ ROI = \frac{BusinessValue}{Cost}
 #### And conversely
 ### As Cost goes up, ROI goes down (As Cost → ∞ then ROI → 0)
 @snapend
-
 ---
-## Other considerations
-@snap[midpoint span-75]
-![](assets/img/order-the-backlog.jpg)
-@snapend
-
-
----
-## Product Owner Normal Responsibilities
-- Participates in the refinement
-- Participates in the planning session
+## Product Owner Other Responsibilities
 - Maintains and grooms the product backlog
-
----
-## Product Owner Responsibilities
-- Sets the vision for the product
 - Make sure the team understands what the criteria is for deciding between stories
+- Runs the refinement
+- Runs the planning session
+- Work with Stakeholders (50%)
