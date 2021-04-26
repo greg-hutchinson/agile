@@ -7,17 +7,18 @@
 ---?include=requirements-vs-design/PITCHME.md
 ---?include=requirements-vs-design-summer-meadow/PITCHME.md
 
-
 ---?include=scrum-overview/PITCHME.md
+---?include=story/PITCHME.md
 ---?include=product-owner/PITCHME.md
 ---?include=celebrity-ordering/PITCHME.md
 ---?include=scrum-master/PITCHME.md
 ---?include=delivery-team/PITCHME.md
 ---?include=three-projects-three-experiments/PITCHME.md
 ---?include=product-backlog-and-refinement/PITCHME.md
+---?include=story-splitting/PITCHME.md
+---?include=tour-de-sprint/PITCHME.md
 ---?include=sprint-planning/PITCHME.md
 ---?include=sprint/PITCHME.md
----?include=tour-de-sprint/PITCHME.md
 ---?include=daily-scrum/PITCHME.md
 ---?include=sprint-review/PITCHME.md
 ---?include=retrospective/PITCHME.md

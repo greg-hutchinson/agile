@@ -24,25 +24,5 @@
 @snapend
 
 ---
-@snap[north span-100 text-center]
-## User Stories
-@snapend
-
-@snap[west span-35 text-08]
-are the requirements that go into the product Backlog
-@snapend
-
-@snap[east span-60 text-center]
-Worded often as such:
-@box[bg-purple text-white](As a [Role] )
-@box[bg-orange text-white](I want to [be able to])
-@box[bg-pink text-white](So that I can [justification])
-@snapend
-
----
-## Try and slice vertically
-@img[midpoint span-60 text-center](assets/img/vertical-slice.jpg)
-
----
 ## What Does a Good Product Backlog Look Like?
 @img[south span-55 text-center](assets/img/deep.png)
