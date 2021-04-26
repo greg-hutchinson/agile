@@ -18,6 +18,55 @@
 @img[](assets/img/agile-principles.png)
 
 ---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-1-3-7.png)
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-2-4-6-8.png)
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-5.png)
+@img[east span-35](assets/img/mickey.jpeg)
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-9.png)
+@snap[east text-06 span-35]
+- Automation is Key (Unit Test Cases)
+- Software as an Asset Mentality
+- Refactoring
+- Conversations with the Product Owner
+- Code Reviews (Pull requests)
+- Continuous Integration (with servers)
+- Distributed Version Control Systems (DVCS - Git)
+@snapend
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-10.png)
+@img[east span-45](assets/img/ham.png)
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-11.png)
+@snap[east text-06 span-35]
+- Emergent Design (Stays real)
+- Fits with the team is responsible for all statement
+@snapend
+---
+## Agile Principles
+@img[west span-60](assets/img/agile-principles-12.png)
+@img[east span-35](assets/img/make-time.png)
+---
+## Agile Principles - Experiment
+@img[west span-60](assets/img/agile-principles-12.png)
+@img[east span-35](assets/img/experiment.png)
+---
+## Agile Principles - Failure
+@img[west span-60](assets/img/agile-principles-12.png)
+@img[east span-35](assets/img/fail.jpg)
+---
+## Agile Principles - Learn
+@img[west span-60](assets/img/agile-principles-12.png)
+@img[east span-35](assets/img/brain.jpg)
+---
 @title[Agile Mindset Vs Waterfall]
 @snap[north-west text-center span-40 text-05]
 ## Agile
@@ -111,34 +160,11 @@
 @img[east span-30](assets/img/toysrus.png)
 
 ---
-## Ability to adapt
-@img[midpoint span-80](assets/img/adaptability.jpg)
-
----
 ## How do we adapt quickly?
 ---
 ### Limit work in progress (wip)
 @img[south span-80](assets/img/limit-wip.png)
 
----
-## Embrace experimentation
-@img[midpoint span-60](assets/img/experiment.png)
-
----
-## Willingness to fail
-@img[midpoint span-65](assets/img/fail.jpg)
-
----
-## Desire to learn
-@img[south span-50](assets/img/brain.jpg)
-
----
-## Continuous improvement
-@img[south span-70](assets/img/make-time.png)
-
----
-## Reduce complexity
-@img[south span-95](assets/img/ham.png)
 ---
 ## So ... agile is **not**
 - a specific way of delivering solutions

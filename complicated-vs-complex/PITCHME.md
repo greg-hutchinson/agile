@@ -1,9 +1,9 @@
 # Complicated<br>vs<br>Complex
 ---
 ## The Cynefin Framework
-It is a sense making framework
-- To decide what type of problem you are trying to solve
-- Which approach you should take to solve the problem.
+### It is a sense making framework to help:
+- Decide what type of problem you are trying to solve
+- Decide which approach you should take to solve the problem.
 ---
 ## The Cynefin Framework
 ![Video](https://www.youtube.com/embed/N7oz366X0-8?start=130)
@@ -14,11 +14,11 @@ Note:
 ---
 ## Ordered Systems
 @snap[east span-15 text-07 text-center]
-Simple/Obvious and Complicated
+Simple and Complicated
 @snapend
 @img[span-55](assets/img/cynefin.png)
 ---
-## Simple/Obvious Domain
+## Simple Domain
 @snap[east span-20 text-06 text-center]
 - Relationship exists between cause and effect
 - Observable in advance
@@ -53,12 +53,20 @@ Complex and Chaotic
 - Emergent practice
 @snapend
 @img[span-55](assets/img/cynefin.png)
+---
+## Distinguishing characteristics of these two problem domains
+- Complicated problems - Cause and Effect is predictable in advance
+- Complex problems - There is a relationship between cause and effect but it is only recognizable in hindsight
+---
+## Different approach to solve these problems
+- Complicated problems - Do some analysis, make a plan, execute the plan
+- Complex problems - Have an approach, if it works continue to do it, if it doesn't, change something
 
 ---
 ## Concrete Examples
 @snap[west span-50 text-07 text-center ]
 Raising a Child
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 @snapend
 @snap[east span-46 text-07 text-center ]
 Sending a Rocket to the Moon
@@ -71,7 +79,7 @@ Which is Complex? Complicated?
 ---
 ## Expertise
 @snap[west text-07 span-50 text-left ]
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 Expertise can contribute but is neither necessary nor sufficient to assure success.
 @snapend
 @snap[east text-07 span-46 text-left ]
@@ -80,7 +88,7 @@ High levels of expertise in a variety of fields are necessary for success.
 ---
 ## Formulas
 @snap[west text-07 span-50 text-left ]
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 Formulas have limited application.
 @snapend
 @snap[east text-07 span-46 text-left ]
@@ -90,7 +98,7 @@ Formulas are critical and necessary.
 ---
 ## Experience
 @snap[west text-07 span-50 text-left ]
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 Raising one child provides experience but no assurance of success with the next.
 @snapend
 @snap[east text-07 span-46 text-left ]
@@ -100,7 +108,7 @@ Sending one rocket increases assurance that the next will be OK.
 ---
 ## Relationships
 @snap[west text-07 span-50 text-left ]
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 Every child is unique and must be understood as an individual – relationships are important.
 @snapend
 @snap[east text-07 span-46 text-left ]
@@ -110,7 +118,7 @@ Rockets are similar in critical ways.
 ---
 ## Outcome
 @snap[west text-07 span-50 text-left ]
-![](assets/img/child.jpg)
+@img[span-50](assets/img/alex-steph.jpg)
 Uncertainty of outcome remains.
 @snapend
 @snap[east text-07 span-46 text-left ]
