@@ -34,7 +34,7 @@
   - discuss solutions
   - suggest alternatives
   - estimate stories
-- Does everything necessary to deliver a quality solution   
+- Does everything necessary to deliver a secure, quality solution   
     - design/development/testing
     - translation/implementation
 <br><br>
@@ -45,24 +45,31 @@
 @snapend
 ---
 ## Delivery Team Responsibilities
-### Focus on FINISHING work
-- Assuming that you have 100 things to finish - Are these 2 statements equal?
-  - 100% of 80 things or
-  - 80% of 100 things
-
-@snap[south span-95 text-center fragment]
-### How ?
+@snap[midpoint span-80 text-center]
+@box[bg-purple text-white](Assuming that you have 10 things to finish<br>Are these 2 statements equal?)
+@box[bg-orange text-white](100% of 8 things)
+@box[bg-orange text-white](80% of 10 things)
 @snapend
----?image=assets/img/swarm-bees.jpeg&size=contain
+@snap[south span-60 text-center fragment]
+### Focus on FINISHING work
+### But how?
+@snapend
+---
+Swarming
+@img[west span-60 text-center](assets/img/swarm-bees.jpeg)
+@snap[east span-35 text-center]
+@ul[list-square-bullets text-08](true)
+- Put more than one person on a story
+- Only possible if you break a story down into tasks.
+- And possibly break those tasks down into sub-tasks
+@ulend
+@snapend
+
 ---?image=assets/img/t-shaped.png&size=contain&color=linear-gradient(to left, #56ccf2, #2f80ed)
 ## T-Shaped Skills
-
 ---
-## Specialization Issues
-- Creates dependencies between tasks (handoffs)
-- Prioritization by skill and not ROI
-- Dependencies on individuals
-- Creates handoffs
+## Acquiring T-Shaped skills
+@img[midpoint span-75 text-center](assets/img/panic-zone.png)
 ---
 ## Summary of T-Shaped skills
 @snap[north span-65 text-left fragment]
@@ -78,8 +85,11 @@
 @snapend
 
 ---
-## Acquiring T-Shaped skills
-@img[midpoint span-75 text-center](assets/img/panic-zone.png)
+## Specialization Issues
+- Creates dependencies between tasks
+  - Creates handoffs
+- Dependencies on individuals
+- Prioritization by skill and not ROI
 
 ---
 ## Utilization
@@ -91,4 +101,9 @@
 
 @snap[south span-100 fragment text-06]
 @quote[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](Tom Demarco)
+@snapend
+
+---
+@snap[midpoint span-80 text-11]
+[Effective vs Efficient Video](https://fccfac.sharepoint.com/sites/agilecentreofexcellence/Shared%20Documents/Blogs/Effective%20vs%20Efficient%20blog%20post.mp4?csf=1&e=rS96fh)
 @snapend
