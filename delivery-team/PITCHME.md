@@ -105,5 +105,6 @@ Swarming
 
 ---
 @snap[midpoint span-80 text-11]
+
 [Effective vs Efficient Video](https://fccfac.sharepoint.com/sites/agilecentreofexcellence/Shared%20Documents/Blogs/Effective%20vs%20Efficient%20blog%20post.mp4?csf=1&e=rS96fh)
 @snapend
