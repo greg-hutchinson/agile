@@ -4,9 +4,8 @@
 ## Makes sure that the right things get done!
 - Sets the vision for the product
 - The Product Owner will prioritize based on business value first. Once the team adds in the cost, she will prioritize based on ROI.
-- The Product Owner is responsible for prioritizing stories based on the return on investment (ROI).
 ---
-## Maintain the Backlog
+## Other Considerations 
 @snap[midpoint span-75]
 ![](assets/img/order-the-backlog.jpg)
 @snapend

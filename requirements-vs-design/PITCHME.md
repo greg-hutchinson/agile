@@ -123,3 +123,11 @@ Depends on Context
 @snap[south span-65 fragment]
 ![](assets/img/icar.png)
 @snapend
+
+---
+## Why is this important?
+@snap[midpoint span-95 ]
+- Team doesn't understand the why of the problem
+- Stifles creativity
+- Missed opportunities for better solutions
+@snapend

@@ -72,7 +72,7 @@ Swarming
 @img[midpoint span-75 text-center](assets/img/panic-zone.png)
 ---
 ## Summary of T-Shaped skills
-@snap[north span-65 text-left fragment]
+@snap[north span-65 text-left]
 <br><br>
 - Everybody can do everything
 @snapend
@@ -104,7 +104,7 @@ Swarming
 @snapend
 
 ---
-@snap[midpoint span-80 text-11]
+@snap[midpoint span-80 text-14]
 
 [Effective vs Efficient Video](https://fccfac.sharepoint.com/sites/agilecentreofexcellence/Shared%20Documents/Blogs/Effective%20vs%20Efficient%20blog%20post.mp4?csf=1&e=rS96fh)
 @snapend
