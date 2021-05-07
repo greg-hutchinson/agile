@@ -2,16 +2,16 @@
 
 ---
 ## Allocate Time for Continuous Improvement
-- Review any experiments from last sprint
 - Occurs after the Sprint Review and prior to the next Sprint Planning.
 - Scrum master facilitates
 - The goal is to identify one improvement in the team’s process that they can try.
+- Review any experiments from last sprint
 
 
 ---
 ## Relect on the Past Sprint
-- What went well
-- What did not
+- What went well - (What should we keep doing)
+- What did not 
 - What can we do to improve
 
 ---
