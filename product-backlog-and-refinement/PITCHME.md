@@ -16,10 +16,9 @@
 @ul[list-square-bullets text-08 text-italic](true)
 - What – the act of adding detail, estimates, and order to items in the Product Backlog
 - Why – help the Product Owner get the Backlog ready for the next sprint planning meeting
-- When – 1-2 times per sprint (usually 10% of sprint time)
+- When – Near the end of the sprint (usually 1-2 hours) - maybe longer.
 - Who – Product Owner, Scrum Master, Dev Team, SMEs (if needed)
 - Lead by the Product Owner
-- On demand or recurrent
 @ulend
 @snapend
 

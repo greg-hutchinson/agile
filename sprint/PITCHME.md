@@ -2,11 +2,10 @@
 ---
 ## Word of the Day
 @snap[west span-60 text-right]
-@box[bg-purple  text-left text-white] (Word: schadenfreude)
-@box[bg-purple text-white text-left] (Pronounced: shaw-den-froy-day)
-@box[bg-purple text-white text-left] (Meaning: to take pleasure in someone else's misfortune)
+@box[bg-purple  text-left text-white fragment] (Word: schadenfreude)
+@box[bg-orange text-white text-left fragment] (Pronounced: shaw-den-froy-day)
+@box[bg-pink text-white text-left fragment] (Meaning: to take pleasure in someone else's misfortune)
 @snapend
-
 @img[east span-25 text-center](assets/img/dictionary.png)
 @img[south-east span-15 text-center fragment](assets/img/devil.png)
 

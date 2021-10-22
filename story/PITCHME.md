@@ -25,3 +25,13 @@ Note:
 - Epics are just a grouping of Stories
 - Story splitting is discussed later
 - Tasks can have other tasks 
+
+---
+## Story points
+- Are a relative estimage of the "Teams" effort - not any individual's effort
+- Usually uses the Fibanocci sequence (loosly defined)
+    - 1,1,2,3,5,8,13,21,34,55,89
+- Are relative to each other
+- Difficult to explain in theory
+- But works in practice
+    - And does take practice
