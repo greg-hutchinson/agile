@@ -9,9 +9,9 @@
 
 
 ---
-## Relect on the Past Sprint
+## Reflect on the Past Sprint
 - What went well - (What should we keep doing)
-- What did not 
+- What did not
 - What can we do to improve
 
 ---
