@@ -1,0 +1,38 @@
+= Trivia Question
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+
+
+
+[transition=slide-in fade-out]
+## Trivia Question 
+If you were living in Rome at the time, what was the date that followed Thursday October 4, 1582? 
+[%step]
+* *Hint: Gregory XIII was the pope at that time.* +
+* *Hint: Something to do with leap years* +
+
+## Problem
+[%step]
+* Leap years were every 4th year in the Julian Calendar
+* This was close but off by ~10 mins / year 
+** ~10 mins / year * 1582 years / 1440 mins / day +
+Over 15 centuries it adds up to 10 days
+* Vernal equinox was moving into winter, not spring
+* Which affected the first Sunday after the first full moon after the vernal equinox which everyone knows better as ...
+
+## Easter
+image::easter-bunny.png[Easter,640,480]
+
+## Gregorian Calendar 
+* Fixed the leap year calculation so that it is every 4th but not every 100th unless 400th
+** 1996, 2000 are leap years but not 2100 or 2001
+* Dropped 10 days from the Calendar to realign Easter
+* So... The day after Thursday October 4, 1582 was ...
+[%step]
+** *Friday October 15, 1582*
+** P.S. - Same thing in the US ~200 years later +
+Wednesday, 2 September 1752 was followed by +
+Thursday, 14 September 1752;
+

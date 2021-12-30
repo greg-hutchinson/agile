@@ -1,0 +1,35 @@
+// .custom-layout
+// The three different ways to hide slide titles
+// :include: //body/script | //div[@class="slides"]
+// :header_footer:
+
+= Custom Layout
+ifndef::imagesdir[:imagesdir: images]
+
+== Cool Icon
+
+Hello 👋
+
+
+== Column 
+[.columns]
+[.column]
+dsaffdsa
+
+[.column]
+adsfdaf
+
+== Coludfsdfds
+
+
+
+
+[cols=2*,stripes=even]
+|===
+|A1
+|B1
+|A2
+|B2
+|A3
+|B3
+|===

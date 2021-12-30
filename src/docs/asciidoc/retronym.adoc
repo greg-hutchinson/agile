@@ -1,0 +1,40 @@
+= Retronym
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:author: Greg Hutchinson
+:title-slide-transition: zoom
+:tip-caption: 💡
+
+
++++<small>+++
+Newer name for an existing thing ...
++++</small>+++
+
+## Definition
+A retronym is a newer name for an existing thing that differentiates the original form/version from a more recent one. 
+
+It is thus a word or phrase created to avoid confusion between two types, whereas previously, no clarification was required.
+
+## Example
+* Cloth Diaper is a retronym.
+* Before disposable diapers came to be they were simply called **diapers**
+
+## Tell Me the Retronym
+
+[%step]
+* Guitar
+* Clock
+* Coca-Cola
+* Television
+* Telephone
+* Coffee
+* Transmission
+
+## Answers
+* Guitar - Acoustic Guitar
+* Clock - Analog Clock
+* Coca-Cola - Coca-Cola Classic
+* Television - Black and White TV
+* Telephone - Rotary Dial Telephone
+* Coffee - Regular Coffee
+* Transmission - Manual Transmission

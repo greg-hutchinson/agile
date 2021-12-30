@@ -1,0 +1,35 @@
+= Set Jetting
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: sky
+:author: Greg Hutchinson
+:title-slide-transition: zoom
+:tip-caption: 💡
+:revealjs_hash: true
+
+
++++<small>+++
+You've surely heard of Jet Setting
++++</small>+++
+
+## Who are Set Jetters 
+People that choose famous settings of movies / Tv series as holiday destinations
+
+## What famous movies were made in these now popular tourist destination cities/areas/towns?
+
+##  Northern Ireland, Iceland, Dubrovnik (2012-2019)
+[%step]
+* (£82,000,000 / year)
+* The Lannisters
+* **Game Of Thrones**
+
+## Albuquerque, New Mexico (2008-2013)
+[%step]
+* Los Pollos Hermanos
+* Heisenberg
+* **Breaking Bad**
+
+## Goodwood, Ontario, Canada (2015-2019)  
+[%step]
+* The Rose family
+* **Schitt's Creek**
+
