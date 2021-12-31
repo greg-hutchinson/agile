@@ -1,5 +1,37 @@
-Why is everyone interested in being agile these days? Businesses have been able to succeed in the past without ever hearing the word “agile”. Fifty years ago, being first in the market and having an established loyal customer base were the two most critical criteria to having a successful business. This, coupled with the pace of change being slow and most companies being able to easily predict trends in the industry (and if they were wrong, they still had a lot of time to adapt their plan) made for a much different landscape than the one we are currently living in.
+## Welcome to GitHub Pages
 
-Today we are faced with a much quicker pace of change that takes away the ability to predict trends. Our world is becoming more volatile, uncertain, complex and ambiguous (VUCA). Years ago, having an established “foot in the door” was a huge advantage. The cost of entry for new competitors was high (infrastructure, staff, inventory, etc), but this isn’t the case anymore. New competitors are much leaner and nimble.  
+You can use the [editor on GitHub](https://github.com/greg-hutchinson/ice-breakers/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Since we can’t rely too heavily on our predication of the future, how do we ensure that our companies stays relevant? We believe the key risk mitigator to our current VUCA landscape is to be able to adapt quickly and cheaply to whatever comes our way.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/greg-hutchinson/ice-breakers/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

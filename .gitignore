@@ -1,5 +1,6 @@
 
 assets/img/celebrities/celebrities.pdf
+
 celebrity-ordering/celebrities/celebrities.pdf
-**/.DS_Store
+.DS_Store
 target/*

@@ -1,0 +1,233 @@
+# Agile/Scrum Review important concepts
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: sky
+:author: Greg Hutchinson
+:title-slide-transition: zoom
+:tip-caption: 💡
+:revealjs_hash: true
+
+// ## img\[.*\]\(.*/([^\)]*)
+// #image::$1
+
+## Scrum Overview
+video::TRcReyRYIMg[youtube]
+
+## Important ceremonies for today
+- Sprint, Standup, Demo
+- Refinement, Burndown
+- Product Owner, Scrum Master
+- Retrospective, Backlog
+
+
+////
+[.columns]
+## What were they missing?
+[.column.right.text-center]
+image::blockbuster.png[block,400,200]
+fff +
+dsfsad +
+dsfa
+[.column]
+image::kodak.jpg[kodak,400,200,float="top"]
+fff +
+dsfsad +
+dsfa
+
+[.column]
+image::toysrus.png[Linux]
+////
+
+////
+## Agile Mindset
+
+## Mindset, Values, Principles, Practices
+[.columns]
+## Mindset, Values, Principles, Practices
+
+[.column]
+image::agile-mindset.jpg[agile-mindset,400,200]
+
+[.column]
+--
+- Values - beliefs that govern the behavior of a person
+- Principles - support and satisfy Values
+- Practices, Tools & Processes - the actions we take
+--
+
+
+
+
+
+
+## AM
+image:agile-mindset.jpg[Linux,150,150,float="top"]
+[%hardbreaks]
+Ruby is red.
+Java is beige.
+You can find Linux everywhere these days! With lots of text
+Can't get bullets
+sdfasdf
+
+## Agile Manifesto - Values
+image::agile-manifesto.png[manifesto,640,480]
+
+## Agile Principles
+image::agile-principles.png[principles,640,480]
+
+## Agile Principles
+image::agile-principles-1-3-7.png[principles-1-3-7,640,480]
+
+## Agile Principles
+image::agile-principles-2-4-6-8.png[principles-2-4-6-8,640,480]
+---
+## Agile Principles
+image::agile-principles-5.png[principles-5,640,480]
+image::mickey.jpeg
+---
+## Agile Principles
+image::agile-principles-9.png[principles-9,640,480]
+- Automation is Key (Unit Test Cases)
+- Software as an Asset Mentality
+- Refactoring
+- Conversations with the Product Owner
+- Code Reviews (Pull requests)
+- Continuous Integration (with servers)
+- Distributed Version Control Systems (DVCS - Git)
+
+---
+### Agile Principles
+image::agile-principles-10.png
+image::ham.png
+---
+### Agile Principles
+image::agile-principles-11.png
+
+- Emergent Design (Stays real)
+- Fits with the team is responsible for all statement
+
+---
+### Agile Principles
+image::agile-principles-12.png
+image::make-time.png
+---
+### Agile Principles - Experiment
+image::agile-principles-12.png
+image::experiment.png
+---
+### Agile Principles - Failure
+image::agile-principles-12.png
+image::fail.jpg
+---
+### Agile Principles - Learn
+image::agile-principles-12.png
+image::brain.jpg
+---
+title[Agile Mindset Vs Waterfall]
+
+### Agile
+
+
+<br>
+<br>
+- People come first
+- Respond to change
+- Early and frequent value delivery
+- Customer collaboration
+
+
+
+### Vs
+<br>
+### Values
+
+
+
+### Waterfall
+
+
+<br>
+<br>
+- Use standardized processes
+- Get it right the first time
+- On time on budget
+- Make early commitments
+
+
+
+- Frequent delivery
+- Continuous improvements
+- Simplicity
+- Trust/Safety
+- Measure progress on value delivered
+- Effective over efficient
+- Feedback loops
+
+
+
+### Principles
+
+
+
+- Plan the work
+- Limit change
+- Single point of responsibility
+- Hand out work
+- On time, budget & scope
+- Functional teams/siloed working
+- Maximize utilization
+- Sign-offs
+
+
+
+- Sprint, Standup, Demo
+- Refinement, Burndown
+- Product Owner, Scrum Master
+- Retrospective, Backlog
+<br>
+<br>
+
+
+
+### Practices Tools Processes
+
+
+
+- Requirement documents
+- Weekly status updates
+- Change requests
+- Approval gates
+- Early sign offs
+- Test plans
+
+
+---
+title[Pace of Change]
+### Why do we want to<br> be Agile?
+quote[The pace of change has never been this fast, yet it will never be this slow again]
+---
+### We can't predict the future
+image::mind-reader.png
+
+---
+### What were they missing?
+image::blockbuster.png
+image::kodak.jpg
+image::toysrus.png
+
+---
+### How do we adapt quickly?
+---
+#### Limit work in progress (wip)
+image::limit-wip.png
+
+---
+### So ... agile is **not**
+- a specific way of delivering solutions
+- a framework or process
+- a methodology
+
+
+It's a way of ***being***
+
+
+////
