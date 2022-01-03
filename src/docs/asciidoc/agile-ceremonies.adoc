@@ -9,71 +9,16 @@ ifndef::imagesdir[:imagesdir: images]
 // ## img\[.*\]\(.*/([^\)]*)
 // #image::$1
 
-## Scrum Overview
-video::TRcReyRYIMg[youtube]
-
 ## Focus for today
-* Story - Outcomes not outputs
+* Mindset
+* Scrum overview
+* Story 
 * Refinement 
-* Definition of done
+* Definition of Done
 * Retrospective - coming up with experiments
 * Dev Day
 * Focus
 * Scrum master
-
-
-## Story
-* Are the requirements that go into the product Backlog
-* Are recognizable as providing value by your customer
-* Are deliverable by themselves
-* Exist in the Product backlog
-* Exist in the Sprint backlog
-* Consist of other tasks
-
-## Refinement
-* Discuss the stories to the level that the team understands what the problem is.
-* This is different for each team, depending on skillset, experience etc.
-** And quite often on the experience of the PO.
-
-
-## Discussion - Definition of done
-* What is your definition of done? After testing, into production?, PO is happy?
-* This is always controversial.
-
-
-## Definition of done
-* When all the tasks identified for the story are completed.
-* This means that ....
-
-## First things first
-[disc]
-* When you accept a story into a sprint, you must: 
-** identify all the tasks to complete
-** If these tasks are bigger than a week, then
-*** break it down into sub-task
-* If the story is large you may have to iterate on this step
-
-## Exercise 
-We are having a party at your/my place in 3 hours with appetizers as the only food.
-Guests have already been invited and have also been asked to bring one appetizer each.
-What do we have to do, to have a successful party?
-
-
-## Retrospective 
-What is the purpose of the retrospective?
-
-
-## Focus
-Assuming that you have 10 stories to finish +
-Are these 2 statements equal?
-
-* 100% of 8 things 
-
-or
-
-* 80% of 10 things
-
-Both are 80% correct? What's the difference?
 
 
 ## Agile Manifesto Values
@@ -158,6 +103,64 @@ image::agile-principles-12.png[principles-12,640,480]
 
 [.column]
 image::brain.jpg[brain,400,240]
+
+## Scrum Overview
+video::TRcReyRYIMg[youtube]
+
+
+## Story
+* Outcomes not outputs
+* Are the requirements that go into the product Backlog
+* Are recognizable as providing value by your customer
+* Are deliverable by themselves
+* Exist in the Product/Sprint backlog
+* Consist of other tasks
+
+## Refinement
+* Discuss the stories to the level that the team understands what the problem is.
+* This is different for each team, depending on skillset, experience etc.
+** And quite often on the experience of the PO.
+
+
+## Discussion - Definition of done
+* What is your definition of done? After testing, into production?, PO is happy?
+* This is always controversial.
+
+
+## Definition of done
+* When all the tasks identified for the story are completed.
+* This means that ....
+
+## First things first
+[disc]
+* When you accept a story into a sprint, you must: 
+** identify all the tasks to complete
+** If these tasks are bigger than a week, then
+*** break it down into sub-task
+* If the story is large you may have to iterate on this step
+
+## Exercise 
+We are having a party at your/my place in 3 hours with appetizers as the only food.
+Guests have already been invited and have also been asked to bring one appetizer each.
+What do we have to do, to have a successful party?
+
+
+## Retrospective 
+What is the purpose of the retrospective?
+
+
+## Focus
+Assuming that you have 10 stories to finish +
+Are these 2 statements equal?
+
+* 100% of 8 things 
+
+or
+
+* 80% of 10 things
+
+Both are 80% correct? What's the difference?
+
 
 
 

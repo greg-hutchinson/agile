@@ -1,0 +1,84 @@
+
+
+## Agile Manifesto Values
+image::agile-mindset.jpg[]
+
+## Agile Manifesto Values
+image::agile-manifesto.png[manifesto,640,480]
+
+## Agile Principles
+image::agile-principles.png[principles,640,480]
+
+### Agile Principles
+image::agile-principles-1-3-7.png[principles*1*3*7,640,480]
+
+### Agile Principles
+image::agile-principles-2-4-6-8.png[principles*2*4*6*8,640,480]
+
+[.columns]
+### Agile Principles
+[.column.is-two-thirds]
+image::agile-principles-5.png[principles*5,640,480]
+
+[.column.is-one-third]
+image::mickey.jpeg[mickey,400,240]
+
+[.columns]
+### Agile Principles
+[.column.is-two-thirds]
+image::agile-principles-9.png[principles-9,640,480]
+
+[.column]
+* Automation of repeatable task
+* Docs as code
+* Working in pairs
+* Software as an Asset Mentality
+
+[.columns]
+### Agile Principles
+[.column.is-two-thirds]
+image::agile-principles-10.png[principles-10,640,480]
+
+image::ham.png[ham,400,240]
+
+[.columns]
+### Agile Principles
+[.column.is-two-thirds]
+image::agile-principles-11.png[principles-11,640,480]
+
+[.column]
+* Emergent Design (Stays real)
+* Fits with the team is responsible for all statement
+
+
+[.columns]
+### Agile Principles
+[.column.is-two-thirds]
+image::agile-principles-12.png[principles-12,640,480]
+
+[.column]
+image::make-time.png[make-time,400,240]
+
+[.columns]
+### Agile Principles Experiment
+[.column.is-two-thirds]
+image::agile-principles-12.png[principles-12,640,480]
+
+[.column]
+image::experiment.png[experiment,400,240]
+
+[.columns]
+### Agile Principles Failure
+[.column.is-two-thirds]
+image::agile-principles-12.png[principles-12,640,480]
+
+[.column]
+image::fail.jpg[fail,400,240]
+
+[.columns]
+### Agile Principles Learn
+[.column.is-two-thirds]
+image::agile-principles-12.png[principles-12,640,480]
+
+[.column]
+image::brain.jpg[brain,400,240]
