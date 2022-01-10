@@ -1,12 +1,12 @@
 
 
-## Agile Manifesto Values
+## Agile Mindset
 image::agile-mindset.jpg[]
 
-## Agile Manifesto Values
+### Agile Manifesto (Values)
 image::agile-manifesto.png[manifesto,640,480]
 
-## Agile Principles
+### Agile Principles
 image::agile-principles.png[principles,640,480]
 
 ### Agile Principles
