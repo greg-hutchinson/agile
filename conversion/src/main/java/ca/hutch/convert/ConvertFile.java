@@ -38,7 +38,7 @@ public class ConvertFile {
         File grandparent = parent.getParentFile();
         File newDirectory = new File(grandparent, "src/docs/asciidoc/partials/");
         newDirectory.mkdirs();
-        File newFile = new File(newDirectory, base + ".adoc");
+        File newFile = new File(newDirectory, "_" + base + ".adoc");
         OutputStream output = null;
         try {
             FileWriter fileWriter = new FileWriter(newFile.getAbsolutePath());
@@ -86,7 +86,7 @@ public class ConvertFile {
         }
         matcher = MAIN_HEADING.matcher(line);
         if (matcher.matches()) {
-            printWriter.printf("%s\n", line);
+            printWriter.printf("#%s\n", line);
             printWriter.printf("ifndef::imagesdir[:imagesdir: images]\n" +
                     ":revealjs_theme: solarized\n" +
                     ":revealjs_hash: true\n" +
@@ -103,19 +103,19 @@ public class ConvertFile {
         matcher = IMAGE_DIRECTIVE.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            printWriter.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = IMAGE_DIRECTIVE2.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            printWriter.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = IMAGE_DIRECTIVE3.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            printWriter.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = SNAP_DIRECTIVE.matcher(line);

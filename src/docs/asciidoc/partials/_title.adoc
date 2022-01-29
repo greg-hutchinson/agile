@@ -1,0 +1,12 @@
+== Agile/Scrum
+ifndef::imagesdir[:imagesdir: ../images]
+
+[#gradle-elephant]
+image::gradle-elephant.svg[]
+
+[#subtitle]
+Where Theory Meets Practice
+
+[#speaker]
+Greg Hutchinson +
+d

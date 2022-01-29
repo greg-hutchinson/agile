@@ -1,0 +1,7 @@
+ifndef::partials[:partials: partials]
+
+include::{partials}/_footer.adoc[]
+
+include::{partials}/_title.adoc[]
+
+include::{partials}/_complicated-vs-complex.adoc[]
