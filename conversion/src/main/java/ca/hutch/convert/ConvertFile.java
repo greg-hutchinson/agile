@@ -1,72 +1,54 @@
-package ca.fcc.robot;
+package ca.hutch.convert;
 
-import java.io.File;
-import java.io.IOException;
+import java.io.*;
 import java.nio.file.Files;
-import java.nio.file.Path;
 import java.nio.file.Paths;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-public class ConversionApp {
+public class ConvertFile {
     Pattern MAIN_HEADING = Pattern.compile("#[^#]*$");
     Pattern PAGE_DIVIDER = Pattern.compile("---\\s*$");
     Pattern IMAGE_DIRECTIVE = Pattern.compile("@img.*\\(.*/(.*)\\)");
-    Pattern IMAGE_DIRECTIVE2 = Pattern.compile("!\\[.*\\]\\s*\\(.*/(.*)\\)");
+    Pattern IMAGE_DIRECTIVE2 = Pattern.compile("!\\[\\s*\\]\\s*\\(.*/(.*)\\)");
     Pattern IMAGE_DIRECTIVE3 = Pattern.compile("---\\?image=.*\\/(.*)&");
     Pattern QUOTE = Pattern.compile("@quote\\[(.*)\\]");
     Pattern SNAP_DIRECTIVE = Pattern.compile("@snap.*");
     Pattern NOTE = Pattern.compile("^Note:.*");
     Pattern END_NOTE = Pattern.compile("(---$|\\s*)");
     Pattern U_LIST = Pattern.compile("@ul");
-    String s = "";
-    Pattern SAMPLE = Pattern.compile("");
+    
     private Queue<String> queue;
     private boolean inNote = false;
 
-    public static void main(String[] args) {
-        new ConversionApp().run();
-    }
+    private String filename;
+ //   private PrintStream printStream;
 
-    void run() {
-        String directory = "/Users/hutching/git-repos/agile/";
-        String filename = "/Users/hutching/git-repos/agile/complicated-vs-complex/PITCHME.md";
-        List<String> subdirectories = getDirectoryNames(directory);
-        for (String sub: subdirectories) {
-            //System.out.println(sub);
+    PrintWriter printWriter;
+    
+    public ConvertFile (String filename) {
+        this.filename = filename;
+        File file = new File(filename);
+        File parent = file.getParentFile();
+        String base = Paths.get(parent.getName()).toString();
+
+        File grandparent = parent.getParentFile();
+        File newDirectory = new File(grandparent, "src/docs/asciidoc/partials/");
+        newDirectory.mkdirs();
+        File newFile = new File(newDirectory, base + ".adoc");
+        OutputStream output = null;
+        try {
+            FileWriter fileWriter = new FileWriter(newFile.getAbsolutePath());
+            printWriter = new PrintWriter(fileWriter);
         }
-        processFile(filename);
+        catch (Exception e) {
+            throw new IllegalStateException("File Not Found", e);
+        }
     }
-
-    public List<String> getDirectoryNames(String dir) {
-        List<String> strings =  Stream.of(new File(dir).listFiles())
-                .filter(file -> !shouldIgnoreFile(file))
-                .map(File::getName)
-                .collect(Collectors.toList());
-        Collections.sort(strings);
-        return strings;
-    }
-
-    boolean shouldIgnoreFile(File file) {
-        if (!file.isDirectory())
-            return true;
-        Path path = Paths.get(file.getName());
-        String fileName = path.getFileName().toString();
-        if (fileName.startsWith("."))
-            return true;
-        return getSpecialDirectories().contains(fileName);
-    }
-
-    private List<String> getSpecialDirectories() {
-        String[] special = new String[] { "conversion", "src", "build", "target", "assets" };
-        return Arrays.asList(special);
-    }
-
-    private void processFile(String filename) {
-        //File file = new File(fileName);
+    public void processFile() {
         try (Stream<String> stream = Files.lines(Paths.get(filename))) {
             stream.forEach((line) -> {
                 processLine(line);
@@ -74,6 +56,9 @@ public class ConversionApp {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        printWriter.flush();
+        printWriter.close();
+        System.out.println ("Everything closed");
     }
 
     private void processLine(String line) {
@@ -82,15 +67,16 @@ public class ConversionApp {
             matcher = END_NOTE.matcher(line);
             if (matcher.matches()) {
                 inNote = false;
-                System.out.printf("[.notes]\n");
-                System.out.printf("--\n");
+                printWriter.printf("[.notes]\n");
+                printWriter.printf("--\n");
                 queue.stream().forEach((str) -> {
-                    System.out.printf("%s\n", str);
+                    printWriter.printf("%s\n", str);
                 });
-                System.out.printf("--\n");
+                printWriter.printf("--\n");
                 return;
             }
             queue.add(line);
+            return;
         }
         matcher = NOTE.matcher(line);
         if (matcher.matches()) {
@@ -100,8 +86,8 @@ public class ConversionApp {
         }
         matcher = MAIN_HEADING.matcher(line);
         if (matcher.matches()) {
-            System.out.printf("%s\n", line);
-            System.out.printf("ifndef::imagesdir[:imagesdir: images]\n" +
+            printWriter.printf("%s\n", line);
+            printWriter.printf("ifndef::imagesdir[:imagesdir: images]\n" +
                     ":revealjs_theme: solarized\n" +
                     ":revealjs_hash: true\n" +
                     ":tip-caption: \uD83D\uDCA1\n", line);
@@ -110,45 +96,46 @@ public class ConversionApp {
 
         matcher = PAGE_DIVIDER.matcher(line);
         if (matcher.matches()) {
-            System.out.printf("\n");
+            printWriter.printf("\n");
             return;
         }
 
         matcher = IMAGE_DIRECTIVE.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            System.out.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("image::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = IMAGE_DIRECTIVE2.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            System.out.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("image::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = IMAGE_DIRECTIVE3.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            System.out.printf("image::%s[%s,640,480]\n", name,name);
+            printWriter.printf("image::%s[%s,640,480]\n", name,name);
             return;
         }
         matcher = SNAP_DIRECTIVE.matcher(line);
         if (matcher.matches()) {
-            System.out.printf("// %s\n", line);
+            printWriter.printf("// %s\n", line);
             return;
         }
         matcher = QUOTE.matcher(line);
         if (matcher.matches()) {
             String name = matcher.group(1);
-            System.out.printf("[quote, unknown]\n");
-            System.out.printf("----\n%s\n----\n", name);
+            printWriter.printf("[quote, unknown]\n");
+            printWriter.printf("----\n%s\n----\n", name);
             return;
         }
         matcher = U_LIST.matcher(line);
         if (matcher.matches()) {
-            System.out.printf("[%step]\n");
+            printWriter.printf("[%step]\n");
             return;
         }
-        System.out.printf("%s\n", line);
+        printWriter.printf("%s\n", line);
     }
+
 }
