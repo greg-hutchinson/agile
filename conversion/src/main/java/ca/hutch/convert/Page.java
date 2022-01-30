@@ -20,6 +20,8 @@ public class Page {
     Pattern U_LIST_END = Pattern.compile("@ulend.*");
     Pattern TITLE = Pattern.compile("@tit.*");
     Pattern BOX = Pattern.compile("@box\\[.*\\]\\s*\\((.*)\\)");
+    Pattern BREAK_ONLY = Pattern.compile("\\s*<br>\\s*");
+    Pattern OTHER_HEADING = Pattern.compile("##*(.*)");
 
     private Queue<String> noteQueue;
     private boolean inNote = false;
@@ -40,8 +42,7 @@ public class Page {
     public void processPage() {
         printWriter.printf("[.columns]\n");
         for (String line : lines) {
-            String newString = line.replace("<br>", " +\n");
-            processLine(newString);
+            processLine(line);
         }
         if (inNote) {
             processLine("---");
@@ -51,8 +52,20 @@ public class Page {
 
     public void processLine(String line) {
         Matcher matcher;
+        matcher = BREAK_ONLY.matcher(line);
+        if (matcher.matches()) {
+            printWriter.printf("\n", line);
+            return;
+        }
+        line = line.replace("<br>", " +\n");
         if (inNote) {
             processInNote(line);
+            return;
+        }
+        matcher = OTHER_HEADING.matcher(line);
+        if (matcher.matches()) {
+            String name = matcher.group(1);
+            printWriter.printf("##%s\n", name);
             return;
         }
         matcher = NOTE.matcher(line);
@@ -68,6 +81,7 @@ public class Page {
         if (matcher.matches()) {
             return;
         }
+
         matcher = SNAP_DIRECTIVE.matcher(line);
         if (matcher.matches()) {
             printWriter.printf("// %s\n", line);
