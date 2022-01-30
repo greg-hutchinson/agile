@@ -1,3 +1,7 @@
+:revealjs_theme: sky
+:revealjs_hash: true
+:icons: font
+
 ifndef::partials[:partials: partials]
 ifndef::imagesdir[:imagesdir: images]
 

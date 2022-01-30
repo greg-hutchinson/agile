@@ -1,5 +1,4 @@
 ## Agile And Scrum
-ifndef::imagesdir[:imagesdir: images]
 :revealjs_theme: solarized
 :revealjs_hash: true
 :tip-caption: 💡
@@ -23,32 +22,20 @@ image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
 
 [.columns]
 ## Who am I?
-// @snap[north-west text-06 span-35]
- +
- +
- +
 
+[.column.is-one-third]
 - Scuba Diver
     - Red Sea
     - Caribbean
     - Indian Ocean
     - Philippines
-// @snapend
-// @snap[north text-06 span-35]
- +
- +
- +
 
-- Trekker
-    - Gobi Desert
-    - Nepal
-    - Morocco
-    - Colombia
-// @snapend
 [.column.is-one-third]
 
 image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
+
 // @snap[south-west text-09 span-55 fragment]
+
 Duplicate Bridge Player
 [.column.is-one-third]
 
