@@ -28,4 +28,4 @@
 ---?include=wrap-up/PITCHME.md
 ---
 # And Finally ...
-@img[fragment](assets/img/thank-you.jpg)
+@img[](assets/img/thank-you.jpg)

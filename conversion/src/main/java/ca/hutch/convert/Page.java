@@ -10,13 +10,16 @@ import java.util.regex.Pattern;
 
 public class Page {
     Pattern IMAGE_DIRECTIVE = Pattern.compile("@img.*\\(.*/(.*)\\)");
-    Pattern IMAGE_DIRECTIVE2 = Pattern.compile("!\\[\\s*\\]\\s*\\(.*/(.*)\\)");
+    Pattern IMAGE_DIRECTIVE2 = Pattern.compile("!\\[.*\\]\\s*\\(.*/(.*)\\)");
     Pattern IMAGE_DIRECTIVE3 = Pattern.compile("---\\?image=.*\\/(.*)&");
     Pattern QUOTE = Pattern.compile("@quote\\[(.*)\\]");
     Pattern SNAP_DIRECTIVE = Pattern.compile("@snap.*");
     Pattern NOTE = Pattern.compile("^Note:.*");
     Pattern END_NOTE = Pattern.compile("(---$|\\s*)");
-    Pattern U_LIST = Pattern.compile("@ul");
+    Pattern U_LIST = Pattern.compile("@ul\\[.*");
+    Pattern U_LIST_END = Pattern.compile("@ulend.*");
+    Pattern TITLE = Pattern.compile("@tit.*");
+    Pattern BOX = Pattern.compile("@box\\[.*\\]\\s*\\((.*)\\)");
 
     private Queue<String> noteQueue;
     private boolean inNote = false;
@@ -37,7 +40,8 @@ public class Page {
     public void processPage() {
         printWriter.printf("[.columns]\n");
         for (String line : lines) {
-            processLine(line);
+            String newString = line.replace("<br>", " +\n");
+            processLine(newString);
         }
         if (inNote) {
             processLine("---");
@@ -60,6 +64,10 @@ public class Page {
 
         if (processImage(line)) return;
 
+        matcher = TITLE.matcher(line);
+        if (matcher.matches()) {
+            return;
+        }
         matcher = SNAP_DIRECTIVE.matcher(line);
         if (matcher.matches()) {
             printWriter.printf("// %s\n", line);
@@ -73,10 +81,21 @@ public class Page {
             printWriter.printf("----\n%s\n----\n", name);
             return;
         }
+        matcher = BOX.matcher(line);
+        if (matcher.matches()) {
+            String bullet = matcher.group(1);
+            textCount++;
+            printWriter.printf("- %s\n", bullet);
+            return;
+        }
         matcher = U_LIST.matcher(line);
         if (matcher.matches()) {
             textCount++;
-            printWriter.printf("[%step]\n");
+            printWriter.println("[%step]");
+            return;
+        }
+        matcher = U_LIST_END.matcher(line);
+        if (matcher.matches()) {
             return;
         }
         textCount++;

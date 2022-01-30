@@ -1,4 +1,4 @@
-### Building Paper Airplanes
+# Building Paper Airplanes
 ---
 ### Rules and Constraints
 @snap[west span-80 text-07]

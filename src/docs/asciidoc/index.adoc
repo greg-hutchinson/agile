@@ -2,9 +2,37 @@ ifndef::partials[:partials: partials]
 ifndef::imagesdir[:imagesdir: images]
 
 include::{partials}/_footer.adoc[]
-
 include::{partials}/_title.adoc[]
 
+include::{partials}/_introduction.adoc[]
+include::{partials}/_why-agile.adoc[]
 include::{partials}/_complicated-vs-complex.adoc[]
-include::{partials}/_a-has.adoc[]
+include::{partials}/_complicated-vs-complex-triangle.adoc[]
 include::{partials}/_agile-mindset.adoc[]
+include::{partials}/_best-project-ever.adoc[]
+include::{partials}/_requirements-vs-design.adoc[]
+include::{partials}/_requirements-vs-design-summer-meadow.adoc[]
+
+include::{partials}/_scrum-overview.adoc[]
+include::{partials}/_story.adoc[]
+include::{partials}/_product-owner.adoc[]
+include::{partials}/_celebrity-ordering.adoc[]
+include::{partials}/_scrum-master.adoc[]
+include::{partials}/_delivery-team.adoc[]
+include::{partials}/_three-projects-three-experiments.adoc[]
+include::{partials}/_product-backlog-and-refinement.adoc[]
+include::{partials}/_story-splitting.adoc[]
+include::{partials}/_tour-de-sprint.adoc[]
+include::{partials}/_sprint-planning.adoc[]
+include::{partials}/_sprint.adoc[]
+include::{partials}/_daily-scrum.adoc[]
+include::{partials}/_sprint-review.adoc[]
+include::{partials}/_retrospective.adoc[]
+include::{partials}/_building-paper-airplanes.adoc[]
+
+include::{partials}/_marshmallowchallenge.adoc[]
+include::{partials}/_wrap-up.adoc[]
+
+# And Finally ...
+
+image:: thank-you.jpg[thanks, 640,480]
