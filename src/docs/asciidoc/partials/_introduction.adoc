@@ -4,51 +4,41 @@
 :tip-caption: 💡
 [.columns]
 
-[.columns]
 ## Who am I?
-// @snap[west text-06 span-55]
-- Software Developer since 1982
-  - 8085 Assembler, C, Smalltalk, Java, Ruby
-- Computer aided self driven tractors (1985)
-- Consultant for Credit Suisse and UBS banks in Zurich
-- Reviewer for eXtreme Programming Explained (1996)
-- Director of Agile Center of Excellence
-- IT Principal
-// @snapend
-[.column.is-one-third]
+[.column.is-two-thirds]
+* Software Developer since 1982
+* 8085 Assembler, C, Smalltalk, Java, Ruby
+* Computer aided self driven tractors (1985)
+* Consultant for Credit Suisse and UBS banks in Zurich
+* Reviewer for eXtreme Programming Explained (1996)
+* Director of Agile Center of Excellence
+* IT Principal
 
+[.column]
 image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
 
 
 [.columns]
-## Who am I?
+## Scuba Diver
 
-[.column.is-one-third]
-- Scuba Diver
-    - Red Sea
-    - Caribbean
-    - Indian Ocean
-    - Philippines
+[.column]
 
-[.column.is-one-third]
+- Red Sea
+- Caribbean
+- Indian Ocean
+- Philippines
 
+[.column]
 image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
 
-// @snap[south-west text-09 span-55 fragment]
+## Duplicate Bridge Player
 
-Duplicate Bridge Player
-[.column.is-one-third]
+image::duplicate-bridge.jpg[duplicate-bridge.jpg,620,480]
 
-image::duplicate-bridge.jpg[duplicate-bridge.jpg,640,480]
-// @snapend
-
----?image=assets/img/grim-reaper.jpg&size=contain
-// @snap[west text-07 span-25]
-And I really like Halloween
-// @snapend
+## And I really like Halloween
+image::grim-reaper.jpg[grim, 620,480]
 
 
-[.columns]
 ## Format
 - 10 min breaks ~45 mins. Please be back on time.
 - The Miro board (Stories, etc.)
@@ -71,19 +61,17 @@ image::introduce-yourself.jpg[introduce-yourself.jpg,640,480]
 - Wrap up & What's Next
 
 
-[.columns]
 ## Goals
-## At the end of this training you will:
-// @snap[midpoint span-90 text-09]
+At the end of this training you will:
+
 - Understand what it means to have an Agile mindset, by understanding its values and principals
 - Have a basic understanding of the Scrum process, its roles, artifacts and ceremonies
-// @snapend
 
 
-[.columns]
 ## Goals
-## And understand the following:
-// @snap[south span-90 text-08]
+And understand the following:
+
+[#normal-bullet]
 - It’s not about being agile for the sake of being agile. It’s about delighting customers.
 - Work in progress (WIP) is a liability towards being agile.
 - Agile teams aren’t afraid of REWORK.
@@ -91,21 +79,14 @@ image::introduce-yourself.jpg[introduce-yourself.jpg,640,480]
 - Agile is not an absolute term, rather it is a relative term
 - Agile isn’t a thing we do, it’s a mindset.
 - Agile delivery minimizes Risk.
- +
- +
 
-// @snapend
-
-[.columns]
 ## Working agreement
 - Be present
 - Turn cameras and microphones on.
 - Ask questions
 
 
-[.columns]
 ## Make note of any A-ha's
-[.column.is-one-third]
 
 image::aha.png[aha.png,640,480]
 
@@ -118,13 +99,11 @@ image::aha.png[aha.png,640,480]
 - You can ask me only one question - "Is n the next number in this list".
 - However, you can ask this **any number** of times.
 - When you think that you know the rule you can guess - but you only get 1 guess
-  - If you are right - you win.
-  - If not, well ...
+- If you are right - you win.
 - Here is the start of the list:
     - 2, 4, 6, 8, ...
-// @snapend
-[.column.is-one-third]
 
+[.column.is-one-fifth]
 image::thinking-cap.jpg[thinking-cap.jpg,640,480]
 
 

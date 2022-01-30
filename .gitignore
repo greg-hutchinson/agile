@@ -4,6 +4,7 @@
 # Ignore Gradle build output directory
 build
 target
+bin
 
 # Ignore Gradle GUI config
 gradle-app.setting

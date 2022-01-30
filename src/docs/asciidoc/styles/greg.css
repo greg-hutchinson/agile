@@ -13,9 +13,30 @@
 }
 
 
+#normal-bullet {
+    font-size: 16pt;
+}
+
+#smaller-bullet {
+    font-size: small;
+}
+
 #subtitle {
-    font-size: medium;
+    font-size: small;
 }
 #speaker {
     font-size: medium;
 }
+
+.reveal h2 {
+/*    font-family:'Times New Roman', Times, serif;  */
+    font-size: 48pt;
+}
+
+div.ulist ul li {
+    font-size: 24pt;
+/*    color: red;   */
+/*    list-style-type: square;  */
+
+}
+

@@ -204,6 +204,7 @@ image::brain.jpg[brain.jpg,640,480]
 [.columns]
 ## Why do we want to be Agile?
 
+## dsffd
 [quote, Greg, what]
 ----
 The pace of change has never been this fast, yet it will never be this slow again

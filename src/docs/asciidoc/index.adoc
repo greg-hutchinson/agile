@@ -41,5 +41,5 @@ include::{partials}/_wrap-up.adoc[]
 
 ## And Finally ...
 
-image::thank-you.jpg[thanks, 640,480]
+image::thank-you.jpg[thanks, 640,480
 
