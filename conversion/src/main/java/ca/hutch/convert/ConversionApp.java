@@ -14,11 +14,11 @@ public class ConversionApp {
     }
     void run() {
         String directory = "/Users/hutching/git-repos/agile/";
-        String filename = "/Users/hutching/git-repos/agile/complicated-vs-complex/PITCHME.md";
+        String filename = "/Users/hutching/git-repos/agile/celebrity-ordering/PITCHME.md";
         List<String> subdirectories = getDirectoryNames(directory);
         for (String sub: subdirectories) {
             System.out.println(sub);
- //           new ConvertFile(sub).processFile();
+//               new ConvertFile(sub+"/PITCHME.md").processFile();
         }
         new ConvertFile(filename).processFile();
     }
@@ -26,7 +26,7 @@ public class ConversionApp {
     public List<String> getDirectoryNames(String dir) {
         List<String> strings =  Stream.of(new File(dir).listFiles())
                 .filter(file -> !shouldIgnoreFile(file))
-                .map(File::getName)
+                .map(File::getAbsolutePath)
                 .collect(Collectors.toList());
         Collections.sort(strings);
         return strings;

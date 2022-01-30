@@ -1,6 +1,6 @@
-### Best Project Ever
+# Best Project Ever
 ---
-### What do we always notice?
+## What do we always notice?
 - Common themes
     - Team, Empowerment
     - Fun

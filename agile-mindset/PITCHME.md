@@ -1,4 +1,3 @@
-
 # Agile Mindset
 ---
 ## Mindset, Values, Principles, Practices

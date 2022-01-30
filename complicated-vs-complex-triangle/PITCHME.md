@@ -1,4 +1,4 @@
-### Triangle Experiment
+# Triangle Experiment
 ---
 ## What kind of Problem did we solve?
 - Complex?

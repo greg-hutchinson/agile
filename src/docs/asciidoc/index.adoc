@@ -6,3 +6,5 @@ include::{partials}/_footer.adoc[]
 include::{partials}/_title.adoc[]
 
 include::{partials}/_complicated-vs-complex.adoc[]
+include::{partials}/_a-has.adoc[]
+include::{partials}/_agile-mindset.adoc[]
