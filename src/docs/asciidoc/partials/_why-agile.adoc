@@ -1,61 +1,57 @@
 ## Why do we want to be "Agile"?
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
-[.columns]
+
+
+[%step]
 Before we can answer that, we need to answer this:
-// @snap[midpoint span-95 fragment]
-## What was wrong with our traditional approach?
-// @snapend
+
+[%step]
+What was wrong with our traditional approach?
+
+
 
 [.columns]
 ## What are characteristics of a failed traditional software project?
-
-[.columns]
-## What are characteristics of a failed traditional software project?
-// @snap[midpoint span-95]
+[%step]
 - Late, Over-budget
 - Large project / large number of people
 - Big bang delivery
 - Not what was expected/promised
 - Risky - Large deliverables are riskier
-// @snapend
 
 [.columns]
 ## How Do We Measure the Success of a Traditional Software Project?
 
 [.columns]
-## How Do We Measure the Success of a Traditional Software Project?
-// @snap[west span-75]
-[.column.is-one-third]
+## We Measure the Success of a Traditional Software Project
+[.column]
+image::time-cost-scope.jpeg[time-cost-scope.jpeg,600,440]
 
-image::time-cost-scope.jpeg[time-cost-scope.jpeg,640,480]
 [%step]
 - On Time, on Scope, on Budget
 - But what is missing?
-// @snapend
-// @snap[south-east span-60 fragment]
-[.column.is-one-third]
 
+## What is missing
+
+[%step]
 image::crying.jpeg[crying.jpeg,640,480]
-// @snapend
 
 [.columns]
 ## How Do We Measure the Success of an Agile Project
-// @snap[midpoint span-80 fragment]
-[.column.is-one-third]
-
+[.column]
 image::smile-cartoon.png[smile-cartoon.png,640,480]
-## By the width of the customer's smile
-// @snapend
+
+[.column]
+[%step]
+By the width of the customer's smile
 
 [.columns]
 ## What went wrong?
 
 [.columns]
 ## Traditional Approach
+++++
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS9smGZw51GJGOEOhH1R48qclmPb9gpFZ0MIHxVfpOlErRqdMtoV5cXrrt7NdqderCpluVP_wR2dj4l/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+++++
 
 
 [.columns]
@@ -72,19 +68,13 @@ image::smile-cartoon.png[smile-cartoon.png,640,480]
 
 [.columns]
 ## What did we notice?
-// @snap[north span-100 text-left text-09]
- +
- +
 
 - We had very unhappy customers.
 - Planning and design phases were time consuming and added little value (as a deliverable) by themselves.
 - It changed the customers' behaviour.
-// @snapend
-// @snap[south span-80 text-center]
 [.column.is-one-third]
 
 image::dilbert-easy.png[dilbert-easy.png,640,480]
-// @snapend
 
 
 [.columns]
@@ -96,33 +86,24 @@ image::standish.png[standish.png,640,480]
 
 [.columns]
 ## An Agile Approach
+++++
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKRCrEvic1xMCkOHTx8t30TRIomLK81gLZ8rFcbAU24X7LG3AsEZ6fVGcnzkm79PIWewbXfYq2q-8w/embed?start=false&loop=false&delayms=15000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+++++
 
 
-[.columns]
 ## Why have so many traditional software projects failed?
-// @snap[west span-50 text-center]
-We managed them as if they were other construction projects
-
-(A Complicated Problem)
-// @snapend
-// @snap[east span-50 text-center]
-[.column.is-one-third]
-
-image::blueprint.jpeg[blueprint.jpeg,640,480]
-// @snapend
-// @snap[south-east span-60 text-center]
-[.column.is-one-third]
-
-image::gantt-chart.jpeg[gantt-chart.jpeg,640,480]
-// @snapend
 
 [.columns]
-## Why do we want to be "Agile"?
-// @snap[midpoint span-80 text-center fragment]
-[.column.is-one-third]
+## We managed them as if they were other construction projects (A Complicated Problem)
+[.column]
+image::blueprint.jpeg[blueprint.jpeg,400,240]
+[.column]
+image::gantt-chart.jpeg[gantt-chart.jpeg,400,240]
 
+## Why do we want to be "Agile"?
+
+[%step]
 image::cool.png[cool.png,640,480]
+[%step]
 Because it is really cool?
-// @snapend
 
