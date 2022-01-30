@@ -1,12 +1,12 @@
-## Why do we want to be "Agile"?
+# Why do we want to be "Agile"?
 Before we can answer that, we need to answer this:
 @snap[midpoint span-95 fragment]
 ### What was wrong with our traditional approach?
 @snapend
 ---
-### What are characteristics of a failed traditional software project?
+## What are characteristics of a failed traditional software project?
 ---
-### What are characteristics of a failed traditional software project?
+## What are characteristics of a failed traditional software project?
 @snap[midpoint span-95]
 - Late, Over-budget
 - Large project / large number of people
@@ -15,9 +15,9 @@ Before we can answer that, we need to answer this:
 - Risky - Large deliverables are riskier
 @snapend
 ---
-### How Do We Measure the Success of a Traditional Software Project?
+## How Do We Measure the Success of a Traditional Software Project?
 ---
-### How Do We Measure the Success of a Traditional Software Project?
+## How Do We Measure the Success of a Traditional Software Project?
 @snap[west span-75]
 @img[span-45](assets/img/time-cost-scope.jpeg)
 @ul[list-square-bullets text-08 text-italic](true)
@@ -29,7 +29,7 @@ Before we can answer that, we need to answer this:
 @img[span-65](assets/img/crying.jpeg)
 @snapend
 ---
-### How Do We Measure the Success of an Agile Project
+## How Do We Measure the Success of an Agile Project
 @snap[midpoint span-80 fragment]
 @img[span-60](assets/img/smile-cartoon.png)
 ### By the width of the customer's smile

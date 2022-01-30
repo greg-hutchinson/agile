@@ -1,7 +1,4 @@
-
-@snap[midpoint text-06 span-35]
 # Agile And Scrum
-@snapend
 ---
 ## Who am I?
 @snap[west text-06 span-55]

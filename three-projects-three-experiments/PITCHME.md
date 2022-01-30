@@ -1,4 +1,4 @@
-### Three Project, Three experiments
+# Three Project, Three experiments
 @snapend
 @snap[midpoint span-40 text-09]
 Project 1
@@ -12,13 +12,13 @@ Project 3
 @snapend
 
 ---
-### Iteration 1
+## Iteration 1
 - Complete Project 1, Project 2 and then 3 consecutively.
 - Capture how long it took you to do all of them.
 
 
 ---
-### Iteration 2
+## Iteration 2
 Business conditions have changed and your priority will now be dictated in real time.
 
 - Begin with Project 1 and switch to Project 2 when you hear "switch"
@@ -26,7 +26,7 @@ Business conditions have changed and your priority will now be dictated in real 
 - Capture how long it to you to do all of them.
 
 ---
-### Iteration 3
+## Iteration 3
 
 - Complete Project 1, Project 2 and then 3 consecutively.
     - There is a new goal that ensure that no one is ever idle.
@@ -34,5 +34,5 @@ Business conditions have changed and your priority will now be dictated in real 
 - Capture how long it to you to do all of them.
 
 ---
-### Debrief
+## Debrief
 @img[south span-100](assets/img/context-switching.png)
