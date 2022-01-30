@@ -1,6 +1,8 @@
 :revealjs_theme: sky
 :revealjs_hash: true
 :icons: font
+:customcss: styles\greg.css
+
 
 ifndef::partials[:partials: partials]
 ifndef::imagesdir[:imagesdir: images]
