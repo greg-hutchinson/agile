@@ -1,0 +1,115 @@
+## Sprint
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+
+[.columns]
+## Word of the Day
+// @snap[west span-60 text-right]
+- Word: schadenfreude
+- Pronounced: shaw-den-froy-day
+- Meaning: to take pleasure in someone else's misfortune
+// @snapend
+[.column.is-one-third]
+
+image::dictionary.png[dictionary.png,640,480]
+[.column.is-one-third]
+
+image::devil.png[devil.png,640,480]
+
+
+[.columns]
+## What is a Sprint?
+// @snap[midpoint span-85 text-center]
+1 Day to 4 Weeks
+[.column.is-one-third]
+
+image::sprinting.png[sprinting.png,640,480]
+// @snapend
+
+
+[.columns]
+## Sprint Rules
+- No “non-delivery team” changes
+- Consistent sprint lengths
+- Team chooses how to complete stories  +
+(by priority)
+
+
+[.columns]
+## Why such a short timeframe?
+- Highest priority (ROI)
+- Reduce risk
+  - Risk grows exponentially
+
+
+[.columns]
+## Risk Graph
+
+// @snap[east span-80 text-left]
+<canvas data-chart="line">
+<!--
+{
+ "data": {
+  "labels": ["0", "1"," 2"," 3"," 4"," 5"," 6"," 7", " 8"],
+  "datasets": [
+   {
+    "data":[0,1, 2, 4, 8, 16, 32, 64, 99],
+    "label":"Risk of Failure",
+    "backgroundColor":"rgba(20,220,220,.8)"
+   }
+  ]
+ },
+ "options": { "responsive": "true" }
+}
+-->
+</canvas>
+// @snapend
+// @snap[west span-10 text-06 text-left]
+Risk of  +
+???
+// @snapend
+// @snap[south span-100 text-06 text-center]
+Number of Weeks
+ +
+ +
+
+// @snapend
+
+
+[.columns]
+## Other considerations that grow exponentially
+// @snap[midpoint span-100 text-center]
+[%step]
+- OCM
+- Training
+- Problem resolution time
+- Bugs, wrong features
+// @snapend
+
+
+
+[.columns]
+## Test - Word of the day?
+// @snap[west span-55 text-right]
+- Word: schadenfreude
+- Pronounced: shaw-den-froy-day
+- Meaning: to take pleasure in someone else's misfortune
+// @snapend
+// @snap[east span-40 text-07 text-left]
+[%step]
+- We spent 30 seconds to learn this word.
+- We should expect to learn 100 words in 50 minutes.
+- Could you achieve that?
+// @snapend
+
+
+[.columns]
+## Why 1 to 4 weeks
+[.column.is-one-third]
+
+image::pivot.png[pivot.png,640,480]
+
+

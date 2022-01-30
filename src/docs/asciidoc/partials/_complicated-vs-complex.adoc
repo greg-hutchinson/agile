@@ -1,21 +1,62 @@
 ## Complicated<br>vs<br>Complex
-ifndef::imagesdir[:imagesdir: ../images]
+ifndef::imagesdir[:imagesdir: images]
 :revealjs_theme: solarized
 :revealjs_hash: true
 :tip-caption: 💡
+[.columns]
 
+[.columns]
+## The Cynefin Framework
+## It is a sense making framework to help:
+- Decide what type of problem you are trying to solve
+- Decide which approach you should take to solve the problem.
+
+[.columns]
+## The Cynefin Framework
+[.column.is-one-third]
+
+image::N7oz366X0-8?start=130[N7oz366X0-8?start=130,640,480]
+For the full video go to: https://www.youtube.com/watch?v=N7oz366X0-8
+
+[.notes]
+--
+- Stop at 4:44
+--
+
+[.columns]
+## Ordered Systems
+// @snap[east span-15 text-07 text-center]
+Simple and Complicated
+// @snapend
+[.column.is-one-third]
+
+image::cynefin.png[cynefin.png,640,480]
 
 [.columns]
 ## Simple Domain
+// @snap[east span-20 text-06 text-center]
+- Relationship exists between cause and effect
+- Observable in advance
+- Obvious to everyone
+- Best practice
+// @snapend
+[.column.is-one-third]
 
-[.column]
-sdafsdafsdafdsafsadfsdafsadfdsa
-sdfadsafsadfsdafsdaf
-
-[.column]
 image::cynefin.png[cynefin.png,640,480]
 
-## 44444
+
+[.columns]
+## Complicated Domain
+// @snap[east span-20 text-06 text-center]
+- Relationship exists between cause and effect
+- Observable in advance
+- However, needs Analysis or expertise
+- Good practice
+// @snapend
+[.column.is-one-third]
+
+image::cynefin.png[cynefin.png,640,480]
+
 
 [.columns]
 ## Unordered Domains

@@ -1,0 +1,106 @@
+## Daily Scrum
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+
+[.columns]
+## What is it?
+// @snap[east span-50 text-06 text-left]
+It is an opportunity to get together and communicate with the rest of your team.
+[.column.is-one-third]
+
+image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
+// @snapend
+
+// @snap[west span-40 text-07 text-left]
+[%step]
+- Daily ~15 minute huddle
+- Not an update to the ScrumMaster
+- Same time & same place
+- Same questions
+   - What did you work on yesterday?
+   - What will you work on today?
+   - What is getting in your way?
+   - How long is it going to take?
+// @snapend
+
+
+[.columns]
+## Who does it?
+- Scrum Master (Lead)
+- Delivery Team
+- Product Owner (if invited)
+
+
+[.columns]
+## What is a Scrum Board?
+// @snap[west span-35 text-07 text-left]
+- Creates visibility
+- Tracks progress
+- Keeps focus
+// @snapend
+// @snap[east span-70]
+[.column.is-one-third]
+
+image::scrum-board.png[scrum-board.png,640,480]
+// @snapend
+
+
+[.columns]
+## What is a Burndown Chart?
+// @snap[west span-35 text-08 text-left]
+- Tracks progress toward the sprint goal
+- The jury is out on this one
+// @snapend
+// @snap[east span-65]
+[.column.is-one-third]
+
+image::sprint-burndown.png[sprint-burndown.png,640,480]
+// @snapend
+
+
+[.columns]
+## Sprint Board - Beginning
+// @snap[midpoint span-80]
+[.column.is-one-third]
+
+image::sprint-board1.png[sprint-board1.png,640,480]
+// @snapend
+
+
+[.columns]
+## Sprint Board - During
+// @snap[midpoint span-80]
+[.column.is-one-third]
+
+image::sprint-board2.png[sprint-board2.png,640,480]
+// @snapend
+
+
+[.columns]
+## Sprint Board - End
+// @snap[midpoint span-80]
+[.column.is-one-third]
+
+image::sprint-board3.png[sprint-board3.png,640,480]
+// @snapend
+
+
+[.columns]
+## Sprint Board - Pitfall #1
+// @snap[midpoint span-80]
+[.column.is-one-third]
+
+image::sprint-board-pitfall1.png[sprint-board-pitfall1.png,640,480]
+// @snapend
+
+[.columns]
+## Sprint Board - Pitfall #2
+// @snap[midpoint span-80]
+[.column.is-one-third]
+
+image::sprint-board-pitfall2.png[sprint-board-pitfall2.png,640,480]
+// @snapend
+

@@ -1,0 +1,143 @@
+## Agile And Scrum
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+
+[.columns]
+## Who am I?
+// @snap[west text-06 span-55]
+- Software Developer since 1982
+  - 8085 Assembler, C, Smalltalk, Java, Ruby
+- Computer aided self driven tractors (1985)
+- Consultant for Credit Suisse and UBS banks in Zurich
+- Reviewer for eXtreme Programming Explained (1996)
+- Director of Agile Center of Excellence
+- IT Principal
+// @snapend
+[.column.is-one-third]
+
+image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
+
+
+[.columns]
+## Who am I?
+// @snap[north-west text-06 span-35]
+ +
+ +
+ +
+
+- Scuba Diver
+    - Red Sea
+    - Caribbean
+    - Indian Ocean
+    - Philippines
+// @snapend
+// @snap[north text-06 span-35]
+ +
+ +
+ +
+
+- Trekker
+    - Gobi Desert
+    - Nepal
+    - Morocco
+    - Colombia
+// @snapend
+[.column.is-one-third]
+
+image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
+// @snap[south-west text-09 span-55 fragment]
+Duplicate Bridge Player
+[.column.is-one-third]
+
+image::duplicate-bridge.jpg[duplicate-bridge.jpg,640,480]
+// @snapend
+
+---?image=assets/img/grim-reaper.jpg&size=contain
+// @snap[west text-07 span-25]
+And I really like Halloween
+// @snapend
+
+
+[.columns]
+## Format
+- 10 min breaks ~45 mins. Please be back on time.
+- The Miro board (Stories, etc.)
+
+[.columns]
+## Introduce yourself
+- Name / Current Job role
+- Experience with Agile/scrum
+- What are you hoping to get out of this training
+- What you like to do in your spare time
+[.column.is-one-third]
+
+image::introduce-yourself.jpg[introduce-yourself.jpg,640,480]
+
+
+[.columns]
+## High Level Agenda
+- Agile Theory
+- Scrum Framework
+- Wrap up & What's Next
+
+
+[.columns]
+## Goals
+## At the end of this training you will:
+// @snap[midpoint span-90 text-09]
+- Understand what it means to have an Agile mindset, by understanding its values and principals
+- Have a basic understanding of the Scrum process, its roles, artifacts and ceremonies
+// @snapend
+
+
+[.columns]
+## Goals
+## And understand the following:
+// @snap[south span-90 text-08]
+- It’s not about being agile for the sake of being agile. It’s about delighting customers.
+- Work in progress (WIP) is a liability towards being agile.
+- Agile teams aren’t afraid of REWORK.
+- Agile Teams are about delivering business value sooner and more frequently. This is not necessarily the most ***efficient*** way to deliver.
+- Agile is not an absolute term, rather it is a relative term
+- Agile isn’t a thing we do, it’s a mindset.
+- Agile delivery minimizes Risk.
+ +
+ +
+
+// @snapend
+
+[.columns]
+## Working agreement
+- Be present
+- Turn cameras and microphones on.
+- Ask questions
+
+
+[.columns]
+## Make note of any A-ha's
+[.column.is-one-third]
+
+image::aha.png[aha.png,640,480]
+
+
+[.columns]
+## Warmup Exercise
+// @snap[midpoint span-85]
+[%step]
+- Your task is to identify the rule to the next number in a list of numbers that I will give you.
+- You can ask me only one question - "Is n the next number in this list".
+- However, you can ask this **any number** of times.
+- When you think that you know the rule you can guess - but you only get 1 guess
+  - If you are right - you win.
+  - If not, well ...
+- Here is the start of the list:
+    - 2, 4, 6, 8, ...
+// @snapend
+[.column.is-one-third]
+
+image::thinking-cap.jpg[thinking-cap.jpg,640,480]
+
+

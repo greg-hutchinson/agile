@@ -1,0 +1,30 @@
+## Building Paper Airplanes
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+
+[.columns]
+## Rules and Constraints
+// @snap[west span-80 text-07]
+- ¼ of a sheet of paper (paper must be cut in 4)
+- Only one fold at a time per team member
+- Only the Product Owner tests
+    - Airplane must fly 3 meters by aerodynamic lift
+    - Airplanes may only be tested once
+
+- Report results at the end of each iteration
+    - Airplanes built
+    - Airplanes tested successfully
+    - Work in Progress (Airplanes not completed)
+
+- Partially built planes must be discarded after each iteration
+// @snapend
+// @snap[east span-65]
+[.column.is-one-third]
+
+image::airplanes.png[airplanes.png,640,480]
+// @snapend
+
+

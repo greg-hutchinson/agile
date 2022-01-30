@@ -1,0 +1,12 @@
+## Triangle Experiment
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+
+[.columns]
+## What kind of Problem did we solve?
+- Complex?
+- Complicated?
+

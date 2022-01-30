@@ -1,0 +1,13 @@
+## Celebrity Ordering
+ifndef::imagesdir[:imagesdir: images]
+:revealjs_theme: solarized
+:revealjs_hash: true
+:tip-caption: 💡
+[.columns]
+[.column.is-one-third]
+
+image::sinking-ship.jpg[sinking-ship.jpg,640,480]
+// @snap[west text-08 span-35 text-left]
+Save the drowning passengers
+// @snapend
+
