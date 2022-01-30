@@ -1,4 +1,5 @@
 ifndef::partials[:partials: partials]
+ifndef::imagesdir[:imagesdir: images]
 
 include::{partials}/_footer.adoc[]
 

@@ -12,18 +12,7 @@ import java.util.stream.Stream;
 public class ConvertFile {
     Pattern MAIN_HEADING = Pattern.compile("#[^#]*$");
     Pattern PAGE_DIVIDER = Pattern.compile("---\\s*$");
-    Pattern IMAGE_DIRECTIVE = Pattern.compile("@img.*\\(.*/(.*)\\)");
-    Pattern IMAGE_DIRECTIVE2 = Pattern.compile("!\\[\\s*\\]\\s*\\(.*/(.*)\\)");
-    Pattern IMAGE_DIRECTIVE3 = Pattern.compile("---\\?image=.*\\/(.*)&");
-    Pattern QUOTE = Pattern.compile("@quote\\[(.*)\\]");
-    Pattern SNAP_DIRECTIVE = Pattern.compile("@snap.*");
-    Pattern NOTE = Pattern.compile("^Note:.*");
-    Pattern END_NOTE = Pattern.compile("(---$|\\s*)");
-    Pattern U_LIST = Pattern.compile("@ul");
-    
-    private Queue<String> queue;
-    private boolean inNote = false;
-
+    private Page page;
     private String filename;
  //   private PrintStream printStream;
 
@@ -63,27 +52,7 @@ public class ConvertFile {
 
     private void processLine(String line) {
         Matcher matcher;
-        if (inNote) {
-            matcher = END_NOTE.matcher(line);
-            if (matcher.matches()) {
-                inNote = false;
-                printWriter.printf("[.notes]\n");
-                printWriter.printf("--\n");
-                queue.stream().forEach((str) -> {
-                    printWriter.printf("%s\n", str);
-                });
-                printWriter.printf("--\n");
-                return;
-            }
-            queue.add(line);
-            return;
-        }
-        matcher = NOTE.matcher(line);
-        if (matcher.matches()) {
-            inNote = true;
-            queue = new LinkedList<String>();
-            return;
-        }
+
         matcher = MAIN_HEADING.matcher(line);
         if (matcher.matches()) {
             printWriter.printf("#%s\n", line);
@@ -91,51 +60,17 @@ public class ConvertFile {
                     ":revealjs_theme: solarized\n" +
                     ":revealjs_hash: true\n" +
                     ":tip-caption: \uD83D\uDCA1\n", line);
+            page = new Page(printWriter);
             return;
         }
 
         matcher = PAGE_DIVIDER.matcher(line);
         if (matcher.matches()) {
-            printWriter.printf("\n");
+            page.processPage();
+            page = new Page(printWriter);
             return;
         }
-
-        matcher = IMAGE_DIRECTIVE.matcher(line);
-        if (matcher.matches()) {
-            String name = matcher.group(1);
-            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
-            return;
-        }
-        matcher = IMAGE_DIRECTIVE2.matcher(line);
-        if (matcher.matches()) {
-            String name = matcher.group(1);
-            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
-            return;
-        }
-        matcher = IMAGE_DIRECTIVE3.matcher(line);
-        if (matcher.matches()) {
-            String name = matcher.group(1);
-            printWriter.printf("\nimage::%s[%s,640,480]\n", name,name);
-            return;
-        }
-        matcher = SNAP_DIRECTIVE.matcher(line);
-        if (matcher.matches()) {
-            printWriter.printf("// %s\n", line);
-            return;
-        }
-        matcher = QUOTE.matcher(line);
-        if (matcher.matches()) {
-            String name = matcher.group(1);
-            printWriter.printf("[quote, unknown]\n");
-            printWriter.printf("----\n%s\n----\n", name);
-            return;
-        }
-        matcher = U_LIST.matcher(line);
-        if (matcher.matches()) {
-            printWriter.printf("[%step]\n");
-            return;
-        }
-        printWriter.printf("%s\n", line);
+        page.addLine(line);
     }
 
 }

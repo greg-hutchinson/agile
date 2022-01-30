@@ -2,11 +2,10 @@
 ifndef::imagesdir[:imagesdir: ../images]
 
 [#gradle-elephant]
-image::gradle-elephant.svg[]
+image::gradle-elephant.svg[dfsfdsa, 480, 240]
 
 [#subtitle]
 Where Theory Meets Practice
 
 [#speaker]
-Greg Hutchinson +
-d
+Greg Hutchinson
