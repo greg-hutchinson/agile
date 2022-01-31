@@ -3,6 +3,7 @@
 :icons: font
 :customcss: styles\greg.css
 :figure-caption!:
+:stem: 
 
 
 ifndef::partials[:partials: partials]

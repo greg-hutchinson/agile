@@ -1,38 +1,29 @@
 ## User Story
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
-[.columns]
-[.column.is-one-third]
 
 image::story.jpeg[story.jpeg,640,480]
 
 [.columns]
 ## Definition
-[.column.is-one-third]
+[.column]
 
 image::story.jpeg[story.jpeg,640,480]
-// @snap[west span-65 text-08]
+
+[.column]
 - Are the requirements that go into the product Backlog
 - Are recognizable as providing value by your customer
 - Are deliverable by themselves.
 - Exist in the Product backlog
 - Exist in the Sprint backlog
 - Consist of other tasks
-// @snapend
 
-[.columns]
+
 ## Worded often as such:
-// @snap[midpoint span-60 text-center]
-- As a [Role] 
-- I want to [be able to]
-- So that I can [justification]
-// @snapend
+As a [Role]  +
+I want to [be able to] +
+So that I can [justification]
 
-[.columns]
+
 ## Epics, Stories, Tasks
-[.column.is-one-third]
 
 image::epic-breakdown.png[epic-breakdown.png,640,480]
 [.notes]
@@ -44,20 +35,23 @@ image::epic-breakdown.png[epic-breakdown.png,640,480]
 
 [.columns]
 ## Story points
-[.column.is-one-third]
+[.column]
 
 image::twice-as-big.png[twice-as-big.png,640,480]
+
+[.column]
 - Estimate of how "Big" a story is (not how long will it take)
 - Are relative estimate of the "Teams" effort 
     - not any individual's effort
 
 [.columns]
 ## Story points
-[.column.is-one-third]
+[.column]
 
 image::twice-as-big.png[twice-as-big.png,640,480]
-- Loosely follows the Fibanocci sequence
-    - Fibanocci -  0,1,1,2,3,5,8,13,21,34,55,89
-    - Story Pts - 0,1/2,1,2,3,5,8,13,20,40,60,100
 
+[.column]
+- Loosely follows the Fibanocci sequence
+- Fibanocci -  0,1,1,2,3,5,8,13,21,34,55,89
+- Story Pts - 0,1/2,1,2,3,5,8,13,20,40,60,100
 

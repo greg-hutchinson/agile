@@ -1,48 +1,23 @@
 ## Product Owner
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
-[.columns]
 
 
-[.columns]
 ## Makes sure that the right things get done!
 - Sets the vision for the product
 - The Product Owner will prioritize based on business value first. Once the team adds in the cost, she will prioritize based on ROI.
 
-[.columns]
 ## Other Considerations 
-// @snap[midpoint span-75]
-[.column.is-one-third]
 
 image::order-the-backlog.jpg[order-the-backlog.jpg,640,480]
-// @snapend
 
-
-[.columns]
 ## ROI Calculation
-// @snap[north text-07 span-100]
- +
- +
- +
- +
 
-@math
-`\[
-ROI = \frac{BusinessValue}{Cost}
-\]`
-@mathend
-// @snapend
-// @snap[midpoint text-07 span-100 fragment]
- +
- +
- +
+ROI = BusinessValue / Cost
 
-## For the Mathematicians in the crowd
+For the Mathematicians in the crowd +
+As Cost goes down, ROI goes up + 
+(As Cost → 0 then ROI → ∞) 
 
-## As Cost goes down, ROI goes up (As Cost → 0 then ROI → ∞)
-## And conversely
-## As Cost goes up, ROI goes down (As Cost → ∞ then ROI → 0)
-// @snapend
+And conversely +
+As Cost goes up, ROI goes down +
+(As Cost → ∞ then ROI → 0)
 

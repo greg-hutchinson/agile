@@ -13,3 +13,18 @@ video::TRcReyRYIMg[youtube]
 
 
 ## Scrum is Easy
+
+(and yet hard)
+
+image::scrum-framework.png[scrum,640,480]
+
+[.columns]
+## Other Examples???
+[.columns]
+[%step]
+image::lose-weight.jpg[scrum,640,480]
+
+[.columns]
+[%step]
+image::bad-habits.jpg[scrum,640,480]
+
