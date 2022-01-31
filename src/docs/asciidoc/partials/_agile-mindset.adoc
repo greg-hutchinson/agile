@@ -104,6 +104,7 @@ image::brain.jpg[brain.jpg,640,480]
 ## Values
 [cols="47%,6%,47%"]
 [frame=none]
+//[grid=none]
 [#smaller-table]
 |===
 | Agile | | Waterfall
@@ -122,51 +123,22 @@ image::brain.jpg[brain.jpg,640,480]
 |Frequent delivery | |Plan the work
 |Simplicity | |Limit Change
 |Trust/Safety | |Single point of responsibility
-|Measure progress on value delivered | |On time, budget & scope
+|Measure progress on value delivered | |Limit Change
+|Effective over efficient | |Sign-offs
+|Feedback loops | |Maximize utilization
 |===
 
-
-## next
-- 
-- 
-- 
-- 
-- 
-- Effective over efficient
-- Feedback loops
-
-- Sprint, Standup, Demo
-- Refinement, Burndown
-- Product Owner, Scrum Master
-- Retrospective, Backlog
-
-Values
-Waterfall
-
-- 
-- 
-- 
-
-- 
-- Limit change
-- 
-- Hand out work
-- 
-- Functional teams/siloed working
-- Maximize utilization
-- Sign-offs
 ## Practices Tools Processes
-// @snapend
-
-// @snap[south-east text-left span-35 text-05]
-- Requirement documents
-- Weekly status updates
-- Change requests
-- Approval gates
-- Early sign offs
-- Test plans
-// @snapend
-
+[cols="47%,6%,47%"]
+[frame=none]
+[#smaller-table]
+|===
+| Agile | | Waterfall
+|Sprint, Standup, Demo | |Requirement documents
+|Refinement, Burndown | |Weekly status updates
+|Product Owner, Scrum Master | |Change requests, Approval Gates
+|Retrospective, Backlog | |Early Sign Off, Test plans
+|===
 
 [.columns]
 ## Why do we want to be Agile?
@@ -174,12 +146,9 @@ Waterfall
 [quote]
 The pace of change has never been this fast, yet it will never be this slow again
 
-[.columns]
 ## We can't predict the future
-[.column.is-one-third]
 
 image::mind-reader.png[mind-reader.png,640,480]
-
 
 [.columns]
 ## What were they missing?
@@ -193,14 +162,7 @@ image::kodak.jpg[kodak.jpg,640,480]
 
 image::toysrus.png[toysrus.png,640,480]
 
-
-[.columns]
 ## How do we adapt quickly?
-
-[.columns]
-## Limit work in progress (wip)
-[.column.is-one-third]
-
 image::limit-wip.png[limit-wip.png,640,480]
 
 

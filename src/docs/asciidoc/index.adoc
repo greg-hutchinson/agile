@@ -2,6 +2,7 @@
 :revealjs_hash: true
 :icons: font
 :customcss: styles\greg.css
+:figure-caption!:
 
 
 ifndef::partials[:partials: partials]
