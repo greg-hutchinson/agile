@@ -66,20 +66,16 @@ By the width of the customer's smile
 // @snapend
 
 
-[.columns]
 ## What did we notice?
 
 - We had very unhappy customers.
 - Planning and design phases were time consuming and added little value (as a deliverable) by themselves.
 - It changed the customers' behaviour.
-[.column.is-one-third]
 
-image::dilbert-easy.png[dilbert-easy.png,640,480]
+image::dilbert-easy.png[dilbert-easy.png,480,320]
 
 
-[.columns]
 ## Other Consequences
-[.column.is-one-third]
 
 image::standish.png[standish.png,640,480]
 
