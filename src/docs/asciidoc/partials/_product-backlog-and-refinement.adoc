@@ -1,33 +1,24 @@
 ## Product Backlog
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
 ## What is the Product Backlog?
-// @snap[west span-55 text-left]
+
+[.column]
 - Requirements
 - Prioritized
 - Provides Transparency +
 to stakeholders
-// @snapend
-// @snap[east span-55 text-left]
-[.column.is-one-third]
+[.column]
 
 image::product-backlog.png[product-backlog.png,640,480]
-// @snapend
 
-
-[.columns]
 ## Refinement meeting
-// @snap[midpoint span-95]
-[%step]
+
 - What – the act of adding detail, estimates, and order to items in the Product Backlog
 - Why – help the Product Owner get the Backlog ready for the next sprint planning meeting
 - When – Near the end of the sprint (usually 1-2 hours) - maybe longer.
 - Who – Product Owner, Scrum Master, Dev Team, SMEs (if needed)
 - Lead by the Product Owner
-// @snapend
+
 
 

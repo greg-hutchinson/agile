@@ -1,29 +1,22 @@
 ## Sprint Planning
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
 [.columns]
 
 [.columns]
 ## What is the Sprint Backlog?
-[.column.is-one-third]
+[.column]
 
 image::sprint-backlog.png[sprint-backlog.png,640,480]
 
-// @snap[east span-35 text-07 text-center]
+[.column]
 - Subset of Stories from the Product Backlog
 - Tasks within each Story
 - What the team plans to finish in the Sprint
-// @snapend
 
-
-[.columns]
 ## When and who is involved?
-// @snap[midpoint span-100 text-center]
+
 - Sprint planning occurs on Day 1 of the Sprint
 - Team determines velocity
 - Product Owner determines stories
-// @snapend
+
 
 

@@ -1,15 +1,6 @@
 ## Story Splitting
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
-[.columns]
 
 
-[.columns]
 ## Try and slice vertically
-[.column.is-one-third]
 
 image::vertical-slice.jpg[vertical-slice.jpg,640,480]
-
-
