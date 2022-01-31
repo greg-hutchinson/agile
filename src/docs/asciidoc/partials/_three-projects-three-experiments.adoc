@@ -1,11 +1,8 @@
+
 ## Three Project, Three experiments
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
-// @snapend
-// @snap[midpoint span-40 text-09]
+
 Project 1
 - 1, 2, 3, 4, 5, . . . 30
 

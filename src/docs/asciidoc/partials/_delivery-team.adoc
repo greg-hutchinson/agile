@@ -1,25 +1,21 @@
 ## Delivery Team
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
 
 [.columns]
 ## Attributes
-// @snap[west text-08 span-55 text-left]
+
 [%step]
 - Goals are clear
 - Focus
 - Small team
 - Specialist in some things
-  - Not everyone is a sniper
+- Not everyone is a sniper
 - Generalists in others
-  - but all can shoot
+- but all can shoot
 - Self-organizing (Autonomous)
-- Get the job done
 - Does not disband
-// @snapend
+
 [.column.is-one-third]
 
 image::swat-team.jpg[swat-team.jpg,640,480]
@@ -27,20 +23,21 @@ image::swat-team.jpg[swat-team.jpg,640,480]
 
 [.columns]
 ## Group Development
-[.column.is-one-third]
+[.column]
 
 image::tuckman.jpg[tuckman.jpg,640,480]
-// @snap[east text-05 span-27 text-left fragment]
+
+[.column]
+[%step]
 - Learning about each other
 - Challenging each other
 - Working with each other
 - Working as one...
-// @snapend
 
 
-[.columns]
+
 ## Delivery Team Responsibilities
-// @snap[midpoint text-08 span-90 text-left ]
+
 - Works closely with the Product Owner
   - discuss solutions
   - suggest alternatives
@@ -48,69 +45,47 @@ image::tuckman.jpg[tuckman.jpg,640,480]
 - Does everything necessary to deliver a secure, quality solution   
     - design/development/testing
     - translation/implementation
- +
- +
 
-// @snapend
-
-// @snap[south span-95 text-center fragment]
 ## Everything from Start to Finish
-// @snapend
+
 
 [.columns]
 ## Delivery Team Responsibilities
-// @snap[midpoint span-80 text-center]
-@box[bg-purple text-white](Assuming that you have 10 things to finish +
-Are these 2 statements equal?)
-- 100% of 8 things
-- 80% of 10 things
-// @snapend
-// @snap[south span-60 text-center fragment]
+Assume that you have 10 things to finish +
+Are these 2 statements equal? +
+100% of 8 things +
+80% of 10 things
+
 ## Focus on FINISHING work
-## But how?
-// @snapend
+But how?
 
 [.columns]
-Swarming
-[.column.is-one-third]
+## Swarming
+[.column]
 
 image::swarm-bees.jpeg[swarm-bees.jpeg,640,480]
-// @snap[east span-35 text-center]
+
+[.column]
 [%step]
 - Put more than one person on a story
 - Only possible if you break a story down into tasks.
 - And possibly break those tasks down into sub-tasks
-// @snapend
 
----?image=assets/img/t-shaped.png&size=contain&color=linear-gradient(to left, #56ccf2, #2f80ed)
+
 ## T-Shaped Skills
+image::t-shaped.png[t-shaped, 640,480]
 
-[.columns]
 ## Acquiring T-Shaped skills
-[.column.is-one-third]
 
 image::panic-zone.png[panic-zone.png,640,480]
 
-[.columns]
 ## Summary of T-Shaped skills
-// @snap[north span-65 text-left]
- +
- +
-
-- Everybody can do everything
-// @snapend
+Everybody can do everything!!!!
+[%step]
+- No - But we want that very few things can be done by only one person
 
 
-// @snap[north span-65 text-left fragment]
- +
- +
 
-- ~~Everybody can do everything~~
-- Very few things can be done by only one person
-// @snapend
-
-
-[.columns]
 ## Specialization Issues
 - Creates dependencies between tasks
   - Creates handoffs
@@ -120,16 +95,16 @@ image::panic-zone.png[panic-zone.png,640,480]
 
 [.columns]
 ## Utilization
-// @snap[west span-40 text-left text-08]
-- Focus should be on effectiveness
-- Slack time is important
-// @snapend
-[.column.is-one-third]
-
+[.columns.is-two-thirds]
 image::fire-women.jpg[fire-women.jpg,640,480]
 
-// @snap[south span-100 fragment text-06]
-@quote[Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency](Tom Demarco)
-// @snapend
+[.columns]
+- Focus should be on effectiveness
+- Slack time is important
+
+## Slack Time
+[quote, Tom Demarco]
+Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
+
 
 

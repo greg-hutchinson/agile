@@ -1,14 +1,7 @@
 ## Scrum Master
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
-[.columns]
 
----?image=assets/img/scrum-master.png&size=contain
+image::scrum-master.png[sm, 640, 480]
 
-
-[.columns]
 ## Scrum Master Responsibilities
 - Ensures that things are done right!
 - Monitors team health
