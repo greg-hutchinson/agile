@@ -106,4 +106,12 @@ image::aha.png[aha.png,640,480]
 [.column.is-one-fifth]
 image::thinking-cap.jpg[thinking-cap.jpg,640,480]
 
+## Other Comments
+- "Agile Thinking" came out of the software development industry.
+- I believe that they can be applied in many areas
+- We all deliver value to the end-customer either directly or indirectly.
+- You may hear me say - "Go Live" or "put it into production". These terms just mean - deliver value
+- Team - Any team that is delivering value to a customer
+
+
 

@@ -94,3 +94,9 @@ Requirement or Design?
 
 [%step]
 image::icar.png[icar.png,640,480]
+
+## Why is this important?
+- Team doesn't understand the why of the problem
+- Stifles creativity
+- Missed opportunities for better solutions
+

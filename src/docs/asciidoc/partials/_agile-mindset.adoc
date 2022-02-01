@@ -165,4 +165,12 @@ image::toysrus.png[toysrus.png,640,480]
 ## How do we adapt quickly?
 image::limit-wip.png[limit-wip.png,640,480]
 
+## So ... agile is **not**
+- a specific way of delivering solutions
+- a framework or process
+- a methodology
+
+[%step]
+- It's a way of ***being***
+
 

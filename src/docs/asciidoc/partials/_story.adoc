@@ -55,3 +55,10 @@ image::twice-as-big.png[twice-as-big.png,640,480]
 - Fibanocci -  0,1,1,2,3,5,8,13,21,34,55,89
 - Story Pts - 0,1/2,1,2,3,5,8,13,20,40,60,100
 
+## Story points
+- As stories get large so does the range of error
+    - Cone of uncertaintity 
+- Are relative to each other
+- Difficult to explain in theory
+- But works in practice
+    - And does take practice

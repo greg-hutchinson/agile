@@ -6,3 +6,17 @@ Complex? or Complicated?
 ## And if I changed it?
 Complex? or Complicated?
 
+## When to use which approach?
+
+## Relationships
+[frame=none]
+[grid=none]
+|===
+|Agile | Waterfall
+|Problem is Complex | Problem is Complicated
+|Problem is Complicated | Change/Rework is expensive
+|Solving a part of the problem will affect the rest of the solution | Something similar has been done before
+|High chance of target changing | Target is somewhat fixed
+|===
+
+

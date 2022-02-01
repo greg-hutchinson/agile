@@ -109,6 +109,14 @@ a| image::alex-steph.jpg[AS, 320,240] a| image::rocket.png[Rocket, 320,240]
 |Every child is unique and must be understood as an individual - relationships are important. |Rockets are similar in critical ways.
 |===
 
+## Outcome
+[frame=none]
+[grid=none]
+|===
+a| image::alex-steph.jpg[AS, 320,240] a| image::rocket.png[Rocket, 320,240]
+|Uncertainty of outcome remains | There is a high degree of certainty of outcome
+|===
+
 
 
 

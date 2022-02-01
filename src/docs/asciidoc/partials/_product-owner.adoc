@@ -21,3 +21,11 @@ And conversely +
 As Cost goes up, ROI goes down +
 (As Cost → ∞ then ROI → 0)
 
+## Product Owner Other Responsibilities
+- Maintains and grooms the product backlog
+- Make sure the team understands what the criteria is for deciding between stories
+- Runs the refinement
+- Runs the planning session
+- Work with Stakeholders (50%)
+
+

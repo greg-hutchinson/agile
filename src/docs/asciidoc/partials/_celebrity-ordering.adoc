@@ -6,3 +6,10 @@ image::sinking-ship.jpg[sinking-ship.jpg,640,480]
 Save the drowning passengers
 
 
+## Celebrity Ordering
+image::sinking-ship.jpg[sinking-ship.jpg,640,480]
+
+Now - Pick a product owner.
+
+Product owner should decide on the criteria for saving people and articulate that to the team
+
