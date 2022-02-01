@@ -1,22 +1,21 @@
 ## Sprint
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
 
 [.columns]
 ## Word of the Day
-// @snap[west span-60 text-right]
+
+[%step]
 - Word: schadenfreude
 - Pronounced: shaw-den-froy-day
 - Meaning: to take pleasure in someone else's misfortune
-// @snapend
+
 [.column.is-one-third]
 
 image::dictionary.png[dictionary.png,640,480]
 [.column.is-one-third]
 
+[%step]
 image::devil.png[devil.png,640,480]
 
 
@@ -93,23 +92,29 @@ Number of Weeks
 
 [.columns]
 ## Test - Word of the day?
-// @snap[west span-55 text-right]
+
+[.column]
+[%step]
 - Word: schadenfreude
 - Pronounced: shaw-den-froy-day
 - Meaning: to take pleasure in someone else's misfortune
-// @snapend
-// @snap[east span-40 text-07 text-left]
+
+[.column]
 [%step]
 - We spent 30 seconds to learn this word.
 - We should expect to learn 100 words in 50 minutes.
 - Could you achieve that?
-// @snapend
 
 
-[.columns]
+
+
 ## Why 1 to 4 weeks
-[.column.is-one-third]
 
 image::pivot.png[pivot.png,640,480]
+
+## What can we conclude?
+Work in progress (WIP) is a **liability** to being agile.
+
+image::balloon-anchor.jpg[pivot.png,640,480]
 
 

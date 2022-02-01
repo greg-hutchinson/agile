@@ -1,8 +1,5 @@
 ## Retrospective
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
 
 
@@ -52,15 +49,19 @@ image::retrospective-vote.png[retrospective-vote.png,640,480]
 
 [.columns]
 ## Design an Experiment
-// @snap[east span-55]
+
 [.column.is-one-third]
 
 image::experiment.png[experiment.png,640,480]
-// @snapend
 
-// @snap[west text-07 span-45]
+
 **Hypothesis:**
 By including a translation person on the team, we will reduce the amount of items that are "almost completed".  
-// @snapend
 
 
+
+## Retrospective Ground Rules
+- Everyone participates & pays attention
+- Be honest, constructive, professional, and respectful (don’t get personal or finger point)
+- Focus on what's relevant for the team
+- Be positive and enthusiastic – you're given the opportunity to improve!

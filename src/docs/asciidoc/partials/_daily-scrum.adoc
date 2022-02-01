@@ -1,8 +1,5 @@
 ## Daily Scrum
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
 
 [.columns]
@@ -81,26 +78,18 @@ image::sprint-board2.png[sprint-board2.png,640,480]
 
 [.columns]
 ## Sprint Board - End
-// @snap[midpoint span-80]
-[.column.is-one-third]
 
 image::sprint-board3.png[sprint-board3.png,640,480]
-// @snapend
 
-
-[.columns]
 ## Sprint Board - Pitfall #1
-// @snap[midpoint span-80]
-[.column.is-one-third]
 
 image::sprint-board-pitfall1.png[sprint-board-pitfall1.png,640,480]
-// @snapend
 
-[.columns]
 ## Sprint Board - Pitfall #2
-// @snap[midpoint span-80]
-[.column.is-one-third]
 
 image::sprint-board-pitfall2.png[sprint-board-pitfall2.png,640,480]
-// @snapend
+
+## Sprint Board - Pitfall #3
+
+image::sprint-board-pitfall3.png[sprint-board-pitfall3.png,640,480]
 

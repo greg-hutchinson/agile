@@ -9,7 +9,10 @@
 - Agile isn’t a thing we do, it’s a mindset.
 - Agile delivery minimizes Risk.
 
-[.columns]
+
 ## Any A-ha's or parking lot?
+
+## Feedback exercise
+
 
 

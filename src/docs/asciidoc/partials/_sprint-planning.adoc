@@ -1,3 +1,5 @@
+
+
 ## Sprint Planning
 [.columns]
 
@@ -18,5 +20,10 @@ image::sprint-backlog.png[sprint-backlog.png,640,480]
 - Team determines velocity
 - Product Owner determines stories
 
+
+## What does velocity mean in Scrum?
+
+Velocity =
+Number of Story Points on average that a team has historically ***completed*** during a Sprint
 
 

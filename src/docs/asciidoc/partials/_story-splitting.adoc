@@ -4,3 +4,21 @@
 ## Try and slice vertically
 
 image::vertical-slice.jpg[vertical-slice.jpg,640,480]
+
+## Tactics for Splitting
+image::spidr.jpeg[spidr,640,480]
+
+## S - Spike
+image::spidr.jpeg[spidr,640,480]
+
+## P - Path
+image::spidr.jpeg[spidr,640,480]
+
+## I - Interface
+image::spidr.jpeg[spidr,640,480]
+
+## D - Data
+image::spidr.jpeg[spidr,640,480]
+
+## R - Rules
+image::spidr.jpeg[spidr,640,480]

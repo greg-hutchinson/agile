@@ -106,5 +106,6 @@ image::fire-women.jpg[fire-women.jpg,640,480]
 [quote, Tom Demarco]
 Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency
 
-
+## Effective vs Efficient Video
+(https://fccfac.sharepoint.com/sites/agilecentreofexcellence/Shared%20Documents/Blogs/Effective%20vs%20Efficient%20blog%20post.mp4?csf=1&e=rS96fh)
 

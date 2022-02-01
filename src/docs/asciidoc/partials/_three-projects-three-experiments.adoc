@@ -38,4 +38,7 @@ Business conditions have changed and your priority will now be dictated in real 
 
 - Capture how long it to you to do all of them.
 
+## Debrief
+image::context-switching.png[twice-as-big.png,640,480]
+
 

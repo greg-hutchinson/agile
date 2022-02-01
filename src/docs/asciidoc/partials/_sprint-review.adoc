@@ -1,8 +1,5 @@
 ## Sprint Review
-ifndef::imagesdir[:imagesdir: images]
-:revealjs_theme: solarized
-:revealjs_hash: true
-:tip-caption: 💡
+
 [.columns]
 
 [.columns]
@@ -52,5 +49,12 @@ When: At the end of each sprint
 - Delivery Team & Scrum Master
 - Stakeholders  / Customers
 - Anyone else who is interested
+
+## What's the Advantage?
+- Early feedback
+- Able to react to unforeseen changes
+- Team motivation
+- Measure actual progress
+- Reduce risks
 
 

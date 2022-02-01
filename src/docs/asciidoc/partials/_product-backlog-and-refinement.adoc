@@ -20,5 +20,6 @@ image::product-backlog.png[product-backlog.png,640,480]
 - Who – Product Owner, Scrum Master, Dev Team, SMEs (if needed)
 - Lead by the Product Owner
 
-
+## What Does a Good Product Backlog Look Like?
+image::deep.png[product-backlog.png,640,480]
 
