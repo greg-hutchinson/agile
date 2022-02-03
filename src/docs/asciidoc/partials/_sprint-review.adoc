@@ -1,21 +1,21 @@
 ## Sprint Review
 
-[.columns]
+
 ## The Review
 
 What’s included?
+
 - Demo of Potentially Shippable Product Increment
 - Discussion of unfinished work
 - Plan for next sprint
 
 
-Why?
+Note:
+
 - True transparency
 - Early and frequent feedback
+- Usually conducted at the end of the sprint
 
-When?
-- At the end of the sprint
-// @snapend
 
 [.notes]
 --
@@ -29,12 +29,11 @@ Know your audience ... Don’t kill ppl with technical details. Focus on the val
 When: At the end of each sprint
 --
 
-[.columns]
+
 ## What is a Potentially Shippable Product Increment?
 - All tasks are done for all stories
 
 
-[.columns]
 ## Who attends?
 - Product Owner lead
 - Delivery Team & Scrum Master
@@ -47,5 +46,3 @@ When: At the end of each sprint
 - Team motivation
 - Measure actual progress
 - Reduce risks
-
-

@@ -1,15 +1,11 @@
+
 ## Retrospective
 
-[.columns]
-
-
-[.columns]
 ## Allocate Time for Continuous Improvement
 - Occurs after the Sprint Review and prior to the next Sprint Planning.
 - Scrum master facilitates
 - The goal is to identify one improvement in the team’s process that they can try.
 - Review any experiments from last sprint
-
 
 
 [.columns]
@@ -21,44 +17,28 @@
 
 [.columns]
 ## Collect Data
-// @snap[east span-45 ]
-[.column.is-one-third]
 
 image::retrospective-mad-glad-sad.png[retrospective-mad-glad-sad.png,640,480]
-// @snapend
-// @snap[west span-45 ]
-[.column.is-one-third]
 
 image::retrospective-wind-in-sails.png[retrospective-wind-in-sails.png,640,480]
-// @snapend
-// @snap[south span-75 text-04 ]
+
 ## Templates for Running a Retrospective
 https://www.atlassian.com/blog/jira-software/5-fun-sprint-retrospective-ideas-templates
-// @snapend
 
 
-
-[.columns]
 ## Theme and Vote
-// @snap[midpoint span-75]
-[.column.is-one-third]
 
 image::retrospective-vote.png[retrospective-vote.png,640,480]
-// @snapend
-
 
 [.columns]
 ## Design an Experiment
 
-[.column.is-one-third]
-
+[.column]
 image::experiment.png[experiment.png,640,480]
 
-
-**Hypothesis:**
+[.column]
+**Hypothesis:** +
 By including a translation person on the team, we will reduce the amount of items that are "almost completed".  
-
-
 
 ## Retrospective Ground Rules
 - Everyone participates & pays attention
