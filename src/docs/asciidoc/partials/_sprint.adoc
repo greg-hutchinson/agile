@@ -44,50 +44,25 @@ image::sprinting.png[sprinting.png,640,480]
   - Risk grows exponentially
 
 
-[.columns]
 ## Risk Graph
 
-// @snap[east span-80 text-left]
-<canvas data-chart="line">
-<!--
-{
- "data": {
-  "labels": ["0", "1"," 2"," 3"," 4"," 5"," 6"," 7", " 8"],
-  "datasets": [
-   {
-    "data":[0,1, 2, 4, 8, 16, 32, 64, 99],
-    "label":"Risk of Failure",
-    "backgroundColor":"rgba(20,220,220,.8)"
-   }
-  ]
- },
- "options": { "responsive": "true" }
-}
--->
-</canvas>
-// @snapend
-// @snap[west span-10 text-06 text-left]
-Risk of  +
-???
-// @snapend
-// @snap[south span-100 text-06 text-center]
-Number of Weeks
- +
- +
-
-// @snapend
+[gnuplot, target=risk-graph.png, format=png]   
+.... 
+set xlabel "Number of weeks" font "Helvetica,20" 
+set ylabel "Number of Bugs" font "Helvetica,20"
+set key on bottom
+plot [0:6][0:110] x**2.5 title 'Risk grows exponentially!'
+....
 
 
-[.columns]
+
 ## Other considerations that grow exponentially
-// @snap[midpoint span-100 text-center]
+
 [%step]
 - OCM
 - Training
 - Problem resolution time
 - Bugs, wrong features
-// @snapend
-
 
 
 [.columns]
@@ -105,12 +80,10 @@ Number of Weeks
 - We should expect to learn 100 words in 50 minutes.
 - Could you achieve that?
 
-
-
-
 ## Why 1 to 4 weeks
 
 image::pivot.png[pivot.png,640,480]
+
 
 ## What can we conclude?
 Work in progress (WIP) is a **liability** to being agile.

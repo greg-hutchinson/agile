@@ -6,12 +6,15 @@
 ## What is it?
 // @snap[east span-50 text-06 text-left]
 It is an opportunity to get together and communicate with the rest of your team.
-[.column.is-one-third]
+[.column.is-two-thirds]
 
 image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
-// @snapend
 
-// @snap[west span-40 text-07 text-left]
+
+[.columns]
+## What is it?
+
+
 [%step]
 - Daily ~15 minute huddle
 - Not an update to the ScrumMaster
@@ -21,7 +24,9 @@ image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
    - What will you work on today?
    - What is getting in your way?
    - How long is it going to take?
-// @snapend
+[.column.is-two-thirds]
+
+image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
 
 
 [.columns]
@@ -33,50 +38,32 @@ image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
 
 [.columns]
 ## What is a Scrum Board?
-// @snap[west span-35 text-07 text-left]
+[.column.is-one-third]
 - Creates visibility
 - Tracks progress
 - Keeps focus
-// @snapend
-// @snap[east span-70]
-[.column.is-one-third]
 
+[.column.is-two-thirds]
 image::scrum-board.png[scrum-board.png,640,480]
-// @snapend
+
 
 
 [.columns]
 ## What is a Burndown Chart?
-// @snap[west span-35 text-08 text-left]
+[.column.is-one-third]
 - Tracks progress toward the sprint goal
 - The jury is out on this one
-// @snapend
-// @snap[east span-65]
-[.column.is-one-third]
 
+[.column.is-two-thirds]
 image::sprint-burndown.png[sprint-burndown.png,640,480]
-// @snapend
 
-
-[.columns]
 ## Sprint Board - Beginning
-// @snap[midpoint span-80]
-[.column.is-one-third]
-
 image::sprint-board1.png[sprint-board1.png,640,480]
-// @snapend
 
-
-[.columns]
 ## Sprint Board - During
-// @snap[midpoint span-80]
-[.column.is-one-third]
 
 image::sprint-board2.png[sprint-board2.png,640,480]
-// @snapend
 
-
-[.columns]
 ## Sprint Board - End
 
 image::sprint-board3.png[sprint-board3.png,640,480]
@@ -92,4 +79,3 @@ image::sprint-board-pitfall2.png[sprint-board-pitfall2.png,640,480]
 ## Sprint Board - Pitfall #3
 
 image::sprint-board-pitfall3.png[sprint-board-pitfall3.png,640,480]
-

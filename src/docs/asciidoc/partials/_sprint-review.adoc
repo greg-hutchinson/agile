@@ -1,27 +1,18 @@
 ## Sprint Review
 
 [.columns]
-
-[.columns]
 ## The Review
-// @snap[north-west text-08 span-45]
- +
- +
 
 What’s included?
 - Demo of Potentially Shippable Product Increment
 - Discussion of unfinished work
 - Plan for next sprint
-// @snapend
-// @snap[north-east text-08 span-45 text-left fragment]
- +
- +
+
 
 Why?
 - True transparency
 - Early and frequent feedback
-// @snapend
-// @snap[east text-08 span-45 text-left fragment]
+
 When?
 - At the end of the sprint
 // @snapend
