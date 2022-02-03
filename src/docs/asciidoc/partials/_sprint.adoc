@@ -5,7 +5,6 @@
 [.columns]
 ## Word of the Day
 
-[%step]
 - Word: schadenfreude
 - Pronounced: shaw-den-froy-day
 - Meaning: to take pleasure in someone else's misfortune
@@ -16,18 +15,13 @@ image::dictionary.png[dictionary.png,640,480]
 [.column.is-one-third]
 
 [%step]
-image::devil.png[devil.png,640,480]
+image::devil.png[devil.png,200,200]
 
 
-[.columns]
 ## What is a Sprint?
-// @snap[midpoint span-85 text-center]
 1 Day to 4 Weeks
-[.column.is-one-third]
 
 image::sprinting.png[sprinting.png,640,480]
-// @snapend
-
 
 [.columns]
 ## Sprint Rules

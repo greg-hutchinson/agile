@@ -8,17 +8,28 @@ image::vertical-slice.jpg[vertical-slice.jpg,640,480]
 ## Tactics for Splitting
 image::spidr.jpeg[spidr,640,480]
 
-## S - Spike
-image::spidr.jpeg[spidr,640,480]
 
-## P - Path
-image::spidr.jpeg[spidr,640,480]
+== S - Spike
+image::spidr.jpeg[background, size=cover]
+Story is very big + 
+Gain a better understanding of the + 
+problem and/or solution
+
+== P - Path
+image::spidr.jpeg[background, size=scaledwidth]
+Shopping cart with two methods of payments
 
 ## I - Interface
-image::spidr.jpeg[spidr,640,480]
+image::spidr.jpeg[background,800,600]
+Application is available for multiple browsers
 
 ## D - Data
-image::spidr.jpeg[spidr,640,480]
+image::spidr.jpeg[background]
+Two types of customer +
+Individual +
+Company
 
 ## R - Rules
-image::spidr.jpeg[spidr,640,480]
+image::spidr.jpeg[background]
+Relax the Rules
+
