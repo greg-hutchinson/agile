@@ -21,7 +21,7 @@ image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
 [.columns]
 ## Scuba Diver
 
-[.column]
+[.column.is-two-thirds]
 
 - Red Sea
 - Caribbean
@@ -33,10 +33,10 @@ image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
 
 ## Duplicate Bridge Player
 
-image::duplicate-bridge.jpg[duplicate-bridge.jpg,620,480]
+image::bridge-is-serious.jpeg[bridge-is-serious.jpeg,620,480]
 
 ## And I really like Halloween
-image::grim-reaper.jpg[grim, 620,480]
+image::grim-reaper.jpg[grim, 550,550]
 
 
 ## Format
