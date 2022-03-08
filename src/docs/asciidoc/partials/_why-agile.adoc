@@ -19,27 +19,24 @@ What was wrong with our traditional approach?
 - Risky - Large deliverables are riskier
 
 [.columns]
-## How Do We Measure the Success of a Traditional Software Project?
-
-[.columns]
-## We Measure the Success of a Traditional Software Project
-[.column]
+## How Do We Measure the Success of a Traditional Software Project
+[.column.is-two-fifths]
+[%step]
 image::time-cost-scope.jpeg[time-cost-scope.jpeg,600,440]
 
+[.column.is-one-fifth]
 [%step]
-- On Time, on Scope, on Budget
-- But what is missing?
+But what is missing?
 
-## What is missing
-
+[.column.is-two-fifths]
 [%step]
 image::crying.jpeg[crying.jpeg,640,480]
 
 [.columns]
 ## How Do We Measure the Success of an Agile Project
+[%step]
 [.column]
 image::smile-cartoon.png[smile-cartoon.png,640,480]
-
 [.column]
 [%step]
 By the width of the customer's smile
@@ -72,7 +69,9 @@ By the width of the customer's smile
 - Planning and design phases were time consuming and added little value (as a deliverable) by themselves.
 - It changed the customers' behaviour.
 
-image::dilbert-easy.png[dilbert-easy.png,480,320]
+## What did we notice?
+
+image::dilbert-easy.png[dilbert-easy.png,800,480]
 
 
 ## Other Consequences
@@ -98,8 +97,7 @@ image::gantt-chart.jpeg[gantt-chart.jpeg,400,240]
 
 ## Why do we want to be "Agile"?
 
-[%step]
 image::cool.png[cool.png,640,480]
 [%step]
-Because it is really cool?
+Because it is really cool!!!
 
