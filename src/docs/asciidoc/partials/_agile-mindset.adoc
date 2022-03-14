@@ -27,21 +27,27 @@ image::agile-principles-2-4-6-8.png[agile-principles-2-4-6-8.png,640,480]
 [.columns]
 ## Agile Principles
 
-[.column]
+[.column.is-three-fifths]
 image::agile-principles-5.png[agile-principles-5.png,640,480]
 
 [.column]
-image::mickey.jpeg[mickey.jpeg,640,480]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
+
+image::mickey.jpeg[mickey.jpeg,640,400]
 
 [.columns]
 ## Agile Principles
-[.column.is-one-third]
+[.column]
 image::agile-principles-9.png[agile-principles-9.png,640,480]
+[.column]
 [#smaller-bullet]
 - Automation is Key (Unit Test Cases)
 - Software as an Asset Mentality
-- Refactoring
-- Conversations with the Product Owner
+- Refactoring (Involving Conversations with the PO)
 - Code Reviews (Pull requests)
 - Continuous Integration (with servers)
 - Distributed Version Control Systems (DVCS - Git)
@@ -49,56 +55,82 @@ image::agile-principles-9.png[agile-principles-9.png,640,480]
 
 [.columns]
 ## Agile Principles
-[.column]
+[.column.is-two-thirds]
 image::agile-principles-10.png[agile-principles-10.png,640,480]
+
 [.column]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
+
 image::ham.png[ham.png,480,320]
 
 [.columns]
 ## Agile Principles
-[.column.is-one-third]
+[.column.is-two-thirds]
 
 image::agile-principles-11.png[agile-principles-11.png,640,480]
-// @snap[east text-06 span-35]
+[.column]
 - Emergent Design (Stays real)
 - Fits with the team is responsible for all statement
-// @snapend
 
 [.columns]
 ## Agile Principles
-[.column]
+[.column.is-two-thirds]
 
 image::agile-principles-12.png[agile-principles-12.png,640,480]
 [.column]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
 
-image::make-time.png[make-time.png,640,480]
+image::make-time.png[make-time.png,400,300]
 
 [.columns]
 ## Agile Principles - Experiment
-[.column]
+[.column.is-two-thirds]
 
 image::agile-principles-12.png[agile-principles-12.png,640,480]
 [.column]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
 
-image::experiment.png[experiment.png,640,480]
+image::experiment.png[experiment.png,400,300]
 
 [.columns]
 ## Agile Principles - Failure
-[.column]
+[.column.is-two-thirds]
 
 image::agile-principles-12.png[agile-principles-12.png,640,480]
 [.column]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
 
-image::fail.jpg[fail.jpg,640,480]
+image::fail.jpg[fail.jpg,400,300]
 
 [.columns]
 ## Agile Principles - Learn
-[.column]
+[.column.is-two-thirds]
 
 image::agile-principles-12.png[agile-principles-12.png,640,480]
 [.column]
+++++
+&nbsp
+&nbsp
+&nbsp
+++++
 
-image::brain.jpg[brain.jpg,640,480]
+image::brain.jpg[brain.jpg,400,300]
 
 // [%notitle]
 ## Values
