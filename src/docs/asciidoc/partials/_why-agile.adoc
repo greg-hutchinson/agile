@@ -98,6 +98,12 @@ image::gantt-chart.jpeg[gantt-chart.jpeg,400,240]
 ## Why do we want to be "Agile"?
 
 image::cool.png[cool.png,640,480]
-[%step]
+
 Because it is really cool!!!
+
+## Why do we want to be "Agile"?
+
+image::delighted-customer.jpg[cool.png,640,480]
+
+It's all about "Delighting Customers"
 

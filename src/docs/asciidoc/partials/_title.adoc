@@ -1,8 +1,8 @@
 == Agile/Scrum
 ifndef::imagesdir[:imagesdir: ../images]
 
-[#gradle-elephant]
-image::gradle-elephant.svg[dfsfdsa, 480, 240]
+[#agile-logo]
+image::agile.jpeg[dfsfdsa, 480, 240]
 
 [#subtitle]
 Where Theory Meets Practice

@@ -1,4 +1,4 @@
-## Agile And Scrum
+## Introduction
 :revealjs_theme: solarized
 :revealjs_hash: true
 :tip-caption: 💡
