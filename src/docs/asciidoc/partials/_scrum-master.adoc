@@ -3,12 +3,11 @@
 image::scrum-master.png[sm, 640, 480]
 
 ## Scrum Master Responsibilities
-- Ensures that things are done right!
+- Removes impediments !!!
+- Reinforces agile principles
+- Help promote that things are done right!
 - Monitors team health
 - Facilitates
-- Reinforces agile principles
-- Removes impediments
-
 
 ## A True Servant Leader
 image::traditional_vs_servant.jpeg[servant, 640, 480]

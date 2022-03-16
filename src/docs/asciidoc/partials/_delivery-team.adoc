@@ -2,21 +2,21 @@
 
 [.columns]
 
-[.columns]
+[.column.is-one-fifth]
 ## Attributes
 
 [%step]
-- Goals are clear
-- Focus
-- Small team
-- Specialist in some things
-- Not everyone is a sniper
-- Generalists in others
-- but all can shoot
-- Self-organizing (Autonomous)
-- Does not disband
+* Goals are clear
+* Focus
+* Small team
+* Specialist in some things
+** But not all are snipers
+* Generalists in others
+** But all can shoot
+* Self-organizing (Autonomous)
+* Does not disband
 
-[.column.is-one-third]
+[.column.is-two-fifths]
 
 image::swat-team.jpg[swat-team.jpg,640,480]
 
@@ -38,13 +38,13 @@ image::tuckman.jpg[tuckman.jpg,640,480]
 
 ## Delivery Team Responsibilities
 
-- Works closely with the Product Owner
-  - discuss solutions
-  - suggest alternatives
-  - estimate stories
-- Does everything necessary to deliver a secure, quality solution   
-    - design/development/testing
-    - translation/implementation
+* Work closely with the Product Owner
+** discuss solutions
+** suggest alternatives
+** estimate stories
+* Does everything necessary to deliver a secure, quality solution   
+** design/development/testing
+** translation/implementation
 
 ## Everything from Start to Finish
 
