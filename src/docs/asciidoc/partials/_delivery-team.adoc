@@ -38,11 +38,20 @@ image::tuckman.jpg[tuckman.jpg,640,480]
 
 ## Delivery Team Responsibilities
 
+* Align the team around the **same** goal. (similar goals aren't good enough)
+* Responsible to deliver a:
+** secure 
+** understood 
+** quality 
+** ... 
+** Solution
+
+## Delivery Team Responsibilities
+
 * Work closely with the Product Owner
 ** discuss solutions
 ** suggest alternatives
 ** estimate stories
-* Does everything necessary to deliver a secure, quality solution   
 ** design/development/testing
 ** translation/implementation
 

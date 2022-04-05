@@ -153,11 +153,11 @@ image::brain.jpg[brain.jpg,400,300]
 |===
 | Agile | | Waterfall
 |Frequent delivery | |Plan the work
-|Simplicity | |Limit Change
-|Trust/Safety | |Single point of responsibility
-|Measure progress on value delivered | |Limit Change
-|Effective over efficient | |Sign-offs
-|Feedback loops | |Maximize utilization
+|Simplicity | |Deliver it all
+|Team is responsible | |Single point of responsibility
+|Progress = value delivered | |Measure on % complete
+|Effective over efficient | | Efficient first
+|Have Slack | |Maximize utilization
 |===
 
 ## Practices Tools Processes
