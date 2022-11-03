@@ -3,5 +3,3 @@ Why is everyone interested in being agile these days? Businesses have been able 
 Today we are faced with a much quicker pace of change that takes away the ability to predict trends. Our world is becoming more volatile, uncertain, complex and ambiguous (VUCA). Years ago, having an established “foot in the door” was a huge advantage. The cost of entry for new competitors was high (infrastructure, staff, inventory, etc), but this isn’t the case anymore. New competitors are much leaner and nimble.  
 
 Since we can’t rely too heavily on our predication of the future, how do we ensure that our companies stays relevant? We believe the key risk mitigator to our current VUCA landscape is to be able to adapt quickly and cheaply to whatever comes our way.
-
-dddd
