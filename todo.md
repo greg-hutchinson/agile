@@ -1,7 +1,7 @@
 Left To Do
 
 - [x] Make Story cards with Points
-- [ ] Nothing about Story Points ???
+- [x] Nothing about Story Points ???
 - [x] Paper and instructions for paper airplanes
   - [x] Scissors
 - Marshmallow Challenge
