@@ -57,8 +57,6 @@ image::tuckman.jpg[tuckman.jpg,640,480]
 
 ## Everything from Start to Finish
 
-
-[.columns]
 ## Delivery Team Responsibilities
 Assume that you have 10 things to finish +
 Are these 2 statements equal? +
