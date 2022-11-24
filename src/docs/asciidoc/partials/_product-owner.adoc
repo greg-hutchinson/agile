@@ -3,7 +3,13 @@
 
 ## Makes sure that the right things get done!
 - Sets the vision for the product
-- The Product Owner will prioritize based on business value first. Once the team adds in the cost, she will prioritize based on ROI.
+- The Product Owner will prioritize based on business value first. Once the team adds in the cost, 
+she will prioritize based on ROI.
+
+
+## Product Ownership in a Nutshell.
+
+video::502ILHjX9EE[youtube]
 
 ## Other Considerations 
 

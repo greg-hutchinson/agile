@@ -19,24 +19,24 @@ What was wrong with our traditional approach?
 - Risky - Large deliverables are riskier
 
 [.columns]
-## How Do We Measure the Success of a Traditional Software Project
-[.column.is-two-fifths]
+## Measuring the Success of a Traditional Software Project
+[.column.is-one-third]
 [%step]
-image::time-cost-scope.jpeg[time-cost-scope.jpeg,600,440]
+image::time-cost-scope.jpeg[time-cost-scope.jpeg,550,400]
 
-[.column.is-one-fifth]
+[.column.is-one-third]
 [%step]
 But what is missing?
 
-[.column.is-two-fifths]
+[.column.is-one-third]
 [%step]
-image::crying.jpeg[crying.jpeg,640,480]
+image::crying.jpeg[crying.jpeg,5500,400]
 
 [.columns]
 ## How Do We Measure the Success of an Agile Project
 [%step]
-[.column]
-image::smile-cartoon.png[smile-cartoon.png,640,480]
+[.column.is-two-thirds]
+image::smile-width.jpeg[smile-width.png,640,480]
 [.column]
 [%step]
 By the width of the customer's smile

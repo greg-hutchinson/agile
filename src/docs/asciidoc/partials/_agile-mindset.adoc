@@ -149,7 +149,6 @@ image::brain.jpg[brain.jpg,400,300]
 ## Principles
 [cols="47%,6%,47%"]
 [frame=none]
-[#smaller-table]
 |===
 | Agile | | Waterfall
 |Frequent delivery | |Plan the work
@@ -163,7 +162,6 @@ image::brain.jpg[brain.jpg,400,300]
 ## Practices Tools Processes
 [cols="47%,6%,47%"]
 [frame=none]
-[#smaller-table]
 |===
 | Agile | | Waterfall
 |Sprint, Standup, Demo | |Requirement documents
