@@ -36,7 +36,7 @@ image::crying.jpeg[crying.jpeg,5500,400]
 ## How Do We Measure the Success of an Agile Project
 [%step]
 [.column.is-two-thirds]
-image::smile-width.jpeg[smile-width.png,640,480]
+image::smile-width.jpg[smile-width.jpg,640,480]
 [.column]
 [%step]
 By the width of the customer's smile

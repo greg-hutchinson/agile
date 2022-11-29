@@ -140,6 +140,7 @@ image::brain.jpg[brain.jpg,400,300]
 [#smaller-table]
 |===
 | Agile | | Waterfall
+
 |People come first | |Use standardized processes
 |Respond to change | |Get it right the first time
 |Early and frequent value delivery | |On time on budget
@@ -149,8 +150,10 @@ image::brain.jpg[brain.jpg,400,300]
 ## Principles
 [cols="47%,6%,47%"]
 [frame=none]
+[#smaller-table]
 |===
 | Agile | | Waterfall
+
 |Frequent delivery | |Plan the work
 |Simplicity | |Deliver it all
 |Team is responsible | |Single point of responsibility
@@ -162,8 +165,10 @@ image::brain.jpg[brain.jpg,400,300]
 ## Practices Tools Processes
 [cols="47%,6%,47%"]
 [frame=none]
+[#smaller-table]
 |===
 | Agile | | Waterfall
+
 |Sprint, Standup, Demo | |Requirement documents
 |Refinement, Burndown | |Weekly status updates
 |Product Owner, Scrum Master | |Change requests, Approval Gates
