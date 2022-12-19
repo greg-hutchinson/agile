@@ -16,7 +16,8 @@ public class ConvertSingleFile {
 
     PrintWriter printWriter;
     public static void main(String[] args) {
-        String filename = "/Users/hutchig1/Documents/git-repos/refactoring/PITCHME.md";
+//        String filename = "/Users/hutchig1/Documents/git-repos/refactoring/PITCHME.md";
+        String filename = "C:\\git-repos\\refactoring\\PITCHME.md";
         new ConvertSingleFile(filename).processFile();
     }
 
@@ -67,6 +68,9 @@ public class ConvertSingleFile {
 
         matcher = PAGE_DIVIDER.matcher(line);
         if (matcher.matches()) {
+            if (page == null)
+                page = new Page(printWriter);
+
             page.processPage();
             page = new Page(printWriter);
             return;
