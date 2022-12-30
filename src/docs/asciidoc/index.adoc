@@ -6,14 +6,15 @@
 :stem: 
 
 
-
 ifndef::partials[:partials: partials]
 ifndef::imagesdir[:imagesdir: images]
+
 
 include::{partials}/_footer.adoc[]
 include::{partials}/_title.adoc[]
 
 include::{partials}/_introduction.adoc[]
+
 include::{partials}/_why-agile.adoc[]
 include::{partials}/_complicated-vs-complex.adoc[]
 include::{partials}/_complicated-vs-complex-triangle.adoc[]
