@@ -14,14 +14,12 @@ Project 3
 // @snapend
 
 
-[.columns]
 ## Iteration 1
 - Complete Project 1, Project 2 and then 3 consecutively.
 - Capture how long it took you to do all of them.
 
 
 
-[.columns]
 ## Iteration 2
 Business conditions have changed and your priority will now be dictated in real time.
 
@@ -30,7 +28,6 @@ Business conditions have changed and your priority will now be dictated in real 
 - Capture how long it to you to do all of them.
 
 
-[.columns]
 ## Iteration 3
 
 - Complete Project 1, Project 2 and then 3 consecutively.
@@ -40,5 +37,3 @@ Business conditions have changed and your priority will now be dictated in real 
 
 ## Debrief
 image::context-switching.png[twice-as-big.png,640,480]
-
-

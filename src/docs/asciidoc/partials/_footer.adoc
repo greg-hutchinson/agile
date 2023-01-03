@@ -22,15 +22,15 @@
     #clogo {
       position: absolute;
       top: 20px;
-      left: 50px;
-      width: 80px;
+      left: 20px;
+      width: 300px;
     }
 </style>
 <div id="logo">
 Agile Scrum
 </div>
 <div id="clogo">
-<class="imageblock column"><img src="images/logo-gh-consulting.png" alt="Greg Hutchinson Consulting Inc" width="100" height="90">
+<class="imageblock column"><img src="images/logo-gh-consulting.png" alt="Greg Hutchinson Consulting Inc" width="160" height="140">
 </div>
 
 ++++

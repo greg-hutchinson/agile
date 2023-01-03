@@ -104,6 +104,7 @@ a| image::alex-steph.jpg[AS, 320,240] a| image::rocket.png[Rocket, 320,240]
 ## Relationships
 [frame=none]
 [grid=none]
+[.medium-table]
 |===
 a| image::alex-steph.jpg[AS, 320,240] a| image::rocket.png[Rocket, 320,240]
 |Every child is unique and must be understood as an individual - relationships are important. |Rockets are similar in critical ways.

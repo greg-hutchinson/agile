@@ -11,6 +11,7 @@ Complex? or Complicated?
 ## Relationships
 [frame=none]
 [grid=none]
+[.smaller-table]
 |===
 |Agile | Waterfall
 |Problem is Complex | Problem is Complicated

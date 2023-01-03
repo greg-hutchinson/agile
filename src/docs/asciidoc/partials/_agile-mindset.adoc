@@ -44,7 +44,7 @@ image::mickey.jpeg[mickey.jpeg,640,400]
 [.column]
 image::agile-principles-9.png[agile-principles-9.png,640,480]
 [.column]
-[#smaller-bullet]
+[.smaller-bullet]
 - Automation is Key (Unit Test Cases)
 - Software as an Asset Mentality
 - Refactoring (Involving Conversations with the PO)
@@ -137,7 +137,7 @@ image::brain.jpg[brain.jpg,400,300]
 [cols="47%,6%,47%"]
 [frame=none]
 //[grid=none]
-[#smaller-table]
+[.smaller-table]
 |===
 | Agile | | Waterfall
 
@@ -150,7 +150,7 @@ image::brain.jpg[brain.jpg,400,300]
 ## Principles
 [cols="47%,6%,47%"]
 [frame=none]
-[#smaller-table]
+[.smaller-table]
 |===
 | Agile | | Waterfall
 
@@ -162,10 +162,12 @@ image::brain.jpg[brain.jpg,400,300]
 |Have Slack | |Maximize utilization
 |===
 
+
+
 ## Practices Tools Processes
 [cols="47%,6%,47%"]
 [frame=none]
-[#smaller-table]
+[.smaller-table]
 |===
 | Agile | | Waterfall
 

@@ -12,19 +12,30 @@
     color: white;
 }
 
+
+/*
+li::marker {
+    font-size: 14pt;
+}
+*/
   
-#normal-bullet {
-    font-size: 16pt;
+.normal-bullet {
+    font-size: 14pt;
 }
 
-#smaller-table {
-    font-size: 20pt;;
+.smaller-table {
+    font-size: 20pt;
 }
 
-#subtitle {
+.medium-table {
+    font-size: 26pt;
+}
+
+.subtitle {
     font-size: small;
 }
-#speaker {
+
+.speaker {
     font-size: medium;
 }
 
@@ -33,6 +44,10 @@
     font-size: 48pt;
 }
 
+.reveal div.smaller-bullet ul{
+
+    font-size: 22pt;
+}
 
 .reveal ul {
     font-size: 24pt;
@@ -41,12 +56,5 @@
     margin: 0 0 0 1em; }
 
 
-div.ulist ul li {
-    font-size: 24pt;
-}
-/*
-    color: red;   
-    list-style-type: square; 
 
-*/
 

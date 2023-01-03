@@ -16,6 +16,7 @@ image::daily-scrum.jpeg[daily-scrum.jpeg,640,480]
 
 
 [%step]
+[.smaller-bullet]
 - Daily ~15 minute huddle
 - Not an update to the ScrumMaster
 - Same time & same place

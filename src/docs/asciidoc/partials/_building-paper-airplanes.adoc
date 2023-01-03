@@ -3,7 +3,7 @@
 
 [.columns]
 ## Rules and Constraints
-
+[.smaller-bullet]
 - ¼ of a sheet of paper (paper must be cut in 4)
 - Only one fold at a time per team member
 - Only the Product Owner tests

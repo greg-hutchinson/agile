@@ -48,20 +48,23 @@ image::tuckman.jpg[tuckman.jpg,640,480]
 
 ## Delivery Team Responsibilities
 
-* Work closely with the Product Owner
-** discuss solutions
-** suggest alternatives
-** estimate stories
-** design/development/testing
-** translation/implementation
+Work closely with the Product Owner to:
+
+* discuss solutions
+* suggest alternatives
+* estimate stories
+* design/development/testing
+* translation/implementation
 
 ## Everything from Start to Finish
 
 ## Delivery Team Responsibilities
-Assume that you have 10 things to finish +
-Are these 2 statements equal? +
-100% of 8 things +
-80% of 10 things
+Assume that you have 10 things to finish. +
+Are these 2 statements equal? 
+
+[%step]
+* 100% of 8 things 
+* 80% of 10 things
 
 ## Focus on FINISHING work
 But how?
