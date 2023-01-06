@@ -15,82 +15,102 @@ Easy, right ???
 ## Building the I-Car
 The car must be able to transport at least 4 people 
 
-Requirement or Design?
-[%step]
-Requirement
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Requirement</p>
+</details>
+++++
 
 
 ## Building the I-Car
 The car must have a CD-player 
 
-Requirement or Design?
-[%step]
-Design
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Design</p>
+</details>
+++++
 
 ## Building the I-Car
 The car must have an alarm
 
-Requirement or Design?
-
-[%step]
-Design
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Design</p>
+</details>
+++++
 
 
 ## Building the I-Car
 The car must have brakes
 
-Requirement or Design?
-
-[%step]
-Design
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Design</p>
+</details>
+++++
 
 
 ## Building the I-Car
 The car must have four wheels
 
-Requirement or Design?
-
-[%step]
-Design
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Design</p>
+</details>
+++++
 
 
 ## Building the I-Car
 The car must not be longer than 3 meters
 
-Requirement or Design?
-
-[%step]
-Design
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Design</p>
+</details>
+++++
 
 
 ## Building the I-Car
 The car needs to be able to park in a small parking spot (3 x 2 meters)
 
-Requirement or Design?
-
-[%step]
-Requirement
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Requirement</p>
+</details>
+++++
 
 ## Building the I-Car
 
 The car must be able to travel at least 500 km without having to stop (such as for fuel)
 
-Requirement or Design?
-
-[%step]
-Requirement
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Requirement</p>
+</details>
+++++
 
 
 ## Building the I-Car
 
 The car must be green
 
-Requirement or Design?
-
-[%step]
-- Depends on Context
-- Green - the Colour or ... ?
-- Green - Environmentally Friendly
+++++
+<details>
+  <summary>Requirement or Design?</summary>
+  <p>Depends on Context</p>
+  <p>Green - the color or ...?</p>
+  <p>Green - Environmentally Friendly</p>
+</details>
+++++
 
 
 ## What might this new I-Car look like?
