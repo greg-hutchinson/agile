@@ -64,7 +64,7 @@ image::introduce-yourself.jpg[introduce-yourself.jpg,640,480]
 ## Goals
 At the end of this training you will:
 
-- Understand what it means to have an Agile mindset, by understanding its values and principals
+- Understand what it means to have an Agile mindset, by understanding its values and principles
 - Have a basic understanding of the Scrum process, its roles, artifacts and ceremonies
 
 
