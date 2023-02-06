@@ -21,4 +21,6 @@ image::scrum-framework.png[scrum,640,480]
 ## Watch for Cargo Cult Mentality
 image::cargo-cult.jpeg[cargp,640,480]
 
+https://en.wikipedia.org/wiki/Cargo_cult#Postwar_developments
+
 

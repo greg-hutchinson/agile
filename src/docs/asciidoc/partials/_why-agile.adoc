@@ -1,4 +1,5 @@
 # Why do we want to be "Agile"?
+image::why-agile.png[why,480,300]
 
 
 [%step]
