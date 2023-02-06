@@ -1,5 +1,7 @@
 # Triangle Experiment
 
+image::triangle.jpeg[triangle,640,480]
+
 ## What kind of Problem did we just solve?
 Complex? or Complicated?
 

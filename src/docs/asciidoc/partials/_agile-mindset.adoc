@@ -1,5 +1,7 @@
 # Agile Mindset
 
+image::mindset.png[mindset,640,480]
+
 [.columns]
 ## Mindset, Values, Principles, Practices
 

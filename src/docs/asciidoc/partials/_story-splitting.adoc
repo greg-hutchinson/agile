@@ -1,5 +1,6 @@
 # Story Splitting
 
+image::story-splitting.png[story,640,480]
 
 ## Try and slice vertically
 

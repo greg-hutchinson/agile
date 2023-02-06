@@ -1,6 +1,8 @@
 ifndef::imagesdir[:imagesdir: images]
 
 # Delivery Team
+image::delivery-team.jpeg[delivery,640,480]
+
 
 [.columns]
 

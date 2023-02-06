@@ -1,4 +1,7 @@
+
 # Complicated Vs. Complex
+
+image::section-complex-vs-complicated.jpeg[]
 
 ## The Cynefin Framework
 It is a sense making framework to help:
