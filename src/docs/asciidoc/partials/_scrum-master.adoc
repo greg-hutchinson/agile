@@ -1,4 +1,4 @@
-## Scrum Master
+# Scrum Master
 
 image::scrum-master.png[sm, 640, 480]
 

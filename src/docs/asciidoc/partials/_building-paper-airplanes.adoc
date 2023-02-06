@@ -1,5 +1,5 @@
 
-## Building Paper Airplanes
+# Building Paper Airplanes
 
 [.columns]
 ## Rules and Constraints

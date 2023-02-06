@@ -1,4 +1,4 @@
-## Tour de sprint
+# Tour de sprint
 
 The Assignment
 [.normal-bullet]

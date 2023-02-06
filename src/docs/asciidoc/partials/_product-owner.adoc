@@ -1,5 +1,5 @@
 
-## Product Owner
+# Product Owner
 
 ## Makes sure that the right things get done!
 - Sets the vision for the product
@@ -11,9 +11,29 @@ she will prioritize based on ROI.
 
 video::502ILHjX9EE[youtube]
 
-## Other Considerations 
 
-image::order-the-backlog.jpg[order-the-backlog.jpg,640,480]
+## Worst thing a Product Owner can say.
+[%step]
+[quote, Any Product Owner]
+I'll add it to the backlog
+
+## Discussion - How Big are Your Stories
+[%step]
+* Remember - it's all about delighting customers
+* Customers don't mind waiting for small, medium or large stories.
+* What do they really mind waiting for?
+
+## Some Stories should never hit the backlog
+image::small-book.jpeg[bio-greg-on-hill.jpg,640,480]
+
+
+
+## Notes Worth Mentioning
+* A large backlog of more than ~ 6 months is useless.
+* If you have trouble dealing with that use your technology to hide the fact.
+** automatically move them to a very low status and then later have them automatically deleted.
+
+
 
 ## ROI Calculation
 

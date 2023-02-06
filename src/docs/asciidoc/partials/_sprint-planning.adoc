@@ -1,6 +1,5 @@
 
-
-## Sprint Planning
+# Sprint Planning
 [.columns]
 
 [.columns]

@@ -1,4 +1,4 @@
-## Agile Mindset
+# Agile Mindset
 
 [.columns]
 ## Mindset, Values, Principles, Practices

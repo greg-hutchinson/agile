@@ -1,4 +1,4 @@
-## Product Backlog
+# Product Backlog
 
 [.columns]
 ## What is the Product Backlog?

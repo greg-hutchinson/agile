@@ -13,6 +13,9 @@ ifndef::imagesdir[:imagesdir: images]
 include::{partials}/_footer.adoc[]
 include::{partials}/_title.adoc[]
 
+:leveloffset: +1
+
+
 include::{partials}/_introduction.adoc[]
 
 include::{partials}/_why-agile.adoc[]
@@ -20,7 +23,7 @@ include::{partials}/_complicated-vs-complex.adoc[]
 include::{partials}/_complicated-vs-complex-triangle.adoc[]
 include::{partials}/_agile-mindset.adoc[]
 include::{partials}/_best-project-ever.adoc[]
-include::{partials}/_requirements-vs-design.adoc[leveloffset=+1]
+include::{partials}/_requirements-vs-design.adoc[]
 include::{partials}/_requirements-vs-design-summer-meadow.adoc[]
 
 include::{partials}/_scrum-overview.adoc[]

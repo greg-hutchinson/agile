@@ -1,4 +1,4 @@
-## Complicated Vs. Complex
+# Complicated Vs. Complex
 
 ## The Cynefin Framework
 It is a sense making framework to help:
