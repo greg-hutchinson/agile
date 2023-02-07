@@ -1,5 +1,6 @@
 
 # Requirements vs Design
+image::requirements-versus-design.png[design,640,480]
 
 ## Requirement  
 Is **what** is required (Not the how) +
