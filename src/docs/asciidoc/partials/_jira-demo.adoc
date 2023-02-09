@@ -1,0 +1,5 @@
+ifndef::imagesdir[:imagesdir: images]
+
+# Jira Demo
+
+image::jira-logo.png[Jira,640,480]

@@ -28,9 +28,7 @@ include::{partials}/_requirements-vs-design-summer-meadow.adoc[]
 
 include::{partials}/_scrum-overview.adoc[]
 include::{partials}/_story.adoc[]
-
-## Jira Demo
-
+include::{partials}/_jira-demo.adoc[]
 include::{partials}/_delivery-team.adoc[]
 include::{partials}/_product-owner.adoc[]
 include::{partials}/_celebrity-ordering.adoc[]
