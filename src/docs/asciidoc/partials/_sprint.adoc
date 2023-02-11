@@ -1,9 +1,10 @@
 # Sprint
 
-[.columns]
 
 [.columns]
 ## Word of the Day
+
+[.column.is-two-thirds]
 
 - Word: schadenfreude
 - Pronounced: shaw-den-froy-day
@@ -12,14 +13,9 @@
 [.column.is-one-third]
 
 image::dictionary.png[dictionary.png,640,480]
-[.column.is-one-third]
-
-[%step]
-image::devil.png[devil.png,200,200]
-
 
 ## What is a Sprint?
-1 Day to 4 Weeks
+1 to 4 Weeks
 
 image::sprinting.png[sprinting.png,640,480]
 
@@ -62,7 +58,7 @@ plot [0:6][0:110] x**2.5 title 'Risk grows exponentially!'
 [.columns]
 ## Test - Word of the day?
 
-[.column]
+[.column.is-two-thirds]
 [%step]
 - Word: schadenfreude
 - Pronounced: shaw-den-froy-day
