@@ -46,9 +46,9 @@ image::grim-reaper.jpg[grim, 550,550]
 [.columns]
 ## Introduce yourself
 - Name / Current Job role
-- Experience with Agile/scrum
-- What are you hoping to get out of this training
 - What you like to do in your spare time
+- What do you think it means to "Be Agile"
+
 [.column.is-one-third]
 
 image::introduce-yourself.jpg[introduce-yourself.jpg,640,480]
