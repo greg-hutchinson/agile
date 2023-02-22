@@ -17,7 +17,7 @@
       position: absolute;
       bottom: 20px;
       right: 50px;
-      width: 200px;
+      width: 180px;
     }
     #clogo {
       position: absolute;
@@ -27,7 +27,7 @@
     }
 </style>
 <div id="logo">
-Agile Scrum
+MLT   Aikins
 </div>
 <div id="clogo">
 <class="imageblock column"><img src="images/logo-gh-consulting.png" alt="Greg Hutchinson Consulting Inc" width="160" height="140">
