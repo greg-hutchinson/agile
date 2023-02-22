@@ -1,0 +1,57 @@
+:revealjs_theme: sky
+:revealjs_hash: true
+:icons: font
+:customcss: styles\greg.css
+:figure-caption!:
+:tip-caption: 💡
+
+ifndef::partials[:partials: partials]
+ifndef::imagesdir[:imagesdir: images]
+
+
+include::{partials}/_footer.adoc[]
+include::{partials}/_mlt_title.adoc[]
+
+:leveloffset: +1
+
+include::{partials}/_mlt-introduction.adoc[]
+:leveloffset: -1
+
+
+[.columns]
+## Warmup Exercise
+[%step]
+- Your task is to identify the rule to the next number in a list of numbers that I will give you.
+- You can ask me only one question - "Is n the next number in this list".
+- However, you can ask this **any number** of times.
+- When you think that you know the rule you can guess - but you only get 1 guess
+- If you are right - you win.
+- Here is the start of the list:
+    - 2, 4, 6, 8, ...
+
+[.column.is-one-fifth]
+image::thinking-cap.jpg[thinking-cap.jpg,640,480]
+
+
+
+
+## Goals for today
+[cols="3,2"]
+|====
+|Theme | Output
+|How do we continue to meet our commitments to our clients/stakeholders in a more efficient and sustainable manner?
+|To come up with a prioritized list of experiments that help to support the theme
+|====
+
+Why Experiments?
+
+## The Miro Board
+
+
+## And Finally ...
+
+image::thank-you.jpg[thanks, 640,480]
+
+
+
+

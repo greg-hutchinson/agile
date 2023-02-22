@@ -1,0 +1,34 @@
+[.columns]
+# Who am I?
+[.column.is-two-thirds]
+* Software Developer since 1982
+* Computer aided self driven tractors (1985)
+* Consultant for Credit Suisse and UBS banks in Zurich
+* Director of Agile Center of Excellence
+* Agile Coach
+
+[.column]
+image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
+
+
+[.columns]
+## Scuba Diver
+
+[.column.is-two-thirds]
+
+- Red Sea
+- Caribbean
+- Indian Ocean
+- Philippines
+
+[.column]
+image::bio-greg-on-hill.jpg[bio-greg-on-hill.jpg,640,480]
+
+## Duplicate Bridge Player
+
+image::bridge-is-serious.jpeg[bridge-is-serious.jpeg,620,480]
+
+## And I really like Halloween
+image::grim-reaper.jpg[grim, 550,550]
+
+
