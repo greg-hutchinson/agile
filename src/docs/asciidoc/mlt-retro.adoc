@@ -10,7 +10,6 @@ ifndef::imagesdir[:imagesdir: images]
 
 
 include::{partials}/_footer.adoc[]
-include::{partials}/_mlt_title.adoc[]
 
 :leveloffset: +1
 
@@ -32,20 +31,18 @@ include::{partials}/_mlt-introduction.adoc[]
 [.column.is-one-fifth]
 image::thinking-cap.jpg[thinking-cap.jpg,640,480]
 
+include::{partials}/_mlt_title.adoc[]
 
 
-
-## Goals for today
-[cols="3,2"]
-|====
-|Theme | Output
-|How do we continue to meet our commitments to our clients/stakeholders in a more efficient and sustainable manner?
-|To come up with a prioritized list of experiments that help to support the theme
-|====
-
-Why Experiments?
-
-## The Miro Board
+## Retrospective
+[.smaller-bullet]
+* Everyone will write down some ideas as stickys related to the topics on the Miro Board
+* We will talk about each one quickly to understand what the sticky is about
+* We will group them if they are similar
+* We will vote on which themes we think are the most important 
+* We will break into 2 groups to discuss the top 2 themes. Each group will try and come up with an experiment to try over the next month in which they believe the process can be improved.
+* The format of the experiment should look like the bottom of this 
+https://miro.com/app/board/uXjVPz1FzKg=/?share_link_id=917319127358[Miro Board]
 
 
 ## And Finally ...
