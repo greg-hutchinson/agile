@@ -1,5 +1,7 @@
+:title-slide-transition: zoom
 :revealjs_theme: sky
 :revealjs_hash: true
+:revealjs_center: false
 :icons: font
 :customcss: styles\greg.css
 :figure-caption!:
