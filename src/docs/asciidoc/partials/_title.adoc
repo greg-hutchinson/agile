@@ -2,7 +2,7 @@
 ifndef::imagesdir[:imagesdir: ../images]
 
 [#agile-logo]
-image::agile.jpeg[dfsfdsa, 480, 240]
+image::agile.jpeg[dfsfdsa, 600, 350]
 
 [#subtitle]
 Where Theory Meets Practice
