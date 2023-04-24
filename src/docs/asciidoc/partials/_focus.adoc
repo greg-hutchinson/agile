@@ -3,9 +3,12 @@
 
 image::story.jpeg[focus.jpeg,640,480]
 
+## Facts
 * Humans can't multitask
-* Distractions cost more time than just the distraction itself.
-* Context switch
+* Distractions cost more time than just the distraction itself because of 
+
+
+Context Switching
 
 ## Studies
 image::context-switching.png[twice-as-big.png,640,480]
