@@ -1,7 +1,6 @@
 ifndef::imagesdir[:imagesdir: images]
 
 # User Story
-Aka - Feature - SAFe
 
 image::story.jpeg[story.jpeg,640,480]
 
@@ -26,12 +25,12 @@ I want to [be able to] +
 So that I can [justification]
 
 
-## Epics, Stories, Tasks
+## Features (Epic), Stories, Tasks
 
 image::epic-breakdown.png[epic-breakdown.png,640,480]
 [.notes]
 --
-- Epics are just a grouping of Stories
+- Features are just a grouping of Stories
 - Story splitting is discussed later
 - Tasks can have other tasks 
 --
